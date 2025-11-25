@@ -94,7 +94,7 @@ A final, clean report.md suitable for marketers and executives.
 
  # Project Structure
 
-# Agentic_Facebook_Performance_Analyst/
+Agentic_Facebook_Performance_Analyst/
 │
 ├─ src/
 │   ├─ run.py
