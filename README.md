@@ -1,4 +1,4 @@
-Kasparro Agentic Facebook Performance Analyst
+# Kasparro Agentic Facebook Performance Analyst
 
 A fully autonomous multi-agent system that analyzes Facebook Ads performance, explains ROAS/CTR fluctuations, and generates new high-performing creative ideas — all using a structured, explainable, agent-driven pipeline.
 
@@ -92,7 +92,7 @@ A/B test-ready variants
 A final, clean report.md suitable for marketers and executives.
 
 
-# Project Structure
+## Project Structure
 
 Agentic_Facebook_Performance_Analyst/
 │
@@ -128,6 +128,42 @@ Agentic_Facebook_Performance_Analyst/
 ├─ agent_graph.md
 ├─ design_rationale.md
 └─ README.md
+
+
+
+src/
+  agents/
+    planner.py
+    data_agent.py
+    insight_agent.py
+    evaluator.py
+    creative_agent.py
+  run.py
+
+prompts/
+  planner_prompt.md
+  data_prompt.md
+  insight_prompt.md
+  evaluator_prompt.md
+  creative_prompt.md
+
+reports/
+  insights.json
+  creatives.json
+  report.md
+
+logs/
+samples/
+config/
+data/
+  synthetic_fb_ads_undergarments.csv
+
+agent_graph.md
+design_rationale.md
+README.md
+requirements.txt
+run_example.sh
+
 
 
 
