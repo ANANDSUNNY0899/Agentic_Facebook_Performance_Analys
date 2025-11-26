@@ -120,20 +120,25 @@ kasparro-agentic-fb-analyst-sunny-anand/
 
 ## Validation Logic (Evaluator Agent)
      
-    Hypothesis confidence is based on:
+Hypothesis confidence is based on:
 
-    Metric	Description
-    CTR Shift	% change between prior vs recent 7-day windows
-    Minimum impressions	Ensures statistical significance
-    Directional consistency	Does ROAS drop align with CTR drop?
+| Metric             |        Meaning                     |
+| ------------------ | ---------------------------------- |
+| **CTR Shift**      | Prior vs recent 7-day CTR change   |
+| **Impressions**    | Ensures statistical significance   |
+| **ROAS Direction** | Whether leads align with ROAS drop |
 
-    Supported hypothesis conditions:
 
-    CTR decreased ≥ 25%
 
-    Impressions in recent window ≥ 5000
+Supported Hypothesis Conditions
 
-    Confidence boosted if ROAS also dropped
+   * CTR drop ≥ 25%
+
+   * Recent impressions ≥ 5000
+
+   * Boost confidence if ROAS also dropped
+
+
 
 
 ## Creative Generation Logic (Creative Agent)
@@ -150,7 +155,7 @@ Each low-CTR campaign gets:
     "metric": "CTR", "duration_days": 7
 
 
-## Exxample Run Output
+## Example Run Output
 
     Men ComfortMax Lau Ch — supported
     CTR dropped by -55.6%
@@ -176,21 +181,28 @@ Each low-CTR campaign gets:
 
    These logs make the agent pipeline evaluatable & debuggable.
 
-## Release  
-   Create release: v1.0
+## Release(v1.0)
    Commit Hash: 92ac8e5
 
-        File	                                   Link
 
-Final Report (report.md)  ----> 	             https://github.com/ANANDSUNNY0899/kasparro-agentic-fb-analyst-sunny-anand/blob/main/reports/report.md
+   File                                                  Link
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Final Report(reports.md)                                 https://github.com/ANANDSUNNY0899/kasparro-agentic-fb-analyst-sunny-anand/blob/main/reports/report.md
 
-Validated Insights (insights.json) ---->	     https://github.com/ANANDSUNNY0899/kasparro-agentic-fb-analyst-sunny-anand/blob/main/reports/insights.json
+Validated Insights(insights.json)                        https://github.com/ANANDSUNNY0899/kasparro-agentic-fb-analyst-sunny-anand/blob/main/reports/insights.json
 
-Creative Recommendations (creatives.json) ---->	 https://github.com/ANANDSUNNY0899/kasparro-agentic-fb-analyst-sunny-anand-sunny-anand/blob/main/reports/creatives.json
+Creative Recommendations (creatives.json)                https://github.com/ANANDSUNNY0899/kasparro-agentic-fb-analyst-sunny-anand/blob/main/reports/creatives.json
+
+
+## Command Used For Generation
+
+    python src/run.py "Analyze ROAS drop"
+            
+            
 
 ## Self-Review PR
-    Create PR:
-      Title: self-review
+    Create PR with titles:
+      “Self Review — Kasparro Agentic FB Analyst Assignment”
 
 
 
