@@ -1,0 +1,6610 @@
+{
+  "hypotheses": [
+    {
+      "campaign_name": "Men ComfortMax Launch",
+      "prior_ctr": 0.01359639669009822,
+      "recent_ctr": 0.012617541440164375,
+      "pct_change": -7.199372541452186,
+      "recent_imps": 1717054,
+      "keywords": [
+        "men",
+        "briefs",
+        "athletic",
+        "that",
+        "you",
+        "inner"
+      ],
+      "reasons": [
+        "CTR decreased by -7.2%"
+      ]
+    },
+    {
+      "campaign_name": "Men  ComfortMax  Launch",
+      "prior_ctr": 0.01437815700553977,
+      "recent_ctr": 0.017502847437116924,
+      "pct_change": 21.73220413696442,
+      "recent_imps": 1054457,
+      "keywords": [
+        "men",
+        "briefs",
+        "boxers",
+        "athletic",
+        "for",
+        "that"
+      ],
+      "reasons": [
+        "CTR increased by 21.7%"
+      ]
+    },
+    {
+      "campaign_name": "Men_ComfortMax_Launch",
+      "prior_ctr": 0.016239311874956915,
+      "recent_ctr": 0.01437421095974183,
+      "pct_change": -11.48509819613298,
+      "recent_imps": 1599253,
+      "keywords": [
+        "men",
+        "briefs",
+        "our",
+        "day",
+        "boxers",
+        "comfort"
+      ],
+      "reasons": [
+        "CTR decreased by -11.5%"
+      ]
+    },
+    {
+      "campaign_name": "Men Comfortmax Launch",
+      "prior_ctr": 0.013994235354018754,
+      "recent_ctr": 0.016060501424699742,
+      "pct_change": 14.765123055384471,
+      "recent_imps": 1091809,
+      "keywords": [
+        "men",
+        "briefs",
+        "athletic",
+        "that",
+        "trunks",
+        "seamless"
+      ],
+      "reasons": [
+        "CTR increased by 14.8%"
+      ]
+    },
+    {
+      "campaign_name": "MEN COMFORTMAX LAUNCH",
+      "prior_ctr": 0.018928748464983422,
+      "recent_ctr": 0.01501666691845518,
+      "pct_change": -20.667407323655134,
+      "recent_imps": 1125283,
+      "keywords": [
+        "men",
+        "briefs",
+        "seamless",
+        "athletic",
+        "boxers",
+        "with"
+      ],
+      "reasons": [
+        "CTR decreased by -20.7%"
+      ]
+    },
+    {
+      "campaign_name": "Men Comfortmax Lunch",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "push",
+        "comfort",
+        "not",
+        "wires",
+        "everyday",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "men co fortmax launch",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "all",
+        "day",
+        "comfort",
+        "zero",
+        "pinch",
+        "try"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men ComfortMax Lunch",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ride",
+        "guarantee",
+        "best",
+        "selling",
+        "men",
+        "athletic"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "men comfortmax launch",
+      "prior_ctr": 0.01622921619484194,
+      "recent_ctr": 0.016768904626611937,
+      "pct_change": 3.3254127943746603,
+      "recent_imps": 1028809,
+      "keywords": [
+        "men",
+        "that",
+        "soft",
+        "trunks",
+        "briefs",
+        "boxers"
+      ],
+      "reasons": [
+        "CTR increased by 3.3%"
+      ]
+    },
+    {
+      "campaign_name": "Men Comfortmax Lau ch",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "confidence",
+        "starts",
+        "inside",
+        "elevate",
+        "with",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men Comfort-ax Launch",
+      "prior_ctr": 0.016927842840952022,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "stretch",
+        "that",
+        "snaps",
+        "back",
+        "durable",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men ComfortMax L unch",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "stretch",
+        "that",
+        "snaps",
+        "back",
+        "durable",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Mn ComfortMax Launch",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "push",
+        "comfort",
+        "not",
+        "wires",
+        "everyday",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men Comf-rtMax Launch",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "men",
+        "stretch",
+        "that",
+        "snaps",
+        "back",
+        "durable"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men  Comf rtMax  Launch",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "doctors",
+        "recommend",
+        "breathable",
+        "bamboo",
+        "meet",
+        "our"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN COMF RTMAX LAUNCH",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "breathable",
+        "microfiber",
+        "that",
+        "moves",
+        "with",
+        "you"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men ComfortMax_Launch",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "summer",
+        "ready",
+        "essentials",
+        "sweat",
+        "wicking",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men Comfo tmax Launch",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "summer",
+        "ready",
+        "essentials",
+        "sweat",
+        "wicking",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men_Com-ortMax_Launch",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "doctors",
+        "recommend",
+        "breathable",
+        "bamboo",
+        "meet",
+        "our"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men  Co fortMax  Launch",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "summer",
+        "ready",
+        "essentials",
+        "sweat",
+        "wicking",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men  CofortMax  Launch",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ride",
+        "guarantee",
+        "best",
+        "selling",
+        "men",
+        "briefs"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "men comfor-max launch",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "seamless",
+        "confidence",
+        "for",
+        "every",
+        "day",
+        "new"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men ComforMax Launch",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "doctors",
+        "recommend",
+        "breathable",
+        "microfiber",
+        "meet",
+        "our"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men ComfortMax Lau-ch",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "soft",
+        "men",
+        "ultra",
+        "waistband",
+        "marks",
+        "premium"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "en_ComfortMax_Launch",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "push",
+        "comfort",
+        "not",
+        "wires",
+        "everyday",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "men comfotmax launch",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "doctors",
+        "recommend",
+        "breathable",
+        "bamboo",
+        "meet",
+        "our"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MenComfortmax Launch",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "wire",
+        "free",
+        "ease",
+        "cloud",
+        "soft",
+        "cups"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men  C-mfortMax  Launch",
+      "prior_ctr": 0.01364306784660767,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "wire",
+        "free",
+        "ease",
+        "cloud",
+        "soft",
+        "cups"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN COMFORTMAX  AUNCH",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "summer",
+        "ready",
+        "essentials",
+        "sweat",
+        "wicking",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN COMFORTMA LAUNCH",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "invisible",
+        "under",
+        "tees",
+        "seamless",
+        "men",
+        "briefs"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "en comfortmax launch",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "all",
+        "day",
+        "comfort",
+        "zero",
+        "pinch",
+        "try"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men Comfortma- Launch",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "all",
+        "day",
+        "comfort",
+        "zero",
+        "pinch",
+        "try"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men_Co fortMax_Launch",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "breathable",
+        "modal",
+        "that",
+        "moves",
+        "with",
+        "you"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men_Comf-rtMax_Launch",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "cooling",
+        "mesh",
+        "panels",
+        "for",
+        "workouts",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men-Comfortmax Launch",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "cooling",
+        "mesh",
+        "panels",
+        "for",
+        "workouts",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men Comfo tMax Launch",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "doctors",
+        "recommend",
+        "breathable",
+        "bamboo",
+        "meet",
+        "our"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "men omfortmax launch",
+      "prior_ctr": null,
+      "recent_ctr": 0.021997599393279495,
+      "pct_change": null,
+      "recent_imps": 502373,
+      "keywords": [
+        "pack",
+        "deal",
+        "ends",
+        "tonight",
+        "upgrade",
+        "your"
+      ],
+      "reasons": [
+        "Insufficient CTR data"
+      ]
+    },
+    {
+      "campaign_name": "Men  ComfortMa-  Launch",
+      "prior_ctr": null,
+      "recent_ctr": 0.015429175417644717,
+      "pct_change": null,
+      "recent_imps": 218547,
+      "keywords": [
+        "wire",
+        "free",
+        "ease",
+        "cloud",
+        "soft",
+        "cups"
+      ],
+      "reasons": [
+        "Insufficient CTR data"
+      ]
+    },
+    {
+      "campaign_name": "Men  C mfortMax  Launch",
+      "prior_ctr": null,
+      "recent_ctr": 0.018483084117336217,
+      "pct_change": null,
+      "recent_imps": 414433,
+      "keywords": [
+        "stretch",
+        "that",
+        "snaps",
+        "back",
+        "durable",
+        "men"
+      ],
+      "reasons": [
+        "Insufficient CTR data"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN Seamless Everyday",
+      "prior_ctr": 0.0059960990128871015,
+      "recent_ctr": 0.008185628035617917,
+      "pct_change": 36.51589171601362,
+      "recent_imps": 3320576,
+      "keywords": [
+        "women",
+        "bras",
+        "wire",
+        "free",
+        "boyshorts",
+        "soft"
+      ],
+      "reasons": [
+        "CTR increased by 36.5%"
+      ]
+    },
+    {
+      "campaign_name": "Women Seamless Everyday",
+      "prior_ctr": 0.004697133890366265,
+      "recent_ctr": 0.009752715507279871,
+      "pct_change": 107.63120096028156,
+      "recent_imps": 237985,
+      "keywords": [
+        "women",
+        "bras",
+        "wire",
+        "free",
+        "panties",
+        "comfort"
+      ],
+      "reasons": [
+        "CTR increased by 107.6%"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN  Seamless  Everyday",
+      "prior_ctr": 0.005346301463238455,
+      "recent_ctr": 0.007835917328264372,
+      "pct_change": 46.56706850791507,
+      "recent_imps": 1656092,
+      "keywords": [
+        "women",
+        "bras",
+        "wire",
+        "free",
+        "sports",
+        "that"
+      ],
+      "reasons": [
+        "CTR increased by 46.6%"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN_Seamless_Everyday",
+      "prior_ctr": 0.007924846505221288,
+      "recent_ctr": 0.006868226010162821,
+      "pct_change": -13.33300896569179,
+      "recent_imps": 817096,
+      "keywords": [
+        "women",
+        "bras",
+        "wire",
+        "free",
+        "sports",
+        "panties"
+      ],
+      "reasons": [
+        "CTR decreased by -13.3%"
+      ]
+    },
+    {
+      "campaign_name": "women seamless everyday",
+      "prior_ctr": 0.008163184422923592,
+      "recent_ctr": 0.008652882123152704,
+      "pct_change": 5.998856265625436,
+      "recent_imps": 836831,
+      "keywords": [
+        "women",
+        "bras",
+        "boyshorts",
+        "breathable",
+        "panties",
+        "that"
+      ],
+      "reasons": [
+        "CTR increased by 6.0%"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN SEAMLESS EVERYDAY",
+      "prior_ctr": 0.006454907918850133,
+      "recent_ctr": 0.006409645074221029,
+      "pct_change": -0.7012159615309812,
+      "recent_imps": 901766,
+      "keywords": [
+        "women",
+        "bras",
+        "wire",
+        "free",
+        "boyshorts",
+        "soft"
+      ],
+      "reasons": [
+        "CTR decreased by -0.7%"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN SEAMLESS EVE YDAY",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "invisible",
+        "under",
+        "tees",
+        "seamless",
+        "women",
+        "wire"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOME SEAMLESS EVERYDAY",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ultra",
+        "soft",
+        "waistband",
+        "marks",
+        "premium",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN_Seamless_Ever-day",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "pack",
+        "deal",
+        "ends",
+        "tonight",
+        "upgrade",
+        "your"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women seam-ess everyday",
+      "prior_ctr": null,
+      "recent_ctr": 0.00917377812257564,
+      "pct_change": null,
+      "recent_imps": 257800,
+      "keywords": [
+        "ultra",
+        "soft",
+        "waistband",
+        "marks",
+        "premium",
+        "women"
+      ],
+      "reasons": [
+        "Insufficient CTR data"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN Seamless E eryday",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ultra",
+        "soft",
+        "waistband",
+        "marks",
+        "premium",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN SEAM ESS EVERYDAY",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "stretch",
+        "that",
+        "snaps",
+        "back",
+        "durable",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women seamless everday",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "cooling",
+        "mesh",
+        "panels",
+        "for",
+        "workouts",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women s amless everyday",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "with",
+        "women",
+        "bras",
+        "confidence",
+        "starts",
+        "inside"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN Semless Everyday",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "wire",
+        "free",
+        "ease",
+        "cloud",
+        "soft",
+        "cups"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN SEAMLESS EV RYDAY",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "invisible",
+        "under",
+        "tees",
+        "seamless",
+        "women",
+        "panties"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WomenSeamless Everyday",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "breathable",
+        "modal",
+        "that",
+        "moves",
+        "with",
+        "you"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women seamless-everyday",
+      "prior_ctr": null,
+      "recent_ctr": 0.00894467052862383,
+      "pct_change": null,
+      "recent_imps": 338861,
+      "keywords": [
+        "confidence",
+        "starts",
+        "inside",
+        "elevate",
+        "with",
+        "women"
+      ],
+      "reasons": [
+        "Insufficient CTR data"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN Seamless Eeryday",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "doctors",
+        "recommend",
+        "breathable",
+        "organic",
+        "cotton",
+        "meet"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN  -eamless  Everyday",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "pack",
+        "deal",
+        "ends",
+        "tonight",
+        "upgrade",
+        "your"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women seamess everyday",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "pack",
+        "deal",
+        "ends",
+        "tonight",
+        "upgrade",
+        "your"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women Seamless Eve yday",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "push",
+        "comfort",
+        "not",
+        "wires",
+        "everyday",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN  Seamless- Everyday",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "women",
+        "bras",
+        "ride",
+        "guarantee",
+        "best",
+        "selling"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women Semless Everyday",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "wire",
+        "free",
+        "ease",
+        "cloud",
+        "soft",
+        "cups"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WMEN Seamless Everyday",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "summer",
+        "ready",
+        "essentials",
+        "sweat",
+        "wicking",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN Seamless Everydy",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "doctors",
+        "recommend",
+        "breathable",
+        "organic",
+        "cotton",
+        "meet"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMENSeamless Everyday",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "pack",
+        "deal",
+        "ends",
+        "tonight",
+        "upgrade",
+        "your"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN  Seamles   Everyday",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ride",
+        "guarantee",
+        "best",
+        "selling",
+        "women",
+        "panties"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women Se mless Everyday",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "confidence",
+        "starts",
+        "inside",
+        "elevate",
+        "with",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women seaml-ss everyday",
+      "prior_ctr": 0.010577306312659043,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "all",
+        "day",
+        "comfort",
+        "zero",
+        "pinch",
+        "try"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "wo-en seamless everyday",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "push",
+        "comfort",
+        "not",
+        "wires",
+        "everyday",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN eamless Everyday",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ultra",
+        "soft",
+        "waistband",
+        "marks",
+        "premium",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN  Seamless  Eve yday",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "pack",
+        "deal",
+        "ends",
+        "tonight",
+        "upgrade",
+        "your"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN | ATHLEISURE COOLING",
+      "prior_ctr": 0.02351410293579968,
+      "recent_ctr": 0.01602488192243777,
+      "pct_change": -31.84991166284189,
+      "recent_imps": 1532679,
+      "keywords": [
+        "men",
+        "briefs",
+        "trunks",
+        "boxers",
+        "that",
+        "you"
+      ],
+      "reasons": [
+        "CTR decreased by -31.8%"
+      ]
+    },
+    {
+      "campaign_name": "Men | Athleisure Cooling",
+      "prior_ctr": 0.020222726199432203,
+      "recent_ctr": 0.02276730125147586,
+      "pct_change": 12.582749857509826,
+      "recent_imps": 2914399,
+      "keywords": [
+        "men",
+        "briefs",
+        "that",
+        "boxers",
+        "inner",
+        "vests"
+      ],
+      "reasons": [
+        "CTR increased by 12.6%"
+      ]
+    },
+    {
+      "campaign_name": "Men_|_Athleisure_Cooling",
+      "prior_ctr": 0.02062575647242153,
+      "recent_ctr": 0.020028995640006885,
+      "pct_change": -2.8932797360066194,
+      "recent_imps": 563533,
+      "keywords": [
+        "men",
+        "briefs",
+        "that",
+        "with",
+        "you",
+        "breathable"
+      ],
+      "reasons": [
+        "CTR decreased by -2.9%"
+      ]
+    },
+    {
+      "campaign_name": "men | athleisure cooling",
+      "prior_ctr": 0.019734442615355802,
+      "recent_ctr": 0.016677924975649523,
+      "pct_change": -15.488239010753391,
+      "recent_imps": 1045154,
+      "keywords": [
+        "men",
+        "briefs",
+        "that",
+        "boxers",
+        "athletic",
+        "soft"
+      ],
+      "reasons": [
+        "CTR decreased by -15.5%"
+      ]
+    },
+    {
+      "campaign_name": "Men  |  Athleisure  Cooling",
+      "prior_ctr": 0.022694581102152812,
+      "recent_ctr": 0.02286370858952589,
+      "pct_change": 0.7452329109394049,
+      "recent_imps": 825063,
+      "keywords": [
+        "men",
+        "briefs",
+        "boxers",
+        "athletic",
+        "trunks",
+        "that"
+      ],
+      "reasons": [
+        "CTR increased by 0.7%"
+      ]
+    },
+    {
+      "campaign_name": "Men-Athleisure Cooling",
+      "prior_ctr": 0.01923498278319286,
+      "recent_ctr": 0.021081262502493956,
+      "pct_change": 9.59855145237946,
+      "recent_imps": 1719157,
+      "keywords": [
+        "men",
+        "briefs",
+        "trunks",
+        "athletic",
+        "with",
+        "boxers"
+      ],
+      "reasons": [
+        "CTR increased by 9.6%"
+      ]
+    },
+    {
+      "campaign_name": "m n | athleisure cooling",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "men",
+        "for",
+        "boxers",
+        "cooling",
+        "mesh",
+        "panels"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men_|_Athleiure_Cooling",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "seamless",
+        "confidence",
+        "for",
+        "every",
+        "day",
+        "new"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men | Ath eisure Cooling",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "breathable",
+        "organic",
+        "cotton",
+        "that",
+        "moves",
+        "with"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men | Athleisur- Cooling",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "cooling",
+        "mesh",
+        "panels",
+        "for",
+        "workouts",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men-thleisure Cooling",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "pack",
+        "deal",
+        "ends",
+        "tonight",
+        "upgrade",
+        "your"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men |Athleisure Cooling",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "stretch",
+        "that",
+        "snaps",
+        "back",
+        "durable",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men   Athleisure Cooling",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ride",
+        "guarantee",
+        "best",
+        "selling",
+        "men",
+        "athletic"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men  |  Athleisure  Coling",
+      "prior_ctr": 0.020029311187103077,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ultra",
+        "soft",
+        "waistband",
+        "marks",
+        "premium",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men_|_Atleisure_Cooling",
+      "prior_ctr": null,
+      "recent_ctr": 0.017206363930232886,
+      "pct_change": null,
+      "recent_imps": 284604,
+      "keywords": [
+        "all",
+        "day",
+        "comfort",
+        "zero",
+        "pinch",
+        "try"
+      ],
+      "reasons": [
+        "Insufficient CTR data"
+      ]
+    },
+    {
+      "campaign_name": "mn | athleisure cooling",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "summer",
+        "ready",
+        "essentials",
+        "sweat",
+        "wicking",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN | ATHLEISURECOOLING",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ultra",
+        "soft",
+        "waistband",
+        "marks",
+        "premium",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men-Athleisure Cooli-g",
+      "prior_ctr": null,
+      "recent_ctr": 0.025554251434533125,
+      "pct_change": null,
+      "recent_imps": 460080,
+      "keywords": [
+        "hot",
+        "comfy",
+        "men",
+        "boxers",
+        "now",
+        "off"
+      ],
+      "reasons": [
+        "Insufficient CTR data"
+      ]
+    },
+    {
+      "campaign_name": "Men  |  Athleisure Cooling",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "cooling",
+        "mesh",
+        "panels",
+        "for",
+        "workouts",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Me- | Athleisure Cooling",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "all",
+        "day",
+        "comfort",
+        "zero",
+        "pinch",
+        "try"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men | thleisure Cooling",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "invisible",
+        "under",
+        "tees",
+        "seamless",
+        "men",
+        "boxers"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men  |  Athleisure  Co ling",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "confidence",
+        "starts",
+        "inside",
+        "elevate",
+        "with",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men | Athleis re Cooling",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ultra",
+        "soft",
+        "waistband",
+        "marks",
+        "premium",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men  |  Athlei ure  Cooling",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "doctors",
+        "recommend",
+        "breathable",
+        "bamboo",
+        "meet",
+        "our"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "men | athlisure cooling",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "stretch",
+        "that",
+        "snaps",
+        "back",
+        "durable",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN| ATHLEISURE COOLING",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "breathable",
+        "bamboo",
+        "that",
+        "moves",
+        "with",
+        "you"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men | Athlei ure Cooling",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ride",
+        "guarantee",
+        "best",
+        "selling",
+        "men",
+        "athletic"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men | Athlei-ure Cooling",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "hot",
+        "comfy",
+        "men",
+        "briefs",
+        "now",
+        "off"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men -|  Athleisure  Cooling",
+      "prior_ctr": 0.0,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "wire",
+        "free",
+        "ease",
+        "cloud",
+        "soft",
+        "cups"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women Summer Invi-ible",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "seamless",
+        "confidence",
+        "for",
+        "every",
+        "day",
+        "new"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women  Summer  -nvisible",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "confidence",
+        "starts",
+        "inside",
+        "elevate",
+        "with",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women summer invisible",
+      "prior_ctr": 0.009835232118962178,
+      "recent_ctr": 0.010423954656583365,
+      "pct_change": 5.985853007842478,
+      "recent_imps": 1272070,
+      "keywords": [
+        "women",
+        "bras",
+        "panties",
+        "you",
+        "wire",
+        "free"
+      ],
+      "reasons": [
+        "CTR increased by 6.0%"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN SUMMER INVISIBLE",
+      "prior_ctr": 0.010568699038426757,
+      "recent_ctr": 0.010186126213240977,
+      "pct_change": -3.619866776362756,
+      "recent_imps": 608082,
+      "keywords": [
+        "women",
+        "bras",
+        "wire",
+        "free",
+        "sports",
+        "confidence"
+      ],
+      "reasons": [
+        "CTR decreased by -3.6%"
+      ]
+    },
+    {
+      "campaign_name": "women Summer Invisible",
+      "prior_ctr": 0.010253617110717237,
+      "recent_ctr": 0.01072867557326123,
+      "pct_change": 4.633081744855235,
+      "recent_imps": 4803482,
+      "keywords": [
+        "women",
+        "bras",
+        "wire",
+        "free",
+        "sports",
+        "confidence"
+      ],
+      "reasons": [
+        "CTR increased by 4.6%"
+      ]
+    },
+    {
+      "campaign_name": "women_Summer_Invisible",
+      "prior_ctr": 0.012338981330714548,
+      "recent_ctr": 0.009385838730640887,
+      "pct_change": -23.933439243664417,
+      "recent_imps": 684755,
+      "keywords": [
+        "women",
+        "bras",
+        "sports",
+        "wire",
+        "free",
+        "boyshorts"
+      ],
+      "reasons": [
+        "CTR decreased by -23.9%"
+      ]
+    },
+    {
+      "campaign_name": "women  -ummer  Invisible",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "all",
+        "day",
+        "comfort",
+        "zero",
+        "pinch",
+        "try"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women  Summer  Invisible",
+      "prior_ctr": 0.009056119634633899,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "women",
+        "bras",
+        "wire",
+        "free",
+        "soft",
+        "sports"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": " omen Summer Invisible",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "summer",
+        "ready",
+        "essentials",
+        "sweat",
+        "wicking",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women Summer Invisible",
+      "prior_ctr": 0.011164989287503209,
+      "recent_ctr": 0.009345734894351178,
+      "pct_change": -16.294277999785393,
+      "recent_imps": 1413693,
+      "keywords": [
+        "women",
+        "bras",
+        "boyshorts",
+        "panties",
+        "seamless",
+        "day"
+      ],
+      "reasons": [
+        "CTR decreased by -16.3%"
+      ]
+    },
+    {
+      "campaign_name": "Women Sum er Invisible",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "breathable",
+        "bamboo",
+        "that",
+        "moves",
+        "with",
+        "you"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women Summer Invisi-le",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "invisible",
+        "under",
+        "tees",
+        "seamless",
+        "women",
+        "sports"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women  Summ r  Invisible",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "hot",
+        "comfy",
+        "women",
+        "bras",
+        "now",
+        "off"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women s-mmer invisible",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "summer",
+        "ready",
+        "essentials",
+        "sweat",
+        "wicking",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women Summer Invisble",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ultra",
+        "soft",
+        "waistband",
+        "marks",
+        "premium",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "omen Summer Invisible",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "all",
+        "day",
+        "comfort",
+        "zero",
+        "pinch",
+        "try"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN SUMMER INVSIBLE",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "all",
+        "day",
+        "comfort",
+        "zero",
+        "pinch",
+        "try"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women Summ-r Invisible",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "seamless",
+        "confidence",
+        "for",
+        "every",
+        "day",
+        "new"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women Su mer Invisible",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "cooling",
+        "mesh",
+        "panels",
+        "for",
+        "workouts",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women summer in isible",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "summer",
+        "ready",
+        "essentials",
+        "sweat",
+        "wicking",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women Summer In-isible",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "summer",
+        "ready",
+        "essentials",
+        "sweat",
+        "wicking",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women  Summer  Invisib e",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "breathable",
+        "bamboo",
+        "that",
+        "moves",
+        "with",
+        "you"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women  Summer  Invi ible",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "summer",
+        "ready",
+        "essentials",
+        "sweat",
+        "wicking",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "-omen summer invisible",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "confidence",
+        "starts",
+        "inside",
+        "elevate",
+        "with",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women Summer In isible",
+      "prior_ctr": 0.012924382716049383,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "hot",
+        "comfy",
+        "women",
+        "sports",
+        "bras",
+        "now"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN SUMMER INVISIBE",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "seamless",
+        "confidence",
+        "for",
+        "every",
+        "day",
+        "new"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women Summer In-isible",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "doctors",
+        "recommend",
+        "breathable",
+        "cotton",
+        "meet",
+        "our"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women_Summer_Inisible",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "push",
+        "comfort",
+        "not",
+        "wires",
+        "everyday",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "wome  Summer Invisible",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "invisible",
+        "under",
+        "tees",
+        "seamless",
+        "women",
+        "boyshorts"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women summe- invisible",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "push",
+        "comfort",
+        "not",
+        "wires",
+        "everyday",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women_Summe _Invisible",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "stretch",
+        "that",
+        "snaps",
+        "back",
+        "durable",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women_Summer_Invisi-le",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "invisible",
+        "under",
+        "tees",
+        "seamless",
+        "women",
+        "sports"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "womn  Summer  Invisible",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ride",
+        "guarantee",
+        "best",
+        "selling",
+        "women",
+        "bras"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women Summer Invisi-le",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ultra",
+        "soft",
+        "waistband",
+        "marks",
+        "premium",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women Summ-r Invisible",
+      "prior_ctr": null,
+      "recent_ctr": 0.011334103378573492,
+      "pct_change": null,
+      "recent_imps": 13852,
+      "keywords": [
+        "hot",
+        "comfy",
+        "women",
+        "wire",
+        "free",
+        "bras"
+      ],
+      "reasons": [
+        "Insufficient CTR data"
+      ]
+    },
+    {
+      "campaign_name": "women Summer Inv-sible",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "breathable",
+        "modal",
+        "that",
+        "moves",
+        "with",
+        "you"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women Summer  nvisible",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "cooling",
+        "mesh",
+        "panels",
+        "for",
+        "workouts",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "woen  Summer  Invisible",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "all",
+        "day",
+        "comfort",
+        "zero",
+        "pinch",
+        "try"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "wom-n_Summer_Invisible",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "invisible",
+        "under",
+        "tees",
+        "seamless",
+        "women",
+        "panties"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women su-mer invisible",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "push",
+        "comfort",
+        "not",
+        "wires",
+        "everyday",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN SUMMER I VISIBLE",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "seamless",
+        "confidence",
+        "for",
+        "every",
+        "day",
+        "new"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "W men Summer Invisible",
+      "prior_ctr": null,
+      "recent_ctr": 0.008323810225974122,
+      "pct_change": null,
+      "recent_imps": 271270,
+      "keywords": [
+        "ride",
+        "guarantee",
+        "best",
+        "selling",
+        "women",
+        "bras"
+      ],
+      "reasons": [
+        "Insufficient CTR data"
+      ]
+    },
+    {
+      "campaign_name": "woen Summer Invisible",
+      "prior_ctr": null,
+      "recent_ctr": 0.011833008059004968,
+      "pct_change": null,
+      "recent_imps": 162427,
+      "keywords": [
+        "cooling",
+        "mesh",
+        "panels",
+        "for",
+        "workouts",
+        "women"
+      ],
+      "reasons": [
+        "Insufficient CTR data"
+      ]
+    },
+    {
+      "campaign_name": "MEN_Signature_Soft",
+      "prior_ctr": 0.008844082941917745,
+      "recent_ctr": 0.015733622089875474,
+      "pct_change": 77.89998344886402,
+      "recent_imps": 92350,
+      "keywords": [
+        "men",
+        "briefs",
+        "boxers",
+        "with",
+        "trunks",
+        "athletic"
+      ],
+      "reasons": [
+        "CTR increased by 77.9%"
+      ]
+    },
+    {
+      "campaign_name": "MEN Signature Soft",
+      "prior_ctr": 0.014079922694748467,
+      "recent_ctr": 0.013933751288720845,
+      "pct_change": -1.0381548904536302,
+      "recent_imps": 4432690,
+      "keywords": [
+        "men",
+        "briefs",
+        "inner",
+        "vests",
+        "athletic",
+        "that"
+      ],
+      "reasons": [
+        "CTR decreased by -1.0%"
+      ]
+    },
+    {
+      "campaign_name": "men signature soft",
+      "prior_ctr": 0.013090559724444893,
+      "recent_ctr": 0.01512596568590821,
+      "pct_change": 15.548654941487838,
+      "recent_imps": 1110739,
+      "keywords": [
+        "men",
+        "inner",
+        "vests",
+        "briefs",
+        "that",
+        "with"
+      ],
+      "reasons": [
+        "CTR increased by 15.5%"
+      ]
+    },
+    {
+      "campaign_name": "MEN Signatu e Soft",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "breathable",
+        "bamboo",
+        "that",
+        "moves",
+        "with",
+        "you"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN  Signature  Soft",
+      "prior_ctr": 0.010210289707885503,
+      "recent_ctr": 0.012113967841667912,
+      "pct_change": 18.644702434958145,
+      "recent_imps": 174014,
+      "keywords": [
+        "men",
+        "briefs",
+        "comfort",
+        "inner",
+        "vests",
+        "day"
+      ],
+      "reasons": [
+        "CTR increased by 18.6%"
+      ]
+    },
+    {
+      "campaign_name": "MEN SIGNATURE SOFT",
+      "prior_ctr": 0.014981764631438466,
+      "recent_ctr": 0.015525290675937069,
+      "pct_change": 3.6279173907060454,
+      "recent_imps": 708779,
+      "keywords": [
+        "men",
+        "briefs",
+        "trunks",
+        "you",
+        "athletic",
+        "with"
+      ],
+      "reasons": [
+        "CTR increased by 3.6%"
+      ]
+    },
+    {
+      "campaign_name": "MEN Signatre Soft",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "seamless",
+        "confidence",
+        "for",
+        "every",
+        "day",
+        "new"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men Signature Soft",
+      "prior_ctr": 0.013518982886806565,
+      "recent_ctr": 0.016342153366231613,
+      "pct_change": 20.88300949164034,
+      "recent_imps": 1420743,
+      "keywords": [
+        "men",
+        "briefs",
+        "boxers",
+        "with",
+        "that",
+        "seamless"
+      ],
+      "reasons": [
+        "CTR increased by 20.9%"
+      ]
+    },
+    {
+      "campaign_name": "men signa ure soft",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "cooling",
+        "mesh",
+        "panels",
+        "for",
+        "workouts",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN_Si nature_Soft",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ultra",
+        "soft",
+        "waistband",
+        "marks",
+        "premium",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN Sign-ture Soft",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "that",
+        "men",
+        "athletic",
+        "briefs",
+        "stretch",
+        "snaps"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN Signature-Soft",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "stretch",
+        "that",
+        "snaps",
+        "back",
+        "durable",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN SIGNATURE SOT",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "confidence",
+        "starts",
+        "inside",
+        "elevate",
+        "with",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN_Signatu e_Soft",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "stretch",
+        "that",
+        "snaps",
+        "back",
+        "durable",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN Signature  oft",
+      "prior_ctr": 0.012330645080296077,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "breathable",
+        "organic",
+        "cotton",
+        "that",
+        "moves",
+        "with"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN Signature Sft",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "push",
+        "comfort",
+        "not",
+        "wires",
+        "everyday",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "-EN Signature Soft",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "breathable",
+        "cotton",
+        "that",
+        "moves",
+        "with",
+        "you"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN Si nature Soft",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "breathable",
+        "organic",
+        "cotton",
+        "that",
+        "moves",
+        "with"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN_ ignature_Soft",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "push",
+        "comfort",
+        "not",
+        "wires",
+        "everyday",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men Sig-ature Soft",
+      "prior_ctr": null,
+      "recent_ctr": 0.01280082296179313,
+      "pct_change": null,
+      "recent_imps": 276076,
+      "keywords": [
+        "invisible",
+        "under",
+        "tees",
+        "seamless",
+        "men",
+        "inner"
+      ],
+      "reasons": [
+        "Insufficient CTR data"
+      ]
+    },
+    {
+      "campaign_name": "MEN Signatue Soft",
+      "prior_ctr": null,
+      "recent_ctr": 0.01659236133727133,
+      "pct_change": null,
+      "recent_imps": 178094,
+      "keywords": [
+        "doctors",
+        "recommend",
+        "breathable",
+        "cotton",
+        "meet",
+        "our"
+      ],
+      "reasons": [
+        "Insufficient CTR data"
+      ]
+    },
+    {
+      "campaign_name": "men s gnature soft",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "doctors",
+        "recommend",
+        "breathable",
+        "modal",
+        "meet",
+        "our"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men Sigature Soft",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "wire",
+        "free",
+        "ease",
+        "cloud",
+        "soft",
+        "cups"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN SIGNATUR  SOFT",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "invisible",
+        "under",
+        "tees",
+        "seamless",
+        "men",
+        "boxers"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN Signature Sot",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "push",
+        "comfort",
+        "not",
+        "wires",
+        "everyday",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN Signa-ure Soft",
+      "prior_ctr": 0.021514667127489524,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "breathable",
+        "microfiber",
+        "that",
+        "moves",
+        "with",
+        "you"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "men sig ature soft",
+      "prior_ctr": null,
+      "recent_ctr": 0.012957519482065511,
+      "pct_change": null,
+      "recent_imps": 109203,
+      "keywords": [
+        "seamless",
+        "confidence",
+        "for",
+        "every",
+        "day",
+        "new"
+      ],
+      "reasons": [
+        "Insufficient CTR data"
+      ]
+    },
+    {
+      "campaign_name": "Men Signture Soft",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "doctors",
+        "recommend",
+        "breathable",
+        "organic",
+        "cotton",
+        "meet"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "ME  Signature Soft",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ultra",
+        "soft",
+        "waistband",
+        "marks",
+        "premium",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN  Signture  Soft",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "seamless",
+        "confidence",
+        "for",
+        "every",
+        "day",
+        "new"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN SIGATURE SOFT",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "confidence",
+        "starts",
+        "inside",
+        "elevate",
+        "with",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN_Signa ure_Soft",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "wire",
+        "free",
+        "ease",
+        "cloud",
+        "soft",
+        "cups"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN_Signature_S ft",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "push",
+        "comfort",
+        "not",
+        "wires",
+        "everyday",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN SIGNATURE S-FT",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "summer",
+        "ready",
+        "essentials",
+        "sweat",
+        "wicking",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN  Si-nature  Soft",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "pack",
+        "deal",
+        "ends",
+        "tonight",
+        "upgrade",
+        "your"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN Sigature Soft",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ultra",
+        "soft",
+        "waistband",
+        "marks",
+        "premium",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN -ignature Soft",
+      "prior_ctr": null,
+      "recent_ctr": 0.013441784379875858,
+      "pct_change": null,
+      "recent_imps": 264697,
+      "keywords": [
+        "men",
+        "inner",
+        "vests",
+        "wire",
+        "free",
+        "ease"
+      ],
+      "reasons": [
+        "Insufficient CTR data"
+      ]
+    },
+    {
+      "campaign_name": "MEN Sinature Soft",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "summer",
+        "ready",
+        "essentials",
+        "sweat",
+        "wicking",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN-SIGNATURE SOFT",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "pack",
+        "deal",
+        "ends",
+        "tonight",
+        "upgrade",
+        "your"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women Fit & Lift",
+      "prior_ctr": 0.01733614950260053,
+      "recent_ctr": 0.017684291942005645,
+      "pct_change": 2.008187800600659,
+      "recent_imps": 2513417,
+      "keywords": [
+        "women",
+        "bras",
+        "sports",
+        "boyshorts",
+        "wire",
+        "free"
+      ],
+      "reasons": [
+        "CTR increased by 2.0%"
+      ]
+    },
+    {
+      "campaign_name": "Women_Fit_&_Lift",
+      "prior_ctr": 0.016095738036687422,
+      "recent_ctr": 0.0145891619678905,
+      "pct_change": -9.360093121315376,
+      "recent_imps": 1393980,
+      "keywords": [
+        "women",
+        "bras",
+        "wire",
+        "free",
+        "that",
+        "with"
+      ],
+      "reasons": [
+        "CTR decreased by -9.4%"
+      ]
+    },
+    {
+      "campaign_name": "Women  Fit  &  Lift",
+      "prior_ctr": 0.01203520873785268,
+      "recent_ctr": 0.018000634901557597,
+      "pct_change": 49.56645367473092,
+      "recent_imps": 1530946,
+      "keywords": [
+        "women",
+        "bras",
+        "wire",
+        "free",
+        "that",
+        "back"
+      ],
+      "reasons": [
+        "CTR increased by 49.6%"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN FIT & LIFT",
+      "prior_ctr": 0.017970109791668704,
+      "recent_ctr": 0.021809394941536036,
+      "pct_change": 21.364839694231026,
+      "recent_imps": 1228278,
+      "keywords": [
+        "women",
+        "bras",
+        "wire",
+        "free",
+        "that",
+        "with"
+      ],
+      "reasons": [
+        "CTR increased by 21.4%"
+      ]
+    },
+    {
+      "campaign_name": "women fit & ift",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "seamless",
+        "confidence",
+        "for",
+        "every",
+        "day",
+        "new"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women fit & lift",
+      "prior_ctr": 0.019020195897010497,
+      "recent_ctr": 0.018771962877873978,
+      "pct_change": -1.3051023263936798,
+      "recent_imps": 1066857,
+      "keywords": [
+        "women",
+        "bras",
+        "with",
+        "wire",
+        "free",
+        "boyshorts"
+      ],
+      "reasons": [
+        "CTR decreased by -1.3%"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN FIT & -IFT",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "women",
+        "stretch",
+        "that",
+        "snaps",
+        "back",
+        "durable"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOM N FIT & LIFT",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "stretch",
+        "that",
+        "snaps",
+        "back",
+        "durable",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women Fit and Lift",
+      "prior_ctr": 0.011768256847914963,
+      "recent_ctr": 0.01921410925365859,
+      "pct_change": 63.27064833788738,
+      "recent_imps": 451335,
+      "keywords": [
+        "women",
+        "bras",
+        "with",
+        "wire",
+        "free",
+        "panties"
+      ],
+      "reasons": [
+        "CTR increased by 63.3%"
+      ]
+    },
+    {
+      "campaign_name": "W-men Fit & Lift",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "stretch",
+        "that",
+        "snaps",
+        "back",
+        "durable",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Wom n Fit & Lift",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "women",
+        "you",
+        "cooling",
+        "mesh",
+        "panels",
+        "for"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Wom-n Fit & Lift",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "summer",
+        "ready",
+        "essentials",
+        "sweat",
+        "wicking",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "wo en fit & lift",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "push",
+        "comfort",
+        "not",
+        "wires",
+        "everyday",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women  Fit     Lift",
+      "prior_ctr": null,
+      "recent_ctr": 0.015003913263661893,
+      "pct_change": null,
+      "recent_imps": 434420,
+      "keywords": [
+        "pack",
+        "deal",
+        "ends",
+        "tonight",
+        "upgrade",
+        "your"
+      ],
+      "reasons": [
+        "Insufficient CTR data"
+      ]
+    },
+    {
+      "campaign_name": "Woen Fit and Lift",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "stretch",
+        "that",
+        "snaps",
+        "back",
+        "durable",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "w men fit & lift",
+      "prior_ctr": 0.021186410925559677,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "breathable",
+        "modal",
+        "that",
+        "moves",
+        "with",
+        "you"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women -it & Lift",
+      "prior_ctr": null,
+      "recent_ctr": 0.020364578588852114,
+      "pct_change": null,
+      "recent_imps": 296397,
+      "keywords": [
+        "pack",
+        "deal",
+        "ends",
+        "tonight",
+        "upgrade",
+        "your"
+      ],
+      "reasons": [
+        "Insufficient CTR data"
+      ]
+    },
+    {
+      "campaign_name": "Women  Fit  &  Lft",
+      "prior_ctr": null,
+      "recent_ctr": 0.015440474249376907,
+      "pct_change": null,
+      "recent_imps": 343448,
+      "keywords": [
+        "ultra",
+        "soft",
+        "waistband",
+        "marks",
+        "premium",
+        "women"
+      ],
+      "reasons": [
+        "Insufficient CTR data"
+      ]
+    },
+    {
+      "campaign_name": "Wo-en Fit & Lift",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "confidence",
+        "starts",
+        "inside",
+        "elevate",
+        "with",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN FIT  LIFT",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ride",
+        "guarantee",
+        "best",
+        "selling",
+        "women",
+        "wire"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Wom n  Fit  &  Lift",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "push",
+        "comfort",
+        "not",
+        "wires",
+        "everyday",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women  it & Lift",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "cooling",
+        "mesh",
+        "panels",
+        "for",
+        "workouts",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Wome  Fit & Lift",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "pack",
+        "deal",
+        "ends",
+        "tonight",
+        "upgrade",
+        "your"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Wo en  Fit  &  Lift",
+      "prior_ctr": 0.022329654056101805,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "hot",
+        "comfy",
+        "women",
+        "bras",
+        "now",
+        "off"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women Fit& Lift",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "stretch",
+        "that",
+        "snaps",
+        "back",
+        "durable",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women  -it  &  Lift",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ride",
+        "guarantee",
+        "best",
+        "selling",
+        "women",
+        "boyshorts"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "W men Fit & Lift",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "all",
+        "day",
+        "comfort",
+        "zero",
+        "pinch",
+        "try"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOEN FIT & LIFT",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "seamless",
+        "confidence",
+        "for",
+        "every",
+        "day",
+        "new"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women Fit  Lift",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "confidence",
+        "starts",
+        "inside",
+        "elevate",
+        "with",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "W MEN FIT & LIFT",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "women",
+        "bras",
+        "pack",
+        "deal",
+        "ends",
+        "tonight"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women it & Lift",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "hot",
+        "comfy",
+        "women",
+        "boyshorts",
+        "now",
+        "off"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Wmen_Fit_&_Lift",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "stretch",
+        "that",
+        "snaps",
+        "back",
+        "durable",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women F t & Lift",
+      "prior_ctr": 0.01795862696067288,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "all",
+        "day",
+        "comfort",
+        "zero",
+        "pinch",
+        "try"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Wome  Fit and Lift",
+      "prior_ctr": null,
+      "recent_ctr": 0.018682711387057543,
+      "pct_change": null,
+      "recent_imps": 390575,
+      "keywords": [
+        "seamless",
+        "confidence",
+        "for",
+        "every",
+        "day",
+        "new"
+      ],
+      "reasons": [
+        "Insufficient CTR data"
+      ]
+    },
+    {
+      "campaign_name": "Wo en Fit & Lift",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "stretch",
+        "that",
+        "snaps",
+        "back",
+        "durable",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women Fi  & Lift",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "doctors",
+        "recommend",
+        "breathable",
+        "organic",
+        "cotton",
+        "meet"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women_-it_&_Lift",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "cooling",
+        "mesh",
+        "panels",
+        "for",
+        "workouts",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN-FIT & LIFT",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "hot",
+        "comfy",
+        "women",
+        "bras",
+        "now",
+        "off"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women fit-& lift",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "pack",
+        "deal",
+        "ends",
+        "tonight",
+        "upgrade",
+        "your"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women Fit & ift",
+      "prior_ctr": 0.012274888344618932,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "push",
+        "comfort",
+        "not",
+        "wires",
+        "everyday",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women fit & li t",
+      "prior_ctr": 0.007790195432799396,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "doctors",
+        "recommend",
+        "breathable",
+        "cotton",
+        "meet",
+        "our"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men  Bold  Colors  Drop",
+      "prior_ctr": 0.007214061656261187,
+      "recent_ctr": 0.008515682178674077,
+      "pct_change": 18.04282503301307,
+      "recent_imps": 1217401,
+      "keywords": [
+        "men",
+        "briefs",
+        "that",
+        "athletic",
+        "back",
+        "boxers"
+      ],
+      "reasons": [
+        "CTR increased by 18.0%"
+      ]
+    },
+    {
+      "campaign_name": "MEN BOLD COLORS DROP",
+      "prior_ctr": 0.006555237834137167,
+      "recent_ctr": 0.01040464512406232,
+      "pct_change": 58.72261826838555,
+      "recent_imps": 665472,
+      "keywords": [
+        "men",
+        "briefs",
+        "that",
+        "boxers",
+        "back",
+        "inner"
+      ],
+      "reasons": [
+        "CTR increased by 58.7%"
+      ]
+    },
+    {
+      "campaign_name": "Men Bold Colors Drop",
+      "prior_ctr": 0.00721912927805243,
+      "recent_ctr": 0.007467721298127254,
+      "pct_change": 3.4435180546024022,
+      "recent_imps": 6103870,
+      "keywords": [
+        "men",
+        "briefs",
+        "athletic",
+        "with",
+        "boxers",
+        "inner"
+      ],
+      "reasons": [
+        "CTR increased by 3.4%"
+      ]
+    },
+    {
+      "campaign_name": "men bold colors drop",
+      "prior_ctr": 0.008605563031708513,
+      "recent_ctr": 0.010086801313175313,
+      "pct_change": 17.212566754888105,
+      "recent_imps": 1411845,
+      "keywords": [
+        "men",
+        "briefs",
+        "trunks",
+        "boxers",
+        "back",
+        "athletic"
+      ],
+      "reasons": [
+        "CTR increased by 17.2%"
+      ]
+    },
+    {
+      "campaign_name": "me bold colors drop",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "breathable",
+        "microfiber",
+        "that",
+        "moves",
+        "with",
+        "you"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men_Bold_Colors_Drop",
+      "prior_ctr": 0.012844666323520349,
+      "recent_ctr": 0.005311064609962619,
+      "pct_change": -58.65159532998276,
+      "recent_imps": 771785,
+      "keywords": [
+        "men",
+        "briefs",
+        "comfort",
+        "athletic",
+        "trunks",
+        "with"
+      ],
+      "reasons": [
+        "CTR decreased by -58.7%"
+      ]
+    },
+    {
+      "campaign_name": "men bo-d colors drop",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "doctors",
+        "recommend",
+        "breathable",
+        "modal",
+        "meet",
+        "our"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men Bold Col-rs Drop",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "breathable",
+        "microfiber",
+        "that",
+        "moves",
+        "with",
+        "you"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN BOL COLORS DROP",
+      "prior_ctr": 0.004522264397371536,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "all",
+        "day",
+        "comfort",
+        "zero",
+        "pinch",
+        "try"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men   old  Colors  Drop",
+      "prior_ctr": 0.013194442854231405,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "pack",
+        "deal",
+        "ends",
+        "tonight",
+        "upgrade",
+        "your"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men Bold Colo-s Drop",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "doctors",
+        "recommend",
+        "breathable",
+        "microfiber",
+        "meet",
+        "our"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men Bold Colors  rop",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "seamless",
+        "confidence",
+        "for",
+        "every",
+        "day",
+        "new"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "men bld colors drop",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "hot",
+        "comfy",
+        "men",
+        "briefs",
+        "now",
+        "off"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men Bold Colors-Drop",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "hot",
+        "comfy",
+        "men",
+        "athletic",
+        "briefs",
+        "now"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN BOLD  OLORS DROP",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "push",
+        "comfort",
+        "not",
+        "wires",
+        "everyday",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men-Bold Colors Drop",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "hot",
+        "comfy",
+        "men",
+        "athletic",
+        "briefs",
+        "now"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "men bold clors drop",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "push",
+        "comfort",
+        "not",
+        "wires",
+        "everyday",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men Bold Colo s Drop",
+      "prior_ctr": 0.011618189688053107,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "all",
+        "day",
+        "comfort",
+        "zero",
+        "pinch",
+        "try"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "M-n Bold Colors Drop",
+      "prior_ctr": 0.007626175852966539,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "seamless",
+        "confidence",
+        "for",
+        "every",
+        "day",
+        "new"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN B LD COLORS DROP",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ultra",
+        "soft",
+        "waistband",
+        "marks",
+        "premium",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Me-_Bold_Colors_Drop",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "hot",
+        "comfy",
+        "men",
+        "boxers",
+        "now",
+        "off"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men Bold Color- Drop",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "stretch",
+        "that",
+        "snaps",
+        "back",
+        "durable",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men_Bold_Co ors_Drop",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "summer",
+        "ready",
+        "essentials",
+        "sweat",
+        "wicking",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men  Bold  Coors  Drop",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "pack",
+        "deal",
+        "ends",
+        "tonight",
+        "upgrade",
+        "your"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men Bold Colors Dr p",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "seamless",
+        "confidence",
+        "for",
+        "every",
+        "day",
+        "new"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men B ld Colors Drop",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "cooling",
+        "mesh",
+        "panels",
+        "for",
+        "workouts",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men B-ld Colors Drop",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ultra",
+        "soft",
+        "waistband",
+        "marks",
+        "premium",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men Bold C-lors Drop",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "all",
+        "day",
+        "comfort",
+        "zero",
+        "pinch",
+        "try"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men Bold -olors Drop",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "confidence",
+        "starts",
+        "inside",
+        "elevate",
+        "with",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN BLD COLORS DROP",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "all",
+        "day",
+        "comfort",
+        "zero",
+        "pinch",
+        "try"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men  old  Colors  Drop",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "summer",
+        "ready",
+        "essentials",
+        "sweat",
+        "wicking",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men Bol Colors Drop",
+      "prior_ctr": 0.009592602901541741,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ride",
+        "guarantee",
+        "best",
+        "selling",
+        "men",
+        "briefs"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men BoldColors Drop",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "wire",
+        "free",
+        "ease",
+        "cloud",
+        "soft",
+        "cups"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men -old Colors Drop",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ride",
+        "guarantee",
+        "best",
+        "selling",
+        "men",
+        "inner"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN BOLD COL RS DROP",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "summer",
+        "ready",
+        "essentials",
+        "sweat",
+        "wicking",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN Cotton Classics",
+      "prior_ctr": 0.008452486884222782,
+      "recent_ctr": 0.010141199213231766,
+      "pct_change": 19.97888138887379,
+      "recent_imps": 3698675,
+      "keywords": [
+        "women",
+        "bras",
+        "wire",
+        "free",
+        "that",
+        "with"
+      ],
+      "reasons": [
+        "CTR increased by 20.0%"
+      ]
+    },
+    {
+      "campaign_name": "Women Cotton Classics",
+      "prior_ctr": null,
+      "recent_ctr": 0.0121917586595101,
+      "pct_change": null,
+      "recent_imps": 1192937,
+      "keywords": [
+        "women",
+        "bras",
+        "wire",
+        "free",
+        "soft",
+        "panties"
+      ],
+      "reasons": [
+        "Insufficient CTR data"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN  Cotton  Classics",
+      "prior_ctr": 0.008197759416754541,
+      "recent_ctr": 0.010041050929307557,
+      "pct_change": 22.48530871478987,
+      "recent_imps": 627026,
+      "keywords": [
+        "women",
+        "bras",
+        "that",
+        "with",
+        "boyshorts",
+        "breathable"
+      ],
+      "reasons": [
+        "CTR increased by 22.5%"
+      ]
+    },
+    {
+      "campaign_name": "WMEN Cotton Classics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ride",
+        "guarantee",
+        "best",
+        "selling",
+        "women",
+        "panties"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women cotton classics",
+      "prior_ctr": 0.010920128472099671,
+      "recent_ctr": 0.009933089743306464,
+      "pct_change": -9.038709858725902,
+      "recent_imps": 995662,
+      "keywords": [
+        "women",
+        "bras",
+        "wire",
+        "free",
+        "seamless",
+        "confidence"
+      ],
+      "reasons": [
+        "CTR decreased by -9.0%"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN_Cotton_Classics",
+      "prior_ctr": 0.010426666234544895,
+      "recent_ctr": 0.006751411187783728,
+      "pct_change": -35.24861124435508,
+      "recent_imps": 1274104,
+      "keywords": [
+        "women",
+        "bras",
+        "sports",
+        "wire",
+        "free",
+        "confidence"
+      ],
+      "reasons": [
+        "CTR decreased by -35.2%"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN COTTON CLASSICS",
+      "prior_ctr": 0.011821027085302317,
+      "recent_ctr": 0.008165241864724525,
+      "pct_change": -30.926121682973008,
+      "recent_imps": 1042835,
+      "keywords": [
+        "women",
+        "bras",
+        "sports",
+        "boyshorts",
+        "wire",
+        "free"
+      ],
+      "reasons": [
+        "CTR decreased by -30.9%"
+      ]
+    },
+    {
+      "campaign_name": "Women Co-ton Classics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "women",
+        "bras",
+        "pack",
+        "deal",
+        "ends",
+        "tonight"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMN_Cotton_Classics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "pack",
+        "deal",
+        "ends",
+        "tonight",
+        "upgrade",
+        "your"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women c-tton classics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "hot",
+        "comfy",
+        "women",
+        "panties",
+        "now",
+        "off"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN COTTON LASSICS",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "stretch",
+        "that",
+        "snaps",
+        "back",
+        "durable",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN COTTON CLASSIS",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ride",
+        "guarantee",
+        "best",
+        "selling",
+        "women",
+        "bras"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "w men cotton classics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "all",
+        "day",
+        "comfort",
+        "zero",
+        "pinch",
+        "try"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMN Cotton Classics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "breathable",
+        "microfiber",
+        "that",
+        "moves",
+        "with",
+        "you"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "w-men cotton classics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "pack",
+        "deal",
+        "ends",
+        "tonight",
+        "upgrade",
+        "your"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN_Cot-on_Classics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "pack",
+        "deal",
+        "ends",
+        "tonight",
+        "upgrade",
+        "your"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Wom-n Cotton Classics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "push",
+        "comfort",
+        "not",
+        "wires",
+        "everyday",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN Cot-on Classics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "pack",
+        "deal",
+        "ends",
+        "tonight",
+        "upgrade",
+        "your"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN C tton Classics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "women",
+        "pack",
+        "deal",
+        "ends",
+        "tonight",
+        "upgrade"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women cotton clasics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "push",
+        "comfort",
+        "not",
+        "wires",
+        "everyday",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN Coton Classics",
+      "prior_ctr": null,
+      "recent_ctr": 0.010592705167173252,
+      "pct_change": null,
+      "recent_imps": 329000,
+      "keywords": [
+        "women",
+        "wire",
+        "free",
+        "ease",
+        "cloud",
+        "soft"
+      ],
+      "reasons": [
+        "Insufficient CTR data"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN otton Classics",
+      "prior_ctr": 0.010721857581487101,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "wire",
+        "free",
+        "ease",
+        "cloud",
+        "soft",
+        "cups"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN Cotton Classis",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "cooling",
+        "mesh",
+        "panels",
+        "for",
+        "workouts",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women Cotton lassics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "cooling",
+        "mesh",
+        "panels",
+        "for",
+        "workouts",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN_Cotton_Clas ics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ride",
+        "guarantee",
+        "best",
+        "selling",
+        "women",
+        "bras"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN  Cotton  Cl-ssics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "stretch",
+        "that",
+        "snaps",
+        "back",
+        "durable",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women Cottn Classics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "doctors",
+        "recommend",
+        "breathable",
+        "cotton",
+        "meet",
+        "our"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": " OMEN  Cotton  Classics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "all",
+        "day",
+        "comfort",
+        "zero",
+        "pinch",
+        "try"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOEN  Cotton  Classics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "breathable",
+        "microfiber",
+        "that",
+        "moves",
+        "with",
+        "you"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN  Cotton  Cla-sics",
+      "prior_ctr": 0.012377514182568335,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "all",
+        "day",
+        "comfort",
+        "zero",
+        "pinch",
+        "try"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN Cotton Cla-sics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "hot",
+        "comfy",
+        "women",
+        "boyshorts",
+        "now",
+        "off"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women co ton classics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "women",
+        "bras",
+        "pack",
+        "deal",
+        "ends",
+        "tonight"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women Cotton Clas ics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "wire",
+        "free",
+        "ease",
+        "cloud",
+        "soft",
+        "cups"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": " OMEN COTTON CLASSICS",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "confidence",
+        "starts",
+        "inside",
+        "elevate",
+        "with",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "womn cotton classics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "invisible",
+        "under",
+        "tees",
+        "seamless",
+        "women",
+        "wire"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN_otton_Classics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "pack",
+        "deal",
+        "ends",
+        "tonight",
+        "upgrade",
+        "your"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "W MEN Cotton Classics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "pack",
+        "deal",
+        "ends",
+        "tonight",
+        "upgrade",
+        "your"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WomenCotton Classics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ultra",
+        "soft",
+        "waistband",
+        "marks",
+        "premium",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN COTTON CLASS-CS",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "cooling",
+        "mesh",
+        "panels",
+        "for",
+        "workouts",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women C-tton Classics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "breathable",
+        "microfiber",
+        "that",
+        "moves",
+        "with",
+        "you"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN  Cotto-  Classics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "all",
+        "day",
+        "comfort",
+        "zero",
+        "pinch",
+        "try"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women cott n classics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "doctors",
+        "recommend",
+        "breathable",
+        "organic",
+        "cotton",
+        "meet"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN Ctton Classics",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "pack",
+        "deal",
+        "ends",
+        "tonight",
+        "upgrade",
+        "your"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women Cotton Classis",
+      "prior_ctr": 0.013078292113139628,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "seamless",
+        "confidence",
+        "for",
+        "every",
+        "day",
+        "new"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men_Premium_Modal",
+      "prior_ctr": 0.009577372516335423,
+      "recent_ctr": 0.011322434269089646,
+      "pct_change": 18.220673256446887,
+      "recent_imps": 184236,
+      "keywords": [
+        "men",
+        "inner",
+        "vests",
+        "briefs",
+        "that",
+        "back"
+      ],
+      "reasons": [
+        "CTR increased by 18.2%"
+      ]
+    },
+    {
+      "campaign_name": "men premium modal",
+      "prior_ctr": 0.008994218584790013,
+      "recent_ctr": 0.012671698581230427,
+      "pct_change": 40.887153917510346,
+      "recent_imps": 903036,
+      "keywords": [
+        "men",
+        "briefs",
+        "athletic",
+        "that",
+        "you",
+        "with"
+      ],
+      "reasons": [
+        "CTR increased by 40.9%"
+      ]
+    },
+    {
+      "campaign_name": "Men Premium Modal",
+      "prior_ctr": 0.010763741428694613,
+      "recent_ctr": 0.009335219887036846,
+      "pct_change": -13.271607750159543,
+      "recent_imps": 4346550,
+      "keywords": [
+        "men",
+        "briefs",
+        "inner",
+        "vests",
+        "boxers",
+        "trunks"
+      ],
+      "reasons": [
+        "CTR decreased by -13.3%"
+      ]
+    },
+    {
+      "campaign_name": "Men  Premium  Modal",
+      "prior_ctr": 0.010023709976617622,
+      "recent_ctr": 0.007631682539624279,
+      "pct_change": -23.863693608187408,
+      "recent_imps": 1089799,
+      "keywords": [
+        "men",
+        "briefs",
+        "you",
+        "trunks",
+        "breathable",
+        "that"
+      ],
+      "reasons": [
+        "CTR decreased by -23.9%"
+      ]
+    },
+    {
+      "campaign_name": "MEN PREMIUM MODAL",
+      "prior_ctr": 0.012263840935588277,
+      "recent_ctr": 0.011532352104011533,
+      "pct_change": -5.9645981664198375,
+      "recent_imps": 2178220,
+      "keywords": [
+        "men",
+        "briefs",
+        "our",
+        "with",
+        "boxers",
+        "comfort"
+      ],
+      "reasons": [
+        "CTR decreased by -6.0%"
+      ]
+    },
+    {
+      "campaign_name": "Men Pr-mium Modal",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ride",
+        "guarantee",
+        "best",
+        "selling",
+        "men",
+        "boxers"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men- Premium  Modal",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "all",
+        "day",
+        "comfort",
+        "zero",
+        "pinch",
+        "try"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": " en Premium Modal",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "all",
+        "day",
+        "comfort",
+        "zero",
+        "pinch",
+        "try"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Me   Premium  Modal",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "doctors",
+        "recommend",
+        "breathable",
+        "microfiber",
+        "meet",
+        "our"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men Pre ium Modal",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "breathable",
+        "cotton",
+        "that",
+        "moves",
+        "with",
+        "you"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men-Premium Modal",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "hot",
+        "comfy",
+        "men",
+        "briefs",
+        "now",
+        "off"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men  remium  Modal",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "cooling",
+        "mesh",
+        "panels",
+        "for",
+        "workouts",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men Prem um Modal",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "invisible",
+        "under",
+        "tees",
+        "seamless",
+        "men",
+        "inner"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Me- Premium Modal",
+      "prior_ctr": 0.012365758452605208,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "stretch",
+        "that",
+        "snaps",
+        "back",
+        "durable",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN PREMIUM MOD-L",
+      "prior_ctr": 0.005705687810982332,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "pack",
+        "deal",
+        "ends",
+        "tonight",
+        "upgrade",
+        "your"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men remium Modal",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "wire",
+        "free",
+        "ease",
+        "cloud",
+        "soft",
+        "cups"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Me  Premium Modal",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "wire",
+        "free",
+        "ease",
+        "cloud",
+        "soft",
+        "cups"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men Premium Mod-l",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "wire",
+        "free",
+        "ease",
+        "cloud",
+        "soft",
+        "cups"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN PREMIUM -ODAL",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "invisible",
+        "under",
+        "tees",
+        "seamless",
+        "men",
+        "inner"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men Premiu- Modal",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "hot",
+        "comfy",
+        "men",
+        "trunks",
+        "now",
+        "off"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men Premium -odal",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "breathable",
+        "microfiber",
+        "that",
+        "moves",
+        "with",
+        "you"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "MEN PREM-UM MODAL",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "stretch",
+        "that",
+        "snaps",
+        "back",
+        "durable",
+        "men"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "ME- PREMIUM MODAL",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "wire",
+        "free",
+        "ease",
+        "cloud",
+        "soft",
+        "cups"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men  remium Modal",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "wire",
+        "free",
+        "ease",
+        "cloud",
+        "soft",
+        "cups"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men Premium M-dal",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "wire",
+        "free",
+        "ease",
+        "cloud",
+        "soft",
+        "cups"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Men -remium Modal",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "breathable",
+        "modal",
+        "that",
+        "moves",
+        "with",
+        "you"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women | Studio Sports",
+      "prior_ctr": 0.008218863710978755,
+      "recent_ctr": 0.00997700887950132,
+      "pct_change": 21.391584412989296,
+      "recent_imps": 3006813,
+      "keywords": [
+        "women",
+        "bras",
+        "wire",
+        "free",
+        "with",
+        "that"
+      ],
+      "reasons": [
+        "CTR increased by 21.4%"
+      ]
+    },
+    {
+      "campaign_name": "Women-Studio Sports",
+      "prior_ctr": 0.011062014652080635,
+      "recent_ctr": 0.009930508582322223,
+      "pct_change": -10.228752224131151,
+      "recent_imps": 1400029,
+      "keywords": [
+        "women",
+        "bras",
+        "sports",
+        "wire",
+        "free",
+        "panties"
+      ],
+      "reasons": [
+        "CTR decreased by -10.2%"
+      ]
+    },
+    {
+      "campaign_name": "Women_|_Studio_Sports",
+      "prior_ctr": 0.010035143671476735,
+      "recent_ctr": 0.0079336664978953,
+      "pct_change": -20.941176752202782,
+      "recent_imps": 944078,
+      "keywords": [
+        "women",
+        "bras",
+        "wire",
+        "free",
+        "seamless",
+        "for"
+      ],
+      "reasons": [
+        "CTR decreased by -20.9%"
+      ]
+    },
+    {
+      "campaign_name": "women | studio sports",
+      "prior_ctr": 0.013757333658950698,
+      "recent_ctr": 0.007315986362835618,
+      "pct_change": -46.821189743582735,
+      "recent_imps": 675507,
+      "keywords": [
+        "women",
+        "bras",
+        "panties",
+        "with",
+        "boyshorts",
+        "breathable"
+      ],
+      "reasons": [
+        "CTR decreased by -46.8%"
+      ]
+    },
+    {
+      "campaign_name": "Wom n-Studio Sports",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ride",
+        "guarantee",
+        "best",
+        "selling",
+        "women",
+        "panties"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women | studio sp-rts",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "stretch",
+        "that",
+        "snaps",
+        "back",
+        "durable",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN | STUDIO SPORTS",
+      "prior_ctr": 0.013405700676598398,
+      "recent_ctr": 0.011057343972296909,
+      "pct_change": -17.517597632184106,
+      "recent_imps": 1289098,
+      "keywords": [
+        "women",
+        "bras",
+        "panties",
+        "wire",
+        "free",
+        "with"
+      ],
+      "reasons": [
+        "CTR decreased by -17.5%"
+      ]
+    },
+    {
+      "campaign_name": "Women  |  Studio  Sports",
+      "prior_ctr": 0.010134133776211604,
+      "recent_ctr": 0.015368932014517328,
+      "pct_change": 51.65511284835856,
+      "recent_imps": 399247,
+      "keywords": [
+        "women",
+        "bras",
+        "boyshorts",
+        "with",
+        "panties",
+        "confidence"
+      ],
+      "reasons": [
+        "CTR increased by 51.7%"
+      ]
+    },
+    {
+      "campaign_name": "Women-Stud o Sports",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "all",
+        "day",
+        "comfort",
+        "zero",
+        "pinch",
+        "try"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women-Studio Spo-ts",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "invisible",
+        "under",
+        "tees",
+        "seamless",
+        "women",
+        "sports"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "-omen_|_Studio_Sports",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "hot",
+        "comfy",
+        "women",
+        "sports",
+        "bras",
+        "now"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women-| studio sports",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "push",
+        "comfort",
+        "not",
+        "wires",
+        "everyday",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "omen | Studio Sports",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ultra",
+        "soft",
+        "waistband",
+        "marks",
+        "premium",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women | Studio  ports",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "wire",
+        "free",
+        "ease",
+        "cloud",
+        "soft",
+        "cups"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women | Stu io Sports",
+      "prior_ctr": 0.009292334080850898,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "cooling",
+        "mesh",
+        "panels",
+        "for",
+        "workouts",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women-Studio -ports",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "all",
+        "day",
+        "comfort",
+        "zero",
+        "pinch",
+        "try"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Wmen | Studio Sports",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "pack",
+        "deal",
+        "ends",
+        "tonight",
+        "upgrade",
+        "your"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women | Studio Spo-ts",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "cooling",
+        "mesh",
+        "panels",
+        "for",
+        "workouts",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women | Studi Sports",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "pack",
+        "deal",
+        "ends",
+        "tonight",
+        "upgrade",
+        "your"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women_|_Studio_ ports",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "breathable",
+        "organic",
+        "cotton",
+        "that",
+        "moves",
+        "with"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women | Studio Spors",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "invisible",
+        "under",
+        "tees",
+        "seamless",
+        "women",
+        "sports"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Wo-en  |  Studio  Sports",
+      "prior_ctr": null,
+      "recent_ctr": 0.012404237786005213,
+      "pct_change": null,
+      "recent_imps": 253623,
+      "keywords": [
+        "invisible",
+        "under",
+        "tees",
+        "seamless",
+        "women",
+        "panties"
+      ],
+      "reasons": [
+        "Insufficient CTR data"
+      ]
+    },
+    {
+      "campaign_name": "Women  |  Studio Sports",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ultra",
+        "soft",
+        "waistband",
+        "marks",
+        "premium",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women-Studio Spors",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "doctors",
+        "recommend",
+        "breathable",
+        "bamboo",
+        "meet",
+        "our"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "W-men  |  Studio  Sports",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "invisible",
+        "under",
+        "tees",
+        "seamless",
+        "women",
+        "bras"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women | studio sprts",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "summer",
+        "ready",
+        "essentials",
+        "sweat",
+        "wicking",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "-omen-Studio Sports",
+      "prior_ctr": 0.009563218390804597,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "breathable",
+        "cotton",
+        "that",
+        "moves",
+        "with",
+        "you"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women-Studio S orts",
+      "prior_ctr": null,
+      "recent_ctr": 0.006554518146852243,
+      "pct_change": null,
+      "recent_imps": 270653,
+      "keywords": [
+        "invisible",
+        "under",
+        "tees",
+        "seamless",
+        "women",
+        "panties"
+      ],
+      "reasons": [
+        "Insufficient CTR data"
+      ]
+    },
+    {
+      "campaign_name": "Women | tudio Sports",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "doctors",
+        "recommend",
+        "breathable",
+        "modal",
+        "meet",
+        "our"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN | SUDIO SPORTS",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "confidence",
+        "starts",
+        "inside",
+        "elevate",
+        "with",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women | Studio Sp rts",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "confidence",
+        "starts",
+        "inside",
+        "elevate",
+        "with",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women_|_Studio_Spo ts",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "push",
+        "comfort",
+        "not",
+        "wires",
+        "everyday",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women_|-Studio_Sports",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "pack",
+        "deal",
+        "ends",
+        "tonight",
+        "upgrade",
+        "your"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "W men-Studio Sports",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "hot",
+        "comfy",
+        "women",
+        "sports",
+        "bras",
+        "now"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women | Stu-io Sports",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "wire",
+        "free",
+        "ease",
+        "cloud",
+        "soft",
+        "cups"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women-Studio-Sports",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "ride",
+        "guarantee",
+        "best",
+        "selling",
+        "women",
+        "wire"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "Women-Studio Spots",
+      "prior_ctr": null,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "hot",
+        "comfy",
+        "women",
+        "wire",
+        "free",
+        "bras"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    },
+    {
+      "campaign_name": "women | studio spo ts",
+      "prior_ctr": 0.00615381378664675,
+      "recent_ctr": null,
+      "pct_change": null,
+      "recent_imps": 0,
+      "keywords": [
+        "stretch",
+        "that",
+        "snaps",
+        "back",
+        "durable",
+        "women"
+      ],
+      "reasons": [
+        "No recent impressions"
+      ]
+    }
+  ]
+}

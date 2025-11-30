@@ -1,0 +1,163 @@
+{
+  "date_range": {
+    "start": "2025-01-01 00:00:00",
+    "end": "2025-03-31 00:00:00"
+  },
+  "total_rows": 4500,
+  "total_impressions": 1190236513,
+  "total_clicks": 15071264,
+  "total_spend": 2105579.9,
+  "total_revenue": 12265700.719999999,
+  "campaigns": [
+    {
+      "campaign": "Men Comfortmax Launch",
+      "impressions": 112536005,
+      "clicks": 1740188,
+      "ctr": 0.015463388806098101
+    },
+    {
+      "campaign": "Men Com Ortmax Launch",
+      "impressions": 253112,
+      "clicks": 4251,
+      "ctr": 0.016794936628844147
+    },
+    {
+      "campaign": "Mencomfortmax Launch",
+      "impressions": 363786,
+      "clicks": 6235,
+      "ctr": 0.01713919722034383
+    },
+    {
+      "campaign": "Men C Mfortmax Launch",
+      "impressions": 916153,
+      "clicks": 14505,
+      "ctr": 0.01583250832557444
+    },
+    {
+      "campaign": "Men Comfortmax Aunch",
+      "impressions": 484047,
+      "clicks": 8458,
+      "ctr": 0.017473509803800046
+    },
+    {
+      "campaign": "Men Omfortmax Launch",
+      "impressions": 502373,
+      "clicks": 11051,
+      "ctr": 0.021997599393279495
+    },
+    {
+      "campaign": "Women Seamless Everyday",
+      "impressions": 118786214,
+      "clicks": 957945,
+      "ctr": 0.008064445929727165
+    },
+    {
+      "campaign": "Women S Amless Everyday",
+      "impressions": 296400,
+      "clicks": 2894,
+      "ctr": 0.009763832658569501
+    },
+    {
+      "campaign": "Women Eamless Everyday",
+      "impressions": 128862,
+      "clicks": 1209,
+      "ctr": 0.009382129720165758
+    },
+    {
+      "campaign": "Men Athleisure Cooling",
+      "impressions": 119892241,
+      "clicks": 2469817,
+      "ctr": 0.02060030723756344
+    },
+    {
+      "campaign": "Men Ath Eisure Cooling",
+      "impressions": 330406,
+      "clicks": 7482,
+      "ctr": 0.022644867223960825
+    },
+    {
+      "campaign": "Men Thleisure Cooling",
+      "impressions": 586519,
+      "clicks": 15234,
+      "ctr": 0.025973583123479378
+    },
+    {
+      "campaign": "Women Summer Invisible",
+      "impressions": 118249660,
+      "clicks": 1256158,
+      "ctr": 0.010622931177983937
+    },
+    {
+      "campaign": "Women Summer I Visible",
+      "impressions": 469340,
+      "clicks": 6417,
+      "ctr": 0.013672391017173052
+    },
+    {
+      "campaign": "Men Signature Soft",
+      "impressions": 119919072,
+      "clicks": 1717223,
+      "ctr": 0.014319848972813933
+    },
+    {
+      "campaign": "Men Sig Ature Soft",
+      "impressions": 385279,
+      "clicks": 4949,
+      "ctr": 0.01284523682837632
+    },
+    {
+      "campaign": "Men S Gnature Soft",
+      "impressions": 33799,
+      "clicks": 508,
+      "ctr": 0.015030030474274387
+    },
+    {
+      "campaign": "Women Fit Lift",
+      "impressions": 117235784,
+      "clicks": 2006249,
+      "ctr": 0.01711294053358316
+    },
+    {
+      "campaign": "Men Bold Colors Drop",
+      "impressions": 118873722,
+      "clicks": 1061179,
+      "ctr": 0.008926943500599737
+    },
+    {
+      "campaign": "Men Bold Olors Drop",
+      "impressions": 431456,
+      "clicks": 3296,
+      "ctr": 0.007639249425202106
+    },
+    {
+      "campaign": "Women Cotton Classics",
+      "impressions": 120769291,
+      "clicks": 1220653,
+      "ctr": 0.010107312793614065
+    },
+    {
+      "campaign": "Women Cotton Lassics",
+      "impressions": 733063,
+      "clicks": 6572,
+      "ctr": 0.00896512305217969
+    },
+    {
+      "campaign": "Men Premium Modal",
+      "impressions": 116742347,
+      "clicks": 1227941,
+      "ctr": 0.010518385415019966
+    },
+    {
+      "campaign": "Men Premium M Dal",
+      "impressions": 336441,
+      "clicks": 3295,
+      "ctr": 0.00979369339646476
+    },
+    {
+      "campaign": "Women Studio Sports",
+      "impressions": 120981141,
+      "clicks": 1317555,
+      "ctr": 0.010890581698183851
+    }
+  ]
+}

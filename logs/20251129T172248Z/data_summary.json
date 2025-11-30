@@ -1,0 +1,85 @@
+{
+  "date_range": {
+    "start": "2025-01-01 00:00:00",
+    "end": "2025-03-31 00:00:00"
+  },
+  "total_rows": 4500,
+  "total_impressions": 1190236513,
+  "total_clicks": 15071264,
+  "total_spend": 2105579.9,
+  "total_revenue": 12265700.719999999,
+  "campaigns": [
+    {
+      "campaign": "Women Seamless Everyday",
+      "impressions": 239233982,
+      "clicks": 2252859,
+      "ctr": 0.009416969032434531,
+      "spend": 422100.57,
+      "revenue": 2167537.56,
+      "rows": 905
+    },
+    {
+      "campaign": "Men ComfortMax Launch",
+      "impressions": 234561136,
+      "clicks": 4248985,
+      "ctr": 0.018114616395786896,
+      "spend": 414154.59,
+      "revenue": 4014555.48,
+      "rows": 895
+    },
+    {
+      "campaign": "Men Bold Colors Drop",
+      "impressions": 119305178,
+      "clicks": 1064475,
+      "ctr": 0.008922286675604307,
+      "spend": 212904.78,
+      "revenue": 373764.82,
+      "rows": 450
+    },
+    {
+      "campaign": "Women Cotton Classics",
+      "impressions": 121502354,
+      "clicks": 1227225,
+      "ctr": 0.010100421593477934,
+      "spend": 212640.07,
+      "revenue": 1613528.05,
+      "rows": 450
+    },
+    {
+      "campaign": "Men Premium Modal",
+      "impressions": 117078788,
+      "clicks": 1231236,
+      "ctr": 0.01051630291902236,
+      "spend": 200828.31,
+      "revenue": 1081363.43,
+      "rows": 450
+    },
+    {
+      "campaign": "Women Studio Sports",
+      "impressions": 120981141,
+      "clicks": 1317555,
+      "ctr": 0.010890581698183851,
+      "spend": 208758.4,
+      "revenue": 1859500.64,
+      "rows": 450
+    },
+    {
+      "campaign": "Women Fit Lift",
+      "impressions": 117235784,
+      "clicks": 2006249,
+      "ctr": 0.01711294053358316,
+      "spend": 221397.23,
+      "revenue": 814793.62,
+      "rows": 450
+    },
+    {
+      "campaign": "Men Signature Soft",
+      "impressions": 120338150,
+      "clicks": 1722680,
+      "ctr": 0.014315327267371154,
+      "spend": 212795.95,
+      "revenue": 340657.12,
+      "rows": 450
+    }
+  ]
+}

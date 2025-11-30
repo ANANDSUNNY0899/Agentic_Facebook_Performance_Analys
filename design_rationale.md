@@ -1,10 +1,10 @@
-# 🧠 Design Rationale — Kasparro Agentic Facebook Performance Analyst
+#  Design Rationale — Kasparro Agentic Facebook Performance Analyst
 
 This document explains **why** each design decision was made.
 
 ---
 
-# 🎯 Problem Understanding
+#  Problem Understanding
 The goal is to build an **autonomous agentic system** that:
 - detects ROAS and CTR changes,
 - diagnoses root causes,
@@ -19,9 +19,9 @@ The system must be:
 
 ---
 
-# 🏗 Why Multi-Agent Architecture?
+#  Why Multi-Agent Architecture?
 
-## ✔ Modularity  
+##  Modularity  
 Each agent handles a **single responsibility**:
 - Planning  
 - Data processing  
@@ -31,16 +31,16 @@ Each agent handles a **single responsibility**:
 
 Clear separation improves transparency.
 
-## ✔ Reasoning Clarity  
+##  Reasoning Clarity  
 Each agent produces structured JSON + logs.  
 Recruiters can see your **thought flow**.
 
-## ✔ Debuggability  
+##  Debuggability  
 If anything breaks, you know exactly which agent caused it.
 
 ---
 
-# 🔍 Why These Specific Agents?
+#  Why These Specific Agents?
 
 ## **1. Planner Agent**
 We need a deterministic “brain” to:
@@ -100,7 +100,7 @@ Agent produces:
 
 ---
 
-# 📂 Why JSON Everywhere?
+#  Why JSON Everywhere?
 Structured JSON ensures:
 - machine-readability  
 - reusable logs  
@@ -109,7 +109,7 @@ Structured JSON ensures:
 
 ---
 
-# 🧪 Why Confidence Scores?
+#  Why Confidence Scores?
 Because:
 - not every insight is equally strong  
 - confidence gating prevents weak conclusions  
@@ -117,7 +117,7 @@ Because:
 
 ---
 
-# 📝 Why report.md?
+#  Why report.md?
 To communicate findings to marketers in a:
 - simple,
 - actionable,
@@ -127,7 +127,7 @@ format.
 
 ---
 
-# ✔ Final Notes
+#  Final Notes
 This system combines:
 - agentic reasoning  
 - statistical evidence  

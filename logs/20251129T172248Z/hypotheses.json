@@ -1,0 +1,82 @@
+[
+  {
+    "campaign": "Women Seamless Everyday",
+    "hypothesis": "CTR below 1.0%",
+    "reason": "Low CTR may drive low ROAS",
+    "metric": {
+      "ctr": 0.009416969032434531,
+      "impressions": 239233982,
+      "clicks": 2252859
+    }
+  },
+  {
+    "campaign": "Men ComfortMax Launch",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.018114616395786896,
+      "impressions": 234561136,
+      "clicks": 4248985
+    }
+  },
+  {
+    "campaign": "Men Bold Colors Drop",
+    "hypothesis": "CTR below 1.0%",
+    "reason": "Low CTR may drive low ROAS",
+    "metric": {
+      "ctr": 0.008922286675604307,
+      "impressions": 119305178,
+      "clicks": 1064475
+    }
+  },
+  {
+    "campaign": "Women Cotton Classics",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.010100421593477934,
+      "impressions": 121502354,
+      "clicks": 1227225
+    }
+  },
+  {
+    "campaign": "Men Premium Modal",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.01051630291902236,
+      "impressions": 117078788,
+      "clicks": 1231236
+    }
+  },
+  {
+    "campaign": "Women Studio Sports",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.010890581698183851,
+      "impressions": 120981141,
+      "clicks": 1317555
+    }
+  },
+  {
+    "campaign": "Women Fit Lift",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.01711294053358316,
+      "impressions": 117235784,
+      "clicks": 2006249
+    }
+  },
+  {
+    "campaign": "Men Signature Soft",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.014315327267371154,
+      "impressions": 120338150,
+      "clicks": 1722680
+    }
+  }
+]

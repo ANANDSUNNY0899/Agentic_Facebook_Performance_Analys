@@ -1,0 +1,116 @@
+{
+  "total_records": 4500,
+  "total_spend": 2105579.9,
+  "campaign_performance": [
+    {
+      "Campaign Name": "Men Athleisure Cooling",
+      "Spend": 207516.23,
+      "Revenue": 2652432.85,
+      "Impressions": 120809166,
+      "Clicks": 2492533.0,
+      "Purchases": 83814,
+      "ROAS": 12.781809162589354,
+      "CTR": 0.02063198582134074
+    },
+    {
+      "Campaign Name": "Men Bold Colors Drop",
+      "Spend": 212179.01,
+      "Revenue": 373325.55,
+      "Impressions": 119099491,
+      "Clicks": 1063129.0,
+      "Purchases": 11763,
+      "ROAS": 1.7594838905130152,
+      "CTR": 0.008926394152263841
+    },
+    {
+      "Campaign Name": "Men ComfortMax Launch",
+      "Spend": 208224.02,
+      "Revenue": 1382609.54,
+      "Impressions": 114553103,
+      "Clicks": 1773637.0,
+      "Purchases": 43480,
+      "ROAS": 6.640009831718743,
+      "CTR": 0.015483098698775536
+    },
+    {
+      "Campaign Name": "Men Premium Modal",
+      "Spend": 200828.31,
+      "Revenue": 1081363.43,
+      "Impressions": 117078788,
+      "Clicks": 1231236.0,
+      "Purchases": 32874,
+      "ROAS": 5.384516904016172,
+      "CTR": 0.01051630291902236
+    },
+    {
+      "Campaign Name": "Men Signature Soft",
+      "Spend": 211663.18,
+      "Revenue": 339986.57,
+      "Impressions": 120016956,
+      "Clicks": 1718111.0,
+      "Purchases": 10349,
+      "ROAS": 1.6062622228391354,
+      "CTR": 0.014315568876784377
+    },
+    {
+      "Campaign Name": "Unmapped Campaign",
+      "Spend": 7952.76,
+      "Revenue": 34198.36,
+      "Impressions": 3075004,
+      "Clicks": 38227.0,
+      "Purchases": 1043,
+      "ROAS": 4.300187607824202,
+      "CTR": 0.012431528544353114
+    },
+    {
+      "Campaign Name": "Women Cotton Classics",
+      "Spend": 210993.65,
+      "Revenue": 1600537.58,
+      "Impressions": 120603316,
+      "Clicks": 1222589.0,
+      "Purchases": 38690,
+      "ROAS": 7.585714451596056,
+      "CTR": 0.010137275164142253
+    },
+    {
+      "Campaign Name": "Women Fit & Lift",
+      "Spend": 219942.49,
+      "Revenue": 812793.0,
+      "Impressions": 116938561,
+      "Clicks": 1999831.0,
+      "Purchases": 20011,
+      "ROAS": 3.6954796683442113,
+      "CTR": 0.01710155301124323
+    },
+    {
+      "Campaign Name": "Women Seamless Everyday",
+      "Spend": 205528.35,
+      "Revenue": 1113499.32,
+      "Impressions": 119211476,
+      "Clicks": 962048.0,
+      "Purchases": 27855,
+      "ROAS": 5.417740764230336,
+      "CTR": 0.008070095533419953
+    },
+    {
+      "Campaign Name": "Women Studio Sports",
+      "Spend": 208491.85,
+      "Revenue": 1857385.34,
+      "Impressions": 120773640,
+      "Clicks": 1315635.0,
+      "Purchases": 46508,
+      "ROAS": 8.908671202255627,
+      "CTR": 0.010893395280625806
+    },
+    {
+      "Campaign Name": "Women Summer Invisible",
+      "Spend": 212260.05,
+      "Revenue": 1017569.18,
+      "Impressions": 118077012,
+      "Clicks": 1254288.0,
+      "Purchases": 24757,
+      "ROAS": 4.793974089801638,
+      "CTR": 0.01062262652784608
+    }
+  ]
+}

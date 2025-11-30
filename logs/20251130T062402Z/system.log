@@ -1,0 +1,5 @@
+2025-11-30 11:54:02,906 | INFO | root | ===== Run Started =====
+2025-11-30 11:54:02,906 | INFO | root | RUN_ID: 20251130T062402Z
+2025-11-30 11:54:02,906 | INFO | root | User Query: Analyze ROAS Drop
+2025-11-30 11:54:02,908 | INFO | root | Config file loaded successfully.
+2025-11-30 11:54:02,908 | INFO | root | Resolved data path: data/sample_fb_ads.csv

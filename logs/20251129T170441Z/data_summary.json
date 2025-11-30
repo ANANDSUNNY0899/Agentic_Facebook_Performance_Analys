@@ -1,0 +1,277 @@
+{
+  "date_range": {
+    "start": "2025-01-01 00:00:00",
+    "end": "2025-03-31 00:00:00"
+  },
+  "total_rows": 4500,
+  "total_impressions": 1190236513,
+  "total_clicks": 15071264,
+  "total_spend": 2105579.9,
+  "total_revenue": 12265700.719999999,
+  "campaigns": [
+    {
+      "campaign": "M N Athleisure Cooling",
+      "impressions": 694422,
+      "clicks": 11074,
+      "ctr": 0.015947075409477235
+    },
+    {
+      "campaign": "Me Athleisure Cooling",
+      "impressions": 450720,
+      "clicks": 8002,
+      "ctr": 0.017753816116435926
+    },
+    {
+      "campaign": "Men Ath Eisure Cooling",
+      "impressions": 330406,
+      "clicks": 7482,
+      "ctr": 0.022644867223960825
+    },
+    {
+      "campaign": "Men Athlei Ure Cooling",
+      "impressions": 488082,
+      "clicks": 9652,
+      "ctr": 0.019775365614794236
+    },
+    {
+      "campaign": "Men Athleisure Co Ling",
+      "impressions": 365385,
+      "clicks": 9144,
+      "ctr": 0.02502565786772856
+    },
+    {
+      "campaign": "Men Athleisure Coling",
+      "impressions": 57316,
+      "clicks": 1148,
+      "ctr": 0.020029311187103077
+    },
+    {
+      "campaign": "Men Athleisure Cooli G",
+      "impressions": 460080,
+      "clicks": 11757,
+      "ctr": 0.025554251434533125
+    },
+    {
+      "campaign": "Men Athleisurecooling",
+      "impressions": 162622,
+      "clicks": 3733,
+      "ctr": 0.022955073729261723
+    },
+    {
+      "campaign": "Men Athleiure Cooling",
+      "impressions": 146013,
+      "clicks": 3099,
+      "ctr": 0.02122413757679111
+    },
+    {
+      "campaign": "Men Bold Colors Drop",
+      "impressions": 119305178,
+      "clicks": 1064475,
+      "ctr": 0.008922286675604307
+    },
+    {
+      "campaign": "Men ComfortMax Launch",
+      "impressions": 114189317,
+      "clicks": 1767402,
+      "ctr": 0.015477822675828774
+    },
+    {
+      "campaign": "Men Omfortmax Launch",
+      "impressions": 502373,
+      "clicks": 11051,
+      "ctr": 0.021997599393279495
+    },
+    {
+      "campaign": "Men Premium Modal",
+      "impressions": 117078788,
+      "clicks": 1231236,
+      "ctr": 0.01051630291902236
+    },
+    {
+      "campaign": "Men Signature Soft",
+      "impressions": 120338150,
+      "clicks": 1722680,
+      "ctr": 0.014315327267371154
+    },
+    {
+      "campaign": "Men Thleisure Cooling",
+      "impressions": 586519,
+      "clicks": 15234,
+      "ctr": 0.025973583123479378
+    },
+    {
+      "campaign": "Mencomfortmax Launch",
+      "impressions": 363786,
+      "clicks": 6235,
+      "ctr": 0.01713919722034383
+    },
+    {
+      "campaign": "Mn Athleisure Cooling",
+      "impressions": 334200,
+      "clicks": 9798,
+      "ctr": 0.029317773788150807
+    },
+    {
+      "campaign": "Omen Summer Invisible",
+      "impressions": 1033449,
+      "clicks": 15018,
+      "ctr": 0.014531921749404179
+    },
+    {
+      "campaign": "W Men Summer Invisible",
+      "impressions": 271270,
+      "clicks": 2258,
+      "ctr": 0.008323810225974122
+    },
+    {
+      "campaign": "Woen Summer Invisible",
+      "impressions": 676215,
+      "clicks": 10112,
+      "ctr": 0.014953823857796707
+    },
+    {
+      "campaign": "Wom N Summer Invisible",
+      "impressions": 407485,
+      "clicks": 4985,
+      "ctr": 0.012233579150152767
+    },
+    {
+      "campaign": "Wome Summer Invisible",
+      "impressions": 353353,
+      "clicks": 4132,
+      "ctr": 0.01169368874751311
+    },
+    {
+      "campaign": "Women Cotton Classics",
+      "impressions": 238235755,
+      "clicks": 3629635,
+      "ctr": 0.015235475464209811
+    },
+    {
+      "campaign": "Women Fit Lift",
+      "impressions": 117235784,
+      "clicks": 2006249,
+      "ctr": 0.01711294053358316
+    },
+    {
+      "campaign": "Women S Mmer Invisible",
+      "impressions": 103973,
+      "clicks": 883,
+      "ctr": 0.008492589422253855
+    },
+    {
+      "campaign": "Women Seamless Everyday",
+      "impressions": 119455622,
+      "clicks": 965096,
+      "ctr": 0.008079117448319009
+    },
+    {
+      "campaign": "Women Studio Sports",
+      "impressions": 120981141,
+      "clicks": 1317555,
+      "ctr": 0.010890581698183851
+    },
+    {
+      "campaign": "Women Su Mer Invisible",
+      "impressions": 737197,
+      "clicks": 5192,
+      "ctr": 0.0070428935549113735
+    },
+    {
+      "campaign": "Women Summ R Invisible",
+      "impressions": 673319,
+      "clicks": 6959,
+      "ctr": 0.010335368525171576
+    },
+    {
+      "campaign": "Women Summe Invisible",
+      "impressions": 600236,
+      "clicks": 4828,
+      "ctr": 0.008043502888863713
+    },
+    {
+      "campaign": "Women Summer I Visible",
+      "impressions": 469340,
+      "clicks": 6417,
+      "ctr": 0.013672391017173052
+    },
+    {
+      "campaign": "Women Summer In Isible",
+      "impressions": 518296,
+      "clicks": 5009,
+      "ctr": 0.009664361677497029
+    },
+    {
+      "campaign": "Women Summer Inisible",
+      "impressions": 32574,
+      "clicks": 311,
+      "ctr": 0.00954749186467735
+    },
+    {
+      "campaign": "Women Summer Inv Sible",
+      "impressions": 35102,
+      "clicks": 407,
+      "ctr": 0.011594780924163866
+    },
+    {
+      "campaign": "Women Summer Invi Ible",
+      "impressions": 396802,
+      "clicks": 3845,
+      "ctr": 0.009689971320709069
+    },
+    {
+      "campaign": "Women Summer Invisble",
+      "impressions": 105538,
+      "clicks": 943,
+      "ctr": 0.008935170270423924
+    },
+    {
+      "campaign": "Women Summer Invisi Le",
+      "impressions": 789595,
+      "clicks": 8198,
+      "ctr": 0.010382537883345259
+    },
+    {
+      "campaign": "Women Summer Invisib E",
+      "impressions": 388737,
+      "clicks": 3878,
+      "ctr": 0.009975896300069198
+    },
+    {
+      "campaign": "Women Summer Invisibe",
+      "impressions": 83497,
+      "clicks": 1038,
+      "ctr": 0.012431584368300658
+    },
+    {
+      "campaign": "Women Summer Invisible",
+      "impressions": 109721976,
+      "clicks": 1159191,
+      "ctr": 0.010564802442128821
+    },
+    {
+      "campaign": "Women Summer Invsible",
+      "impressions": 16115,
+      "clicks": 172,
+      "ctr": 0.01067328575860999
+    },
+    {
+      "campaign": "Women Summer Nvisible",
+      "impressions": 631324,
+      "clicks": 9491,
+      "ctr": 0.015033485183519081
+    },
+    {
+      "campaign": "Women Ummer Invisible",
+      "impressions": 319543,
+      "clicks": 4890,
+      "ctr": 0.015303104746466047
+    },
+    {
+      "campaign": "Womn Summer Invisible",
+      "impressions": 109918,
+      "clicks": 1370,
+      "ctr": 0.01246383667825106
+    }
+  ]
+}

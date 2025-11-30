@@ -1,0 +1,12 @@
+{
+  "counters": {
+    "rows.processed": 4500,
+    "campaigns.unique": 48,
+    "hypotheses.generated": 48,
+    "insights.validated": 48,
+    "creatives.generated": 48
+  },
+  "timers": {
+    "pipeline_total": 0.3289353847503662
+  }
+}

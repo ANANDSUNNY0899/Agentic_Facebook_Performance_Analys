@@ -1,0 +1,19 @@
+2025-11-29 20:45:02,508 | INFO | root | ===== Run Started =====
+2025-11-29 20:45:02,508 | INFO | root | RUN_ID: 20251129T151502Z
+2025-11-29 20:45:02,508 | INFO | root | User Query: Analyze ROAS drop
+2025-11-29 20:45:02,540 | INFO | root | Config file loaded successfully.
+2025-11-29 20:45:02,544 | INFO | agents.data_agent | DataAgent loading data from: data/campaign_data.csv
+2025-11-29 20:45:02,547 | ERROR | agents.data_agent | CRITICAL: Data file not found at data/campaign_data.csv
+2025-11-29 20:45:02,552 | INFO | root | PlannerAgent completed. Saved planner.json
+2025-11-29 20:45:02,552 | INFO | agents.data_agent | Generating data summary...
+2025-11-29 20:45:02,553 | INFO | root | DataAgent summary complete. Saved data_summary.json
+2025-11-29 20:45:02,554 | INFO | root | Generated 0 hypotheses.
+2025-11-29 20:45:02,555 | INFO | root | InsightAgent generated hypotheses. Saved hypotheses.json
+2025-11-29 20:45:02,556 | INFO | root | Validated 0 insights (min_conf=0.6).
+2025-11-29 20:45:02,557 | INFO | root | EvaluatorAgent completed. Saved reports/insights.json
+2025-11-29 20:45:02,558 | INFO | root | Generated creatives for 0 campaigns.
+2025-11-29 20:45:02,559 | INFO | root | CreativeAgent completed. Saved reports/creatives.json
+2025-11-29 20:45:02,560 | INFO | root | Final Report generated → reports/report.md
+2025-11-29 20:45:02,562 | INFO | root | ===== Run Completed Successfully =====
+2025-11-29 20:45:02,562 | INFO | root | Logs Folder: logs/20251129T151502Z
+2025-11-29 20:45:02,563 | INFO | root | ======================================

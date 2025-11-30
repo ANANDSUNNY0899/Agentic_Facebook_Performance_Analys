@@ -1,0 +1,23 @@
+{
+  "run_id": "20251129T151502Z",
+  "counters": {
+    "runs.started": 1,
+    "insights.generated": 0,
+    "insights.validated": 0,
+    "creatives.generated": 0
+  },
+  "timings": {
+    "planner.latency": 0.002987384796142578,
+    "data.latency": 0.0009984970092773438,
+    "insight.latency": 0.0010116100311279297,
+    "evaluator.latency": 0.0010080337524414062,
+    "creative.latency": 0.00099945068359375,
+    "report.latency": 0.0010004043579101562
+  },
+  "gauges": {
+    "hypotheses.count": 0,
+    "insights.validated": 0,
+    "creatives.generated": 0
+  },
+  "timestamp": 1764429302.5603113
+}

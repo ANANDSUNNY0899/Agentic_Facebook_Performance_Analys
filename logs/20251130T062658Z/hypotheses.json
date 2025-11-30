@@ -1,0 +1,482 @@
+[
+  {
+    "campaign": "M N Athleisure Cooling",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.015947075409477235,
+      "impressions": 694422,
+      "clicks": 11074
+    }
+  },
+  {
+    "campaign": "Me Athleisure Cooling",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.017753816116435926,
+      "impressions": 450720,
+      "clicks": 8002
+    }
+  },
+  {
+    "campaign": "Men Ath Eisure Cooling",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.022644867223960825,
+      "impressions": 330406,
+      "clicks": 7482
+    }
+  },
+  {
+    "campaign": "Men Athlei Ure Cooling",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.019775365614794236,
+      "impressions": 488082,
+      "clicks": 9652
+    }
+  },
+  {
+    "campaign": "Men Athleis Re Cooling",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.014031070774778363,
+      "impressions": 180813,
+      "clicks": 2537
+    }
+  },
+  {
+    "campaign": "Men Athleisur Cooling",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.020398059213783543,
+      "impressions": 80792,
+      "clicks": 1648
+    }
+  },
+  {
+    "campaign": "Men Athleisure Co Ling",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.02502565786772856,
+      "impressions": 365385,
+      "clicks": 9144
+    }
+  },
+  {
+    "campaign": "Men Athleisure Coling",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.020029311187103077,
+      "impressions": 57316,
+      "clicks": 1148
+    }
+  },
+  {
+    "campaign": "Men Athleisure Cooli G",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.025554251434533125,
+      "impressions": 460080,
+      "clicks": 11757
+    }
+  },
+  {
+    "campaign": "Men Athleisure Cooling",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.020603476193708448,
+      "impressions": 115959073,
+      "clicks": 2389160
+    }
+  },
+  {
+    "campaign": "Men Athleisurecooling",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.022955073729261723,
+      "impressions": 162622,
+      "clicks": 3733
+    }
+  },
+  {
+    "campaign": "Men Athleiure Cooling",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.02122413757679111,
+      "impressions": 146013,
+      "clicks": 3099
+    }
+  },
+  {
+    "campaign": "Men Athlisure Cooling",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.018271165488188183,
+      "impressions": 228119,
+      "clicks": 4168
+    }
+  },
+  {
+    "campaign": "Men Atleisure Cooling",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.017206363930232886,
+      "impressions": 284604,
+      "clicks": 4897
+    }
+  },
+  {
+    "campaign": "Men Bold Colors Drop",
+    "hypothesis": "CTR below 1.0%",
+    "reason": "Low CTR may drive low ROAS",
+    "metric": {
+      "ctr": 0.008922286675604307,
+      "impressions": 119305178,
+      "clicks": 1064475
+    }
+  },
+  {
+    "campaign": "Men ComfortMax Launch",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.015511543318459697,
+      "impressions": 115055476,
+      "clicks": 1784688
+    }
+  },
+  {
+    "campaign": "Men Premium Modal",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.01051630291902236,
+      "impressions": 117078788,
+      "clicks": 1231236
+    }
+  },
+  {
+    "campaign": "Men Signature Soft",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.014315327267371154,
+      "impressions": 120338150,
+      "clicks": 1722680
+    }
+  },
+  {
+    "campaign": "Men Thleisure Cooling",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.025973583123479378,
+      "impressions": 586519,
+      "clicks": 15234
+    }
+  },
+  {
+    "campaign": "Mn Athleisure Cooling",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.029317773788150807,
+      "impressions": 334200,
+      "clicks": 9798
+    }
+  },
+  {
+    "campaign": "Omen Summer Invisible",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.014531921749404179,
+      "impressions": 1033449,
+      "clicks": 15018
+    }
+  },
+  {
+    "campaign": "W Men Summer Invisible",
+    "hypothesis": "CTR below 1.0%",
+    "reason": "Low CTR may drive low ROAS",
+    "metric": {
+      "ctr": 0.008323810225974122,
+      "impressions": 271270,
+      "clicks": 2258
+    }
+  },
+  {
+    "campaign": "Woen Summer Invisible",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.014953823857796707,
+      "impressions": 676215,
+      "clicks": 10112
+    }
+  },
+  {
+    "campaign": "Wom N Summer Invisible",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.012233579150152767,
+      "impressions": 407485,
+      "clicks": 4985
+    }
+  },
+  {
+    "campaign": "Wome Summer Invisible",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.01169368874751311,
+      "impressions": 353353,
+      "clicks": 4132
+    }
+  },
+  {
+    "campaign": "Women Cotton Classics",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.010100421593477934,
+      "impressions": 121502354,
+      "clicks": 1227225
+    }
+  },
+  {
+    "campaign": "Women Fit Lift",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.01711294053358316,
+      "impressions": 117235784,
+      "clicks": 2006249
+    }
+  },
+  {
+    "campaign": "Women S Mmer Invisible",
+    "hypothesis": "CTR below 1.0%",
+    "reason": "Low CTR may drive low ROAS",
+    "metric": {
+      "ctr": 0.008492589422253855,
+      "impressions": 103973,
+      "clicks": 883
+    }
+  },
+  {
+    "campaign": "Women Seamless Everyday",
+    "hypothesis": "CTR below 1.0%",
+    "reason": "Low CTR may drive low ROAS",
+    "metric": {
+      "ctr": 0.008070095533419953,
+      "impressions": 119211476,
+      "clicks": 962048
+    }
+  },
+  {
+    "campaign": "Women Studio Sports",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.010890581698183851,
+      "impressions": 120981141,
+      "clicks": 1317555
+    }
+  },
+  {
+    "campaign": "Women Su Mer Invisible",
+    "hypothesis": "CTR below 1.0%",
+    "reason": "Low CTR may drive low ROAS",
+    "metric": {
+      "ctr": 0.0070428935549113735,
+      "impressions": 737197,
+      "clicks": 5192
+    }
+  },
+  {
+    "campaign": "Women Sum Er Invisible",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.012484333144921481,
+      "impressions": 244146,
+      "clicks": 3048
+    }
+  },
+  {
+    "campaign": "Women Summ R Invisible",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.010335368525171576,
+      "impressions": 673319,
+      "clicks": 6959
+    }
+  },
+  {
+    "campaign": "Women Summe Invisible",
+    "hypothesis": "CTR below 1.0%",
+    "reason": "Low CTR may drive low ROAS",
+    "metric": {
+      "ctr": 0.008043502888863713,
+      "impressions": 600236,
+      "clicks": 4828
+    }
+  },
+  {
+    "campaign": "Women Summer I Visible",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.013672391017173052,
+      "impressions": 469340,
+      "clicks": 6417
+    }
+  },
+  {
+    "campaign": "Women Summer In Isible",
+    "hypothesis": "CTR below 1.0%",
+    "reason": "Low CTR may drive low ROAS",
+    "metric": {
+      "ctr": 0.009664361677497029,
+      "impressions": 518296,
+      "clicks": 5009
+    }
+  },
+  {
+    "campaign": "Women Summer Inisible",
+    "hypothesis": "CTR below 1.0%",
+    "reason": "Low CTR may drive low ROAS",
+    "metric": {
+      "ctr": 0.00954749186467735,
+      "impressions": 32574,
+      "clicks": 311
+    }
+  },
+  {
+    "campaign": "Women Summer Inv Sible",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.011594780924163866,
+      "impressions": 35102,
+      "clicks": 407
+    }
+  },
+  {
+    "campaign": "Women Summer Invi Ible",
+    "hypothesis": "CTR below 1.0%",
+    "reason": "Low CTR may drive low ROAS",
+    "metric": {
+      "ctr": 0.009689971320709069,
+      "impressions": 396802,
+      "clicks": 3845
+    }
+  },
+  {
+    "campaign": "Women Summer Invisble",
+    "hypothesis": "CTR below 1.0%",
+    "reason": "Low CTR may drive low ROAS",
+    "metric": {
+      "ctr": 0.008935170270423924,
+      "impressions": 105538,
+      "clicks": 943
+    }
+  },
+  {
+    "campaign": "Women Summer Invisi Le",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.010382537883345259,
+      "impressions": 789595,
+      "clicks": 8198
+    }
+  },
+  {
+    "campaign": "Women Summer Invisib E",
+    "hypothesis": "CTR below 1.0%",
+    "reason": "Low CTR may drive low ROAS",
+    "metric": {
+      "ctr": 0.009975896300069198,
+      "impressions": 388737,
+      "clicks": 3878
+    }
+  },
+  {
+    "campaign": "Women Summer Invisibe",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.012431584368300658,
+      "impressions": 83497,
+      "clicks": 1038
+    }
+  },
+  {
+    "campaign": "Women Summer Invisible",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.010564802442128821,
+      "impressions": 109721976,
+      "clicks": 1159191
+    }
+  },
+  {
+    "campaign": "Women Summer Invsible",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.01067328575860999,
+      "impressions": 16115,
+      "clicks": 172
+    }
+  },
+  {
+    "campaign": "Women Summer Nvisible",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.015033485183519081,
+      "impressions": 631324,
+      "clicks": 9491
+    }
+  },
+  {
+    "campaign": "Women Ummer Invisible",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.015303104746466047,
+      "impressions": 319543,
+      "clicks": 4890
+    }
+  },
+  {
+    "campaign": "Womn Summer Invisible",
+    "hypothesis": "CTR healthy",
+    "reason": "CTR above threshold",
+    "metric": {
+      "ctr": 0.01246383667825106,
+      "impressions": 109918,
+      "clicks": 1370
+    }
+  }
+]

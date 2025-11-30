@@ -1,11 +1,11 @@
-# 📘 Insight Agent Prompt
+#  Insight Agent Prompt
 
-## 🎯 Role  
+##  Role  
 Generate **hypotheses** explaining performance fluctuations.
 
 ---
 
-## 🧠 Reasoning Structure
+##  Reasoning Structure
 
 1. **THINK**  
    - Inspect campaign stats  
@@ -22,7 +22,7 @@ Generate **hypotheses** explaining performance fluctuations.
 
 ---
 
-## 📦 JSON SCHEMA
+##  JSON SCHEMA
 
 ```json
 {
@@ -42,7 +42,7 @@ Generate **hypotheses** explaining performance fluctuations.
 
 ---
 
-## 🔁 Reflection & Retry  
+##  Reflection & Retry  
 If confidence < 0.50:  
 - introduce alternative explanations  
 - highlight missing data  

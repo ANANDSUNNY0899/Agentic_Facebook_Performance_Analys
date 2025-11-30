@@ -1,94 +1,103 @@
 
+# src/agents/evaluator.py
+import logging
+from typing import Dict, Any, List
 
-"""
-EvaluatorAgent
---------------
-Validate each hypothesis quantitatively and produce final verdicts and evidence.
-Simple logic: compute pct change, judge supported/inconclusive, build evidence payload.
-"""
-import math
+CTR_LOW_THRESHOLD = 0.01
 
 class EvaluatorAgent:
+    def __init__(self, config=None, logs_dir=None, metrics=None):
+        self.config = config or {}
+        self.logs_dir = logs_dir
+        self.metrics = metrics
 
-    def __init__(self):
-        pass
+    def validate(self, plan: Dict[str, Any], hypotheses: List[Dict[str, Any]], data_summary: Dict[str, Any]) -> List[Dict[str, Any]]:
+        """
+        Validate hypotheses using simple rules:
+         - If ctr is None => inconclusive
+         - If ctr < CTR_LOW_THRESHOLD and impressions >= 50000 => supported (conf 0.7)
+         - If ctr < CTR_LOW_THRESHOLD and impressions < 50000 => supported but lower conf (0.55)
+         - else => not_supported (ctr healthy)
+        """
+        logging.info("Validating hypotheses...")
+        validated = []
+        for h in hypotheses:
+            ctr = h["metric"].get("ctr")
+            imps = h["metric"].get("impressions", 0)
 
-    def validate(self, plan, hyp_bundle, data_summary):
-        results = []
-        camp_stats = {c["campaign"]: c for c in data_summary.get("campaign_stats", [])}
-
-        for h in hyp_bundle.get("hypotheses", []):
-            camp = h.get("campaign")
-            stats = camp_stats.get(camp)
-            if not stats:
-                results.append({
-                    "id": h.get("id"),
-                    "campaign": camp,
-                    "hypothesis": h.get("hypothesis"),
-                    "verdict": "inconclusive",
-                    "confidence": 0.35,
-                    "evidence": {}
-                })
-                continue
-
-            prior_ctr = stats.get("prior_ctr") or 0.0
-            recent_ctr = stats.get("recent_ctr") or 0.0
-            pct_change = stats.get("pct_change_ctr")
-
-            # basic decision rules
-            if pct_change is None:
-                verdict = "inconclusive"
-                confidence = 0.4
-            else:
-                if pct_change < -25:
-                    verdict = "supported"
-                    confidence = 0.85
-                elif pct_change < -10:
-                    verdict = "supported"
-                    confidence = 0.65
-                elif pct_change < -5:
-                    verdict = "inconclusive"
-                    confidence = 0.5
+            if ctr is None:
+                status = "inconclusive"
+                conf = 0.35
+                reason = "No impressions or insufficient data"
+            elif ctr < CTR_LOW_THRESHOLD:
+                if imps >= 50000:
+                    status = "supported"
+                    conf = 0.7
+                    reason = f"CTR below threshold ({ctr:.4f}) with sufficient impressions ({imps})"
                 else:
-                    verdict = "not_supported"
-                    confidence = 0.35
+                    status = "supported"
+                    conf = 0.55
+                    reason = f"CTR below threshold ({ctr:.4f}) but low impressions ({imps})"
+            else:
+                status = "not_supported"
+                conf = 0.55
+                reason = f"CTR healthy ({ctr:.4f})"
 
-            evidence = {
-                "prior_ctr": prior_ctr,
-                "recent_ctr": recent_ctr,
-                "pct_change_ctr": pct_change,
-                "recent_impressions": stats.get("recent_impressions")
-            }
-
-            results.append({
-                "id": h.get("id"),
-                "campaign": camp,
-                "hypothesis": h.get("hypothesis"),
-                "verdict": verdict,
-                "confidence": round(confidence, 2),
-                "evidence": evidence
+            validated.append({
+                "campaign": h["campaign"],
+                "status": status,
+                "confidence": conf,
+                "evidence": h["metric"],
+                "reason": reason
             })
 
-        return {"validations": results}
+        if self.metrics:
+            self.metrics.gauge("insights.validated", len(validated))
 
-    def generate_report(self, query, data_summary, validated, creatives):
-        lines = [
-            f"# Final Report — {query}",
-            "",
-            f"Date Range: {data_summary['date_range']['start']} → {data_summary['date_range']['end']}",
-            "",
-            "## Validated Insights",
-        ]
+        logging.info("✔ Validation complete.")
+        return validated
 
-        for v in validated["validations"]:
-            lines.append(f"- **{v['campaign']}** — *{v['verdict']}* (conf {v['confidence']})")
-            ev = v.get("evidence", {})
-            lines.append(f"  Evidence: prior_ctr={ev.get('prior_ctr')}, recent_ctr={ev.get('recent_ctr')}, pct_change={ev.get('pct_change_ctr')}, recent_imps={ev.get('recent_impressions')}\n")
+    def generate_report_text(self, query: str, data_summary: Dict[str, Any], validated: List[Dict[str, Any]], creatives: List[Dict[str, Any]]) -> str:
+        """
+        Creates a readable markdown report.
+        """
+        dr = data_summary.get("date_range", {})
+        start = dr.get("start", "N/A")
+        end = dr.get("end", "N/A")
 
-        lines.append("\n## Creative Recommendations\n")
-        for c in creatives.get("recommendations", []):
-            lines.append(f"### {c['campaign']}\nBaseline CTR: {c.get('baseline_ctr')}\nKeywords: {', '.join(c.get('keywords',[])[:5])}\nVariants:\n")
-            for v in c.get("variants", []):
-                lines.append(f"- {v['headline']} | {v['cta']} | {v.get('rationale')}\n")
-            lines.append(f"A/B plan: {c.get('ab_test_plan')}\n\n")
+        lines = []
+        lines.append(f"# Final Report — {query}")
+        lines.append("")
+        lines.append(f"Date Range: {start} → {end}")
+        lines.append("")
+        lines.append("## Validated Insights")
+        lines.append("")
+
+        for v in validated:
+            camp = v["campaign"]
+            status = v["status"]
+            conf = v["confidence"]
+            ev = v["evidence"]
+            if ev and ev.get("ctr") is not None:
+                ctr = ev["ctr"]
+                imps = ev["impressions"]
+                lines.append(f"- **{camp}** — *{status}* (conf {conf})")
+                lines.append(f"  Evidence: ctr={ctr}, impressions={imps}")
+                lines.append(f"  Reasons: {v['reason']}")
+                lines.append("")
+            else:
+                lines.append(f"- **{camp}** — *{status}* (conf {conf})")
+                lines.append(f"  Evidence: ctr=None, impressions={ev.get('impressions') if ev else 0}")
+                lines.append(f"  Reasons: {v['reason']}")
+                lines.append("")
+
+        lines.append("## Creative Recommendations")
+        lines.append("")
+        # creatives is list of dicts {campaign, variants}
+        for c in creatives:
+            lines.append(f"### {c['campaign']}")
+            for var in c.get("variants", []):
+                lines.append(f"- {var}")
+            lines.append("")
+
         return "\n".join(lines)

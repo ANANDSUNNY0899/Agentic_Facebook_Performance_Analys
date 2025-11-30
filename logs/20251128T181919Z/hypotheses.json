@@ -1,0 +1,13 @@
+{
+  "hypotheses": [
+    {
+      "id": "H-GLOBAL-000",
+      "campaign": "ALL",
+      "hypothesis": "No low-CTR campaigns detected in this window. Inspect spend shifts/seasonality.",
+      "think": "",
+      "analyze": "",
+      "evidence": {},
+      "confidence": 0.4
+    }
+  ]
+}

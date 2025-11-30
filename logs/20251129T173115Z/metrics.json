@@ -1,0 +1,19 @@
+{
+  "wall_time_sec": 0.5420963764190674,
+  "counters": {},
+  "gauges": {
+    "rows.processed": 4500,
+    "campaigns.unique": 8,
+    "hypotheses.generated": 8,
+    "insights.validated": 8,
+    "creatives.generated": 8
+  },
+  "timers": {
+    "pipeline.total": 0.5420963764190674,
+    "agent.data": 0.5380785465240479,
+    "agent.insight": 0.0,
+    "agent.evaluator": 0.0,
+    "agent.creative": 0.0,
+    "agent.report": 0.0
+  }
+}

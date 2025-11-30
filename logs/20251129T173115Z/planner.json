@@ -1,0 +1,6 @@
+{
+  "query": "integration test run",
+  "data_path": "data/synthetic_fb_ads_undergarments.csv",
+  "confidence_min": 0.6,
+  "random_seed": 42
+}

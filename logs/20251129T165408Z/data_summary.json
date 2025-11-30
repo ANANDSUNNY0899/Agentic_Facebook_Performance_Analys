@@ -1,0 +1,61 @@
+{
+  "date_range": {
+    "start": "2025-01-01 00:00:00",
+    "end": "2025-03-31 00:00:00"
+  },
+  "total_rows": 4500,
+  "total_impressions": 1190236513,
+  "total_clicks": 15071264,
+  "total_spend": 2105579.9,
+  "total_revenue": 12265700.719999999,
+  "campaigns": [
+    {
+      "campaign": "Men ComfortMax Launch",
+      "impressions": 115055476,
+      "clicks": 1784688,
+      "ctr": 0.015511543318459697
+    },
+    {
+      "campaign": "Women Seamless Everyday",
+      "impressions": 234908937,
+      "clicks": 2193587,
+      "ctr": 0.009338031272943864
+    },
+    {
+      "campaign": "Women Cotton Classics",
+      "impressions": 239877719,
+      "clicks": 3662242,
+      "ctr": 0.015267120328086829
+    },
+    {
+      "campaign": "Men Signature Soft",
+      "impressions": 121638214,
+      "clicks": 1750086,
+      "ctr": 0.014387633149562686
+    },
+    {
+      "campaign": "Men Premium Modal",
+      "impressions": 117995713,
+      "clicks": 1253952,
+      "ctr": 0.010627097952278996
+    },
+    {
+      "campaign": "Men Bold Colors Drop",
+      "impressions": 119793260,
+      "clicks": 1074127,
+      "ctr": 0.00896650612897587
+    },
+    {
+      "campaign": "Women Fit Lift",
+      "impressions": 118106197,
+      "clicks": 2016459,
+      "ctr": 0.017073270084210737
+    },
+    {
+      "campaign": "Women Studio Sports",
+      "impressions": 122860997,
+      "clicks": 1336123,
+      "ctr": 0.010875078606109635
+    }
+  ]
+}

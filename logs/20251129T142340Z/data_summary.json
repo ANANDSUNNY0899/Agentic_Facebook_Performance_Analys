@@ -1,0 +1,733 @@
+{
+  "date_range": {
+    "start": "2025-01-01 00:00:00",
+    "end": "2025-03-31 00:00:00"
+  },
+  "total_rows": 4500,
+  "total_impressions": 1190236513,
+  "total_clicks": 15071264,
+  "total_spend": 2105579.9,
+  "total_revenue": 12265700.719999999,
+  "campaigns": [
+    {
+      "campaign": "Men ComfortMax Launch",
+      "impressions": 115055476,
+      "clicks": 1784688,
+      "ctr": 0.015511543318459697
+    },
+    {
+      "campaign": "Women Seamless Everyday",
+      "impressions": 119211476,
+      "clicks": 962048,
+      "ctr": 0.008070095533419953
+    },
+    {
+      "campaign": "Men | Athleisure Cooling",
+      "impressions": 120809166,
+      "clicks": 2492533,
+      "ctr": 0.02063198582134074
+    },
+    {
+      "campaign": "Women Summer Invisible",
+      "impressions": 118719000,
+      "clicks": 1262575,
+      "ctr": 0.010634986817611334
+    },
+    {
+      "campaign": "Men Signature Soft",
+      "impressions": 111531489,
+      "clicks": 1596628,
+      "ctr": 0.014315490757950878
+    },
+    {
+      "campaign": "Men Signatu E Soft",
+      "impressions": 567945,
+      "clicks": 7608,
+      "ctr": 0.013395663312468636
+    },
+    {
+      "campaign": "Men Signatre Soft",
+      "impressions": 435189,
+      "clicks": 6485,
+      "ctr": 0.014901571501117905
+    },
+    {
+      "campaign": "Men Signa Ure Soft",
+      "impressions": 711973,
+      "clicks": 11711,
+      "ctr": 0.016448657463134137
+    },
+    {
+      "campaign": "Men Si Nature Soft",
+      "impressions": 696028,
+      "clicks": 11271,
+      "ctr": 0.01619331406207796
+    },
+    {
+      "campaign": "Men Sign Ture Soft",
+      "impressions": 507897,
+      "clicks": 7665,
+      "ctr": 0.015091642596825734
+    },
+    {
+      "campaign": "Men Signature Sot",
+      "impressions": 766506,
+      "clicks": 9234,
+      "ctr": 0.012046872431526955
+    },
+    {
+      "campaign": "Men Signature Oft",
+      "impressions": 398276,
+      "clicks": 4911,
+      "ctr": 0.012330645080296077
+    },
+    {
+      "campaign": "Men Signature Sft",
+      "impressions": 209339,
+      "clicks": 2666,
+      "ctr": 0.012735324043775885
+    },
+    {
+      "campaign": "En Signature Soft",
+      "impressions": 472257,
+      "clicks": 7141,
+      "ctr": 0.015121004029585586
+    },
+    {
+      "campaign": "Men Ignature Soft",
+      "impressions": 1007492,
+      "clicks": 17049,
+      "ctr": 0.016922218737220742
+    },
+    {
+      "campaign": "Men Sig Ature Soft",
+      "impressions": 385279,
+      "clicks": 4949,
+      "ctr": 0.01284523682837632
+    },
+    {
+      "campaign": "Men Signatue Soft",
+      "impressions": 178094,
+      "clicks": 2955,
+      "ctr": 0.01659236133727133
+    },
+    {
+      "campaign": "Men S Gnature Soft",
+      "impressions": 33799,
+      "clicks": 508,
+      "ctr": 0.015030030474274387
+    },
+    {
+      "campaign": "Men Sigature Soft",
+      "impressions": 834638,
+      "clicks": 12201,
+      "ctr": 0.014618313568277504
+    },
+    {
+      "campaign": "Men Signatur Soft",
+      "impressions": 186194,
+      "clicks": 2733,
+      "ctr": 0.014678238826170554
+    },
+    {
+      "campaign": "Men Signture Soft",
+      "impressions": 492469,
+      "clicks": 4563,
+      "ctr": 0.009265557832066586
+    },
+    {
+      "campaign": "Me Signature Soft",
+      "impressions": 157611,
+      "clicks": 3235,
+      "ctr": 0.020525217148549275
+    },
+    {
+      "campaign": "Men Signature S Ft",
+      "impressions": 444270,
+      "clicks": 6015,
+      "ctr": 0.01353906408265244
+    },
+    {
+      "campaign": "Men Sinature Soft",
+      "impressions": 321405,
+      "clicks": 3152,
+      "ctr": 0.009806941397924736
+    },
+    {
+      "campaign": "Women Fit & Lift",
+      "impressions": 95621982,
+      "clicks": 1641499,
+      "ctr": 0.01716654440398443
+    },
+    {
+      "campaign": "Women Fit & Ift",
+      "impressions": 528679,
+      "clicks": 10211,
+      "ctr": 0.019314177412002368
+    },
+    {
+      "campaign": "Wom N Fit & Lift",
+      "impressions": 1059297,
+      "clicks": 20759,
+      "ctr": 0.019596959115337813
+    },
+    {
+      "campaign": "Women Fit And Lift",
+      "impressions": 11465907,
+      "clicks": 188402,
+      "ctr": 0.016431495563325255
+    },
+    {
+      "campaign": "W Men Fit & Lift",
+      "impressions": 2016977,
+      "clicks": 37108,
+      "ctr": 0.01839783001987628
+    },
+    {
+      "campaign": "Wo En Fit & Lift",
+      "impressions": 1447219,
+      "clicks": 26511,
+      "ctr": 0.018318582052889023
+    },
+    {
+      "campaign": "Women Fit Lift",
+      "impressions": 881961,
+      "clicks": 12460,
+      "ctr": 0.01412760881716992
+    },
+    {
+      "campaign": "Woen Fit And Lift",
+      "impressions": 277850,
+      "clicks": 5069,
+      "ctr": 0.01824365664927119
+    },
+    {
+      "campaign": "Women It & Lift",
+      "impressions": 981572,
+      "clicks": 18811,
+      "ctr": 0.019164157086795468
+    },
+    {
+      "campaign": "Women Fit & Lft",
+      "impressions": 343448,
+      "clicks": 5303,
+      "ctr": 0.015440474249376907
+    },
+    {
+      "campaign": "Wome Fit & Lift",
+      "impressions": 354779,
+      "clicks": 5930,
+      "ctr": 0.016714630798327974
+    },
+    {
+      "campaign": "Women Fit& Lift",
+      "impressions": 358256,
+      "clicks": 6706,
+      "ctr": 0.018718458309142066
+    },
+    {
+      "campaign": "Woen Fit & Lift",
+      "impressions": 282108,
+      "clicks": 1933,
+      "ctr": 0.006851985764317212
+    },
+    {
+      "campaign": "Wmen Fit & Lift",
+      "impressions": 177675,
+      "clicks": 2267,
+      "ctr": 0.012759251442240044
+    },
+    {
+      "campaign": "Women F T & Lift",
+      "impressions": 505885,
+      "clicks": 9085,
+      "ctr": 0.01795862696067288
+    },
+    {
+      "campaign": "Wome Fit And Lift",
+      "impressions": 390575,
+      "clicks": 7297,
+      "ctr": 0.018682711387057543
+    },
+    {
+      "campaign": "Women Fi & Lift",
+      "impressions": 283469,
+      "clicks": 4887,
+      "ctr": 0.0172399803858623
+    },
+    {
+      "campaign": "Women Fit & Li T",
+      "impressions": 258145,
+      "clicks": 2011,
+      "ctr": 0.007790195432799396
+    },
+    {
+      "campaign": "Men Bold Colors Drop",
+      "impressions": 112989732,
+      "clicks": 1001087,
+      "ctr": 0.008859982073415307
+    },
+    {
+      "campaign": "Me Bold Colors Drop",
+      "impressions": 465437,
+      "clicks": 4406,
+      "ctr": 0.009466372462868229
+    },
+    {
+      "campaign": "Men Bo D Colors Drop",
+      "impressions": 334273,
+      "clicks": 3706,
+      "ctr": 0.011086746461724398
+    },
+    {
+      "campaign": "Men Bold Col Rs Drop",
+      "impressions": 534084,
+      "clicks": 3981,
+      "ctr": 0.007453883658750309
+    },
+    {
+      "campaign": "Men Bol Colors Drop",
+      "impressions": 417107,
+      "clicks": 3380,
+      "ctr": 0.008103436288530282
+    },
+    {
+      "campaign": "Men Old Colors Drop",
+      "impressions": 1135939,
+      "clicks": 12304,
+      "ctr": 0.010831567540158406
+    },
+    {
+      "campaign": "Men Bold Colo S Drop",
+      "impressions": 754308,
+      "clicks": 8969,
+      "ctr": 0.011890368390630884
+    },
+    {
+      "campaign": "Men Bold Colors Rop",
+      "impressions": 210987,
+      "clicks": 2485,
+      "ctr": 0.01177797684217511
+    },
+    {
+      "campaign": "Men Bld Colors Drop",
+      "impressions": 190935,
+      "clicks": 1716,
+      "ctr": 0.008987351716552754
+    },
+    {
+      "campaign": "Men Bold Olors Drop",
+      "impressions": 431456,
+      "clicks": 3296,
+      "ctr": 0.007639249425202106
+    },
+    {
+      "campaign": "Men Bold Clors Drop",
+      "impressions": 297961,
+      "clicks": 3547,
+      "ctr": 0.011904242501535435
+    },
+    {
+      "campaign": "M N Bold Colors Drop",
+      "impressions": 303822,
+      "clicks": 2317,
+      "ctr": 0.007626175852966539
+    },
+    {
+      "campaign": "Men B Ld Colors Drop",
+      "impressions": 490256,
+      "clicks": 5015,
+      "ctr": 0.01022934956430926
+    },
+    {
+      "campaign": "Men Bold Color Drop",
+      "impressions": 14882,
+      "clicks": 169,
+      "ctr": 0.011356000537562156
+    },
+    {
+      "campaign": "Men Bold Co Ors Drop",
+      "impressions": 300567,
+      "clicks": 3907,
+      "ctr": 0.01299876566622417
+    },
+    {
+      "campaign": "Men Bold Coors Drop",
+      "impressions": 21626,
+      "clicks": 155,
+      "ctr": 0.007167298622029039
+    },
+    {
+      "campaign": "Men Bold Colors Dr P",
+      "impressions": 30932,
+      "clicks": 275,
+      "ctr": 0.008890469416785207
+    },
+    {
+      "campaign": "Men Bold C Lors Drop",
+      "impressions": 207047,
+      "clicks": 2700,
+      "ctr": 0.01304051737045212
+    },
+    {
+      "campaign": "Men Boldcolors Drop",
+      "impressions": 173827,
+      "clicks": 1060,
+      "ctr": 0.006098016993907736
+    },
+    {
+      "campaign": "Women Cotton Classics",
+      "impressions": 111151755,
+      "clicks": 1119053,
+      "ctr": 0.010067794251201882
+    },
+    {
+      "campaign": "Wmen Cotton Classics",
+      "impressions": 326703,
+      "clicks": 4136,
+      "ctr": 0.012659816408175009
+    },
+    {
+      "campaign": "Women Co Ton Classics",
+      "impressions": 308617,
+      "clicks": 3523,
+      "ctr": 0.011415443737707255
+    },
+    {
+      "campaign": "Womn Cotton Classics",
+      "impressions": 689974,
+      "clicks": 5742,
+      "ctr": 0.008322052715029843
+    },
+    {
+      "campaign": "Women C Tton Classics",
+      "impressions": 905460,
+      "clicks": 9955,
+      "ctr": 0.010994411680250922
+    },
+    {
+      "campaign": "Women Cotton Lassics",
+      "impressions": 733063,
+      "clicks": 6572,
+      "ctr": 0.00896512305217969
+    },
+    {
+      "campaign": "Women Cotton Classis",
+      "impressions": 673303,
+      "clicks": 7589,
+      "ctr": 0.011271299845686117
+    },
+    {
+      "campaign": "W Men Cotton Classics",
+      "impressions": 1060088,
+      "clicks": 9640,
+      "ctr": 0.009093584683535707
+    },
+    {
+      "campaign": "Women Cot On Classics",
+      "impressions": 965816,
+      "clicks": 4311,
+      "ctr": 0.00446358312556429
+    },
+    {
+      "campaign": "Wom N Cotton Classics",
+      "impressions": 131808,
+      "clicks": 1618,
+      "ctr": 0.01227543092983734
+    },
+    {
+      "campaign": "Women Cotton Clasics",
+      "impressions": 102919,
+      "clicks": 1066,
+      "ctr": 0.010357659907305746
+    },
+    {
+      "campaign": "Women Coton Classics",
+      "impressions": 816211,
+      "clicks": 10291,
+      "ctr": 0.012608259383909307
+    },
+    {
+      "campaign": "Women Otton Classics",
+      "impressions": 691375,
+      "clicks": 7908,
+      "ctr": 0.011438076297233772
+    },
+    {
+      "campaign": "Women Cotton Clas Ics",
+      "impressions": 606029,
+      "clicks": 8126,
+      "ctr": 0.013408599258451328
+    },
+    {
+      "campaign": "Women Cotton Cl Ssics",
+      "impressions": 106615,
+      "clicks": 1301,
+      "ctr": 0.012202785724335224
+    },
+    {
+      "campaign": "Women Cottn Classics",
+      "impressions": 217209,
+      "clicks": 1816,
+      "ctr": 0.008360611208559498
+    },
+    {
+      "campaign": "Omen Cotton Classics",
+      "impressions": 203901,
+      "clicks": 2030,
+      "ctr": 0.009955811889103045
+    },
+    {
+      "campaign": "Woen Cotton Classics",
+      "impressions": 225783,
+      "clicks": 1228,
+      "ctr": 0.005438850577767148
+    },
+    {
+      "campaign": "Women Cotton Cla Sics",
+      "impressions": 152512,
+      "clicks": 1862,
+      "ctr": 0.012208875367184222
+    },
+    {
+      "campaign": "Womencotton Classics",
+      "impressions": 83855,
+      "clicks": 796,
+      "ctr": 0.009492576471289727
+    },
+    {
+      "campaign": "Women Cotton Class Cs",
+      "impressions": 312305,
+      "clicks": 3840,
+      "ctr": 0.012295672499639775
+    },
+    {
+      "campaign": "Women Cotto Classics",
+      "impressions": 262889,
+      "clicks": 4066,
+      "ctr": 0.015466603775738049
+    },
+    {
+      "campaign": "Women Cott N Classics",
+      "impressions": 311417,
+      "clicks": 2898,
+      "ctr": 0.009305850354990253
+    },
+    {
+      "campaign": "Women Ctton Classics",
+      "impressions": 462747,
+      "clicks": 7858,
+      "ctr": 0.01698120139082479
+    },
+    {
+      "campaign": "Men Premium Modal",
+      "impressions": 111768587,
+      "clicks": 1180487,
+      "ctr": 0.010561885335456553
+    },
+    {
+      "campaign": "Men Pr Mium Modal",
+      "impressions": 510469,
+      "clicks": 0,
+      "ctr": 0.0
+    },
+    {
+      "campaign": "En Premium Modal",
+      "impressions": 406432,
+      "clicks": 5858,
+      "ctr": 0.014413235178332415
+    },
+    {
+      "campaign": "Me Premium Modal",
+      "impressions": 1212596,
+      "clicks": 11460,
+      "ctr": 0.009450798122375466
+    },
+    {
+      "campaign": "Men Pre Ium Modal",
+      "impressions": 123022,
+      "clicks": 1335,
+      "ctr": 0.010851717578969616
+    },
+    {
+      "campaign": "Men Remium Modal",
+      "impressions": 1294443,
+      "clicks": 14100,
+      "ctr": 0.010892716017623025
+    },
+    {
+      "campaign": "Men Prem Um Modal",
+      "impressions": 515297,
+      "clicks": 7304,
+      "ctr": 0.014174349937996922
+    },
+    {
+      "campaign": "Men Premium Mod L",
+      "impressions": 189978,
+      "clicks": 1619,
+      "ctr": 0.008522039394035098
+    },
+    {
+      "campaign": "Men Premium Odal",
+      "impressions": 499439,
+      "clicks": 5778,
+      "ctr": 0.011568980396004317
+    },
+    {
+      "campaign": "Men Premiu Modal",
+      "impressions": 222084,
+      "clicks": 0,
+      "ctr": 0.0
+    },
+    {
+      "campaign": "Men Premium M Dal",
+      "impressions": 336441,
+      "clicks": 3295,
+      "ctr": 0.00979369339646476
+    },
+    {
+      "campaign": "Women | Studio Sports",
+      "impressions": 97708323,
+      "clicks": 1063105,
+      "ctr": 0.010880393474770824
+    },
+    {
+      "campaign": "Women Studio Sports",
+      "impressions": 16100989,
+      "clicks": 173082,
+      "ctr": 0.01074977443932171
+    },
+    {
+      "campaign": "Wom N Studio Sports",
+      "impressions": 264474,
+      "clicks": 3176,
+      "ctr": 0.012008741880109197
+    },
+    {
+      "campaign": "Women | Studio Sp Rts",
+      "impressions": 215166,
+      "clicks": 2305,
+      "ctr": 0.010712659063234898
+    },
+    {
+      "campaign": "Women Stud O Sports",
+      "impressions": 505640,
+      "clicks": 7066,
+      "ctr": 0.013974369116367376
+    },
+    {
+      "campaign": "Women Studio Spo Ts",
+      "impressions": 268566,
+      "clicks": 0,
+      "ctr": 0.0
+    },
+    {
+      "campaign": "Omen | Studio Sports",
+      "impressions": 658899,
+      "clicks": 8213,
+      "ctr": 0.012464732834622605
+    },
+    {
+      "campaign": "Women | Studio Ports",
+      "impressions": 283779,
+      "clicks": 3282,
+      "ctr": 0.011565337815694608
+    },
+    {
+      "campaign": "Women | Stu Io Sports",
+      "impressions": 777109,
+      "clicks": 8983,
+      "ctr": 0.011559510956635427
+    },
+    {
+      "campaign": "Women Studio Ports",
+      "impressions": 298747,
+      "clicks": 2691,
+      "ctr": 0.00900762183385942
+    },
+    {
+      "campaign": "Wmen | Studio Sports",
+      "impressions": 182623,
+      "clicks": 1135,
+      "ctr": 0.0062149893496438015
+    },
+    {
+      "campaign": "Women | Studio Spo Ts",
+      "impressions": 821043,
+      "clicks": 8882,
+      "ctr": 0.010817947415665196
+    },
+    {
+      "campaign": "Women | Studi Sports",
+      "impressions": 94330,
+      "clicks": 1149,
+      "ctr": 0.012180642425527403
+    },
+    {
+      "campaign": "Women | Studio Spors",
+      "impressions": 84053,
+      "clicks": 1086,
+      "ctr": 0.012920419259276885
+    },
+    {
+      "campaign": "Wo En | Studio Sports",
+      "impressions": 253623,
+      "clicks": 3146,
+      "ctr": 0.012404237786005213
+    },
+    {
+      "campaign": "Women Studio Spors",
+      "impressions": 400379,
+      "clicks": 6308,
+      "ctr": 0.01575507206921442
+    },
+    {
+      "campaign": "W Men | Studio Sports",
+      "impressions": 234642,
+      "clicks": 4239,
+      "ctr": 0.018065819418518425
+    },
+    {
+      "campaign": "Women | Studio Sprts",
+      "impressions": 138828,
+      "clicks": 1905,
+      "ctr": 0.013722015731696777
+    },
+    {
+      "campaign": "Omen Studio Sports",
+      "impressions": 282750,
+      "clicks": 2704,
+      "ctr": 0.009563218390804597
+    },
+    {
+      "campaign": "Women Studio S Orts",
+      "impressions": 270653,
+      "clicks": 1774,
+      "ctr": 0.006554518146852243
+    },
+    {
+      "campaign": "Women | Tudio Sports",
+      "impressions": 355351,
+      "clicks": 4027,
+      "ctr": 0.011332457204285341
+    },
+    {
+      "campaign": "Women | Sudio Sports",
+      "impressions": 207501,
+      "clicks": 1920,
+      "ctr": 0.009252967455578527
+    },
+    {
+      "campaign": "W Men Studio Sports",
+      "impressions": 469855,
+      "clicks": 5461,
+      "ctr": 0.01162273467346309
+    },
+    {
+      "campaign": "Women Studio Spots",
+      "impressions": 103818,
+      "clicks": 1916,
+      "ctr": 0.018455373827274652
+    }
+  ]
+}

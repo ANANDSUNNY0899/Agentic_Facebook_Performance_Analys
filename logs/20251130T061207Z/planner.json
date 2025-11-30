@@ -1,0 +1,14 @@
+{
+  "query": "Analyze ROAS drop",
+  "tasks": [
+    "load_data",
+    "summarize_data",
+    "generate_hypotheses",
+    "evaluate_hypotheses",
+    "generate_creatives",
+    "produce_report"
+  ],
+  "data_path": "data/sample_fb_ads.csv",
+  "confidence_min": 0.6,
+  "ctr_threshold": 0.01
+}

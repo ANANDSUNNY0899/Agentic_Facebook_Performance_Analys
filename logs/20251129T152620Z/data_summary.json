@@ -1,0 +1,130 @@
+{
+  "date_range": {
+    "start": "2025-03-17",
+    "end": "2025-03-31"
+  },
+  "total_spend_recent": 164027.12,
+  "campaign_performance": [
+    {
+      "campaign_name": "Men Athleisure Cooling",
+      "recent_ctr": 0.0205,
+      "prior_ctr": 0.0204,
+      "ctr_change": 0.0001,
+      "recent_roas": 11.27,
+      "prior_roas": 9.19,
+      "recent_impressions": 9344669,
+      "recent_spend": 16503.88,
+      "status": "active"
+    },
+    {
+      "campaign_name": "Men Bold Colors Drop",
+      "recent_ctr": 0.008,
+      "prior_ctr": 0.0081,
+      "ctr_change": -0.0001,
+      "recent_roas": 1.99,
+      "prior_roas": 2.04,
+      "recent_impressions": 10170373,
+      "recent_spend": 15213.71,
+      "status": "active"
+    },
+    {
+      "campaign_name": "Men ComfortMax Launch",
+      "recent_ctr": 0.0153,
+      "prior_ctr": 0.0153,
+      "ctr_change": -0.0001,
+      "recent_roas": 5.1,
+      "prior_roas": 7.4,
+      "recent_impressions": 8249645,
+      "recent_spend": 16439.46,
+      "status": "active"
+    },
+    {
+      "campaign_name": "Men Premium Modal",
+      "recent_ctr": 0.0101,
+      "prior_ctr": 0.0107,
+      "ctr_change": -0.0006,
+      "recent_roas": 6.28,
+      "prior_roas": 6.06,
+      "recent_impressions": 8701841,
+      "recent_spend": 11735.98,
+      "status": "active"
+    },
+    {
+      "campaign_name": "Men Signature Soft",
+      "recent_ctr": 0.0146,
+      "prior_ctr": 0.0126,
+      "ctr_change": 0.002,
+      "recent_roas": 1.55,
+      "prior_roas": 1.4,
+      "recent_impressions": 8658182,
+      "recent_spend": 17796.1,
+      "status": "active"
+    },
+    {
+      "campaign_name": "Unmapped Campaign",
+      "recent_ctr": 0.0204,
+      "prior_ctr": 0.0049,
+      "ctr_change": 0.0154,
+      "recent_roas": 7.46,
+      "prior_roas": 0.42,
+      "recent_impressions": 611576,
+      "recent_spend": 987.37,
+      "status": "active"
+    },
+    {
+      "campaign_name": "Women Cotton Classics",
+      "recent_ctr": 0.0097,
+      "prior_ctr": 0.0097,
+      "ctr_change": 0.0,
+      "recent_roas": 7.75,
+      "prior_roas": 8.65,
+      "recent_impressions": 9160239,
+      "recent_spend": 16974.36,
+      "status": "active"
+    },
+    {
+      "campaign_name": "Women Fit & Lift",
+      "recent_ctr": 0.0179,
+      "prior_ctr": 0.0164,
+      "ctr_change": 0.0015,
+      "recent_roas": 3.42,
+      "prior_roas": 2.87,
+      "recent_impressions": 9649653,
+      "recent_spend": 20955.15,
+      "status": "active"
+    },
+    {
+      "campaign_name": "Women Seamless Everyday",
+      "recent_ctr": 0.0079,
+      "prior_ctr": 0.006,
+      "ctr_change": 0.0019,
+      "recent_roas": 5.23,
+      "prior_roas": 3.78,
+      "recent_impressions": 8367007,
+      "recent_spend": 13696.91,
+      "status": "active"
+    },
+    {
+      "campaign_name": "Women Studio Sports",
+      "recent_ctr": 0.0099,
+      "prior_ctr": 0.0097,
+      "ctr_change": 0.0002,
+      "recent_roas": 6.88,
+      "prior_roas": 8.35,
+      "recent_impressions": 8239048,
+      "recent_spend": 16295.52,
+      "status": "active"
+    },
+    {
+      "campaign_name": "Women Summer Invisible",
+      "recent_ctr": 0.0103,
+      "prior_ctr": 0.0104,
+      "ctr_change": -0.0001,
+      "recent_roas": 4.12,
+      "prior_roas": 4.78,
+      "recent_impressions": 9229631,
+      "recent_spend": 17428.68,
+      "status": "active"
+    }
+  ]
+}

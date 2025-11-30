@@ -1,4 +1,4 @@
-# 📊 Agent Architecture & Data Flow (Kasparro Agentic Facebook Performance Analyst)
+#  Agent Architecture & Data Flow (Kasparro Agentic Facebook Performance Analyst)
 
 Below is the high-level architecture of the multi-agent system.
 
@@ -59,7 +59,7 @@ Below is the high-level architecture of the multi-agent system.
 
 ---
 
-## 🔍 Agent Roles Summary
+##  Agent Roles Summary
 
 ### **1. Planner Agent**
 - Converts user request into structured tasks  
@@ -100,7 +100,7 @@ Below is the high-level architecture of the multi-agent system.
 
 ---
 
-## 🎯 Final Output
+##  Final Output
 - insights.json  
 - creatives.json  
 - report.md  

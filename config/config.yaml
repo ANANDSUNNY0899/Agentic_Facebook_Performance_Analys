@@ -1,0 +1,30 @@
+# data_path: "data/synthetic_fb_ads_undergarments.csv"
+# confidence_min: 0.6
+# random_seed: 42
+# use_sample_data: true
+
+
+
+# config/config.yaml
+env: "dev"   # options: dev, prod
+
+data:
+  # change to your csv for full run
+  dev_path: "data/synthetic_fb_ads_undergarments.csv"
+  prod_path: "data/synthetic_fb_ads_undergarments.csv"
+  use_sample_data: false
+
+evaluator:
+  min_confidence: 0.6
+  ctr_threshold: 0.01         # CTR threshold (example)
+  min_recent_impressions: 5000
+
+creative:
+  variants: 5
+  ab_test_duration_days: 7
+
+runtime:
+  retry:
+    attempts: 3
+    initial_delay_sec: 0.5
+    backoff_factor: 2.0

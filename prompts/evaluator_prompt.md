@@ -1,11 +1,11 @@
-# 📘 Evaluator Agent Prompt
+#  Evaluator Agent Prompt
 
-## 🎯 Role  
+##  Role  
 Validate hypotheses using **quantitative evidence**.
 
 ---
 
-## 🧠 Reasoning Structure
+##  Reasoning Structure
 
 1. **THINK**  
    - What is the hypothesis claiming?  
@@ -22,7 +22,7 @@ Validate hypotheses using **quantitative evidence**.
 
 ---
 
-## 📦 JSON SCHEMA
+##  JSON SCHEMA
 
 ```json
 {
@@ -45,7 +45,7 @@ Validate hypotheses using **quantitative evidence**.
 
 ---
 
-## 🔁 Reflection & Retry
+##  Reflection & Retry
 If verdict cannot be determined:  
 - Mark as `"inconclusive"`  
 - Request more granular data  

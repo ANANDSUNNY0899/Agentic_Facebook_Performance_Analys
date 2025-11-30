@@ -1,0 +1,25 @@
+{
+  "run_id": "20251129T143042Z",
+  "counters": {
+    "runs.started": 1,
+    "insights.generated": 112,
+    "insights.validated": 33,
+    "creatives.generated": 33
+  },
+  "timings": {
+    "planner.latency": 0.0,
+    "data.latency": 0.28487467765808105,
+    "insight.latency": 0.0,
+    "evaluator.latency": 0.0,
+    "creative.latency": 0.0,
+    "report.latency": 0.013536214828491211
+  },
+  "gauges": {
+    "rows.processed": 4500,
+    "campaigns.unique": 112,
+    "hypotheses.count": 112,
+    "insights.validated": 33,
+    "creatives.generated": 33
+  },
+  "timestamp": 1764426643.1251328
+}

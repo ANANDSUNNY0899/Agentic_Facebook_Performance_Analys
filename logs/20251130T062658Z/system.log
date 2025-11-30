@@ -1,0 +1,25 @@
+2025-11-30 11:56:58,031 | INFO | root | ===== Run Started =====
+2025-11-30 11:56:58,031 | INFO | root | RUN_ID: 20251130T062658Z
+2025-11-30 11:56:58,031 | INFO | root | User Query: Analyze ROAS Drop
+2025-11-30 11:56:58,031 | INFO | root | Config file loaded successfully.
+2025-11-30 11:56:58,031 | INFO | root | Resolved data path: data/synthetic_fb_ads_undergarments.csv
+2025-11-30 11:56:58,031 | INFO | root | PlannerAgent completed. Saved planner.json
+2025-11-30 11:56:58,031 | INFO | root | Reading dataset: data/synthetic_fb_ads_undergarments.csv
+2025-11-30 11:56:58,063 | INFO | root | Running dataset validation...
+2025-11-30 11:56:58,068 | INFO | root | ✔ All required columns are present.
+2025-11-30 11:56:58,075 | WARNING | root | ⚠ Column 'clicks' contains 152 null values.
+2025-11-30 11:56:58,075 | WARNING | root | ⚠ Column 'spend' contains 113 null values.
+2025-11-30 11:56:58,075 | WARNING | root | ⚠ Column 'revenue' contains 133 null values.
+2025-11-30 11:56:58,077 | INFO | root | ✔ Null checks completed.
+2025-11-30 11:56:58,077 | INFO | root | ✔ Type checks completed.
+2025-11-30 11:56:58,425 | INFO | root | ✔ Data summary created.
+2025-11-30 11:56:58,425 | INFO | root | Data summary saved.
+2025-11-30 11:56:58,425 | INFO | root | Generating hypotheses for campaigns...
+2025-11-30 11:56:58,425 | INFO | root | ✔ Hypotheses generated.
+2025-11-30 11:56:58,433 | INFO | root | Hypotheses saved.
+2025-11-30 11:56:58,435 | INFO | root | Validating hypotheses...
+2025-11-30 11:56:58,435 | INFO | root | ✔ Validation complete.
+2025-11-30 11:56:58,440 | INFO | root | Insights saved.
+2025-11-30 11:56:58,440 | INFO | root | Generating creatives...
+2025-11-30 11:56:58,440 | INFO | root | ✔ Creatives generated.
+2025-11-30 11:56:58,442 | INFO | root | Creatives saved.

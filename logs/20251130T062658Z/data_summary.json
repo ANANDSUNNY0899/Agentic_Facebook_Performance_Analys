@@ -1,0 +1,397 @@
+{
+  "date_range": {
+    "start": "2025-01-01 00:00:00",
+    "end": "2025-03-31 00:00:00"
+  },
+  "total_rows": 4500,
+  "total_impressions": 1190236513,
+  "total_clicks": 15071264,
+  "total_spend": 2105579.9,
+  "total_revenue": 12265700.719999999,
+  "campaigns": [
+    {
+      "campaign": "M N Athleisure Cooling",
+      "impressions": 694422,
+      "clicks": 11074,
+      "ctr": 0.015947075409477235,
+      "spend": 1208.59,
+      "revenue": 12732.1
+    },
+    {
+      "campaign": "Me Athleisure Cooling",
+      "impressions": 450720,
+      "clicks": 8002,
+      "ctr": 0.017753816116435926,
+      "spend": 529.16,
+      "revenue": 8640.71
+    },
+    {
+      "campaign": "Men Ath Eisure Cooling",
+      "impressions": 330406,
+      "clicks": 7482,
+      "ctr": 0.022644867223960825,
+      "spend": 906.42,
+      "revenue": 10214.71
+    },
+    {
+      "campaign": "Men Athlei Ure Cooling",
+      "impressions": 488082,
+      "clicks": 9652,
+      "ctr": 0.019775365614794236,
+      "spend": 380.09,
+      "revenue": 17455.25
+    },
+    {
+      "campaign": "Men Athleis Re Cooling",
+      "impressions": 180813,
+      "clicks": 2537,
+      "ctr": 0.014031070774778363,
+      "spend": 110.42,
+      "revenue": 2878.6
+    },
+    {
+      "campaign": "Men Athleisur Cooling",
+      "impressions": 80792,
+      "clicks": 1648,
+      "ctr": 0.020398059213783543,
+      "spend": 262.67,
+      "revenue": 1536.74
+    },
+    {
+      "campaign": "Men Athleisure Co Ling",
+      "impressions": 365385,
+      "clicks": 9144,
+      "ctr": 0.02502565786772856,
+      "spend": 375.98,
+      "revenue": 9026.59
+    },
+    {
+      "campaign": "Men Athleisure Coling",
+      "impressions": 57316,
+      "clicks": 1148,
+      "ctr": 0.020029311187103077,
+      "spend": 455.41,
+      "revenue": 620.68
+    },
+    {
+      "campaign": "Men Athleisure Cooli G",
+      "impressions": 460080,
+      "clicks": 11757,
+      "ctr": 0.025554251434533125,
+      "spend": 536.26,
+      "revenue": 0.0
+    },
+    {
+      "campaign": "Men Athleisure Cooling",
+      "impressions": 115959073,
+      "clicks": 2389160,
+      "ctr": 0.020603476193708448,
+      "spend": 198834.25,
+      "revenue": 2550315.82
+    },
+    {
+      "campaign": "Men Athleisurecooling",
+      "impressions": 162622,
+      "clicks": 3733,
+      "ctr": 0.022955073729261723,
+      "spend": 1031.07,
+      "revenue": 0.0
+    },
+    {
+      "campaign": "Men Athleiure Cooling",
+      "impressions": 146013,
+      "clicks": 3099,
+      "ctr": 0.02122413757679111,
+      "spend": 478.33,
+      "revenue": 6291.64
+    },
+    {
+      "campaign": "Men Athlisure Cooling",
+      "impressions": 228119,
+      "clicks": 4168,
+      "ctr": 0.018271165488188183,
+      "spend": 0.0,
+      "revenue": 4714.6
+    },
+    {
+      "campaign": "Men Atleisure Cooling",
+      "impressions": 284604,
+      "clicks": 4897,
+      "ctr": 0.017206363930232886,
+      "spend": 668.0,
+      "revenue": 5287.52
+    },
+    {
+      "campaign": "Men Bold Colors Drop",
+      "impressions": 119305178,
+      "clicks": 1064475,
+      "ctr": 0.008922286675604307,
+      "spend": 212904.78,
+      "revenue": 373764.82
+    },
+    {
+      "campaign": "Men ComfortMax Launch",
+      "impressions": 115055476,
+      "clicks": 1784688,
+      "ctr": 0.015511543318459697,
+      "spend": 208601.83,
+      "revenue": 1389823.67
+    },
+    {
+      "campaign": "Men Premium Modal",
+      "impressions": 117078788,
+      "clicks": 1231236,
+      "ctr": 0.01051630291902236,
+      "spend": 200828.31,
+      "revenue": 1081363.43
+    },
+    {
+      "campaign": "Men Signature Soft",
+      "impressions": 120338150,
+      "clicks": 1722680,
+      "ctr": 0.014315327267371154,
+      "spend": 212795.95,
+      "revenue": 340657.12
+    },
+    {
+      "campaign": "Men Thleisure Cooling",
+      "impressions": 586519,
+      "clicks": 15234,
+      "ctr": 0.025973583123479378,
+      "spend": 1252.31,
+      "revenue": 17063.15
+    },
+    {
+      "campaign": "Mn Athleisure Cooling",
+      "impressions": 334200,
+      "clicks": 9798,
+      "ctr": 0.029317773788150807,
+      "spend": 487.27,
+      "revenue": 5654.74
+    },
+    {
+      "campaign": "Omen Summer Invisible",
+      "impressions": 1033449,
+      "clicks": 15018,
+      "ctr": 0.014531921749404179,
+      "spend": 1101.79,
+      "revenue": 10662.24
+    },
+    {
+      "campaign": "W Men Summer Invisible",
+      "impressions": 271270,
+      "clicks": 2258,
+      "ctr": 0.008323810225974122,
+      "spend": 718.49,
+      "revenue": 764.82
+    },
+    {
+      "campaign": "Woen Summer Invisible",
+      "impressions": 676215,
+      "clicks": 10112,
+      "ctr": 0.014953823857796707,
+      "spend": 857.37,
+      "revenue": 5704.469999999999
+    },
+    {
+      "campaign": "Wom N Summer Invisible",
+      "impressions": 407485,
+      "clicks": 4985,
+      "ctr": 0.012233579150152767,
+      "spend": 742.6,
+      "revenue": 4587.79
+    },
+    {
+      "campaign": "Wome Summer Invisible",
+      "impressions": 353353,
+      "clicks": 4132,
+      "ctr": 0.01169368874751311,
+      "spend": 774.25,
+      "revenue": 4697.43
+    },
+    {
+      "campaign": "Women Cotton Classics",
+      "impressions": 121502354,
+      "clicks": 1227225,
+      "ctr": 0.010100421593477934,
+      "spend": 212640.07,
+      "revenue": 1613528.05
+    },
+    {
+      "campaign": "Women Fit Lift",
+      "impressions": 117235784,
+      "clicks": 2006249,
+      "ctr": 0.01711294053358316,
+      "spend": 221397.23,
+      "revenue": 814793.62
+    },
+    {
+      "campaign": "Women S Mmer Invisible",
+      "impressions": 103973,
+      "clicks": 883,
+      "ctr": 0.008492589422253855,
+      "spend": 712.73,
+      "revenue": 944.89
+    },
+    {
+      "campaign": "Women Seamless Everyday",
+      "impressions": 119211476,
+      "clicks": 962048,
+      "ctr": 0.008070095533419953,
+      "spend": 205528.35,
+      "revenue": 1113499.32
+    },
+    {
+      "campaign": "Women Studio Sports",
+      "impressions": 120981141,
+      "clicks": 1317555,
+      "ctr": 0.010890581698183851,
+      "spend": 208758.4,
+      "revenue": 1859500.64
+    },
+    {
+      "campaign": "Women Su Mer Invisible",
+      "impressions": 737197,
+      "clicks": 5192,
+      "ctr": 0.0070428935549113735,
+      "spend": 476.51,
+      "revenue": 4121.18
+    },
+    {
+      "campaign": "Women Sum Er Invisible",
+      "impressions": 244146,
+      "clicks": 3048,
+      "ctr": 0.012484333144921481,
+      "spend": 220.86,
+      "revenue": 2566.37
+    },
+    {
+      "campaign": "Women Summ R Invisible",
+      "impressions": 673319,
+      "clicks": 6959,
+      "ctr": 0.010335368525171576,
+      "spend": 1532.0300000000002,
+      "revenue": 3878.3999999999996
+    },
+    {
+      "campaign": "Women Summe Invisible",
+      "impressions": 600236,
+      "clicks": 4828,
+      "ctr": 0.008043502888863713,
+      "spend": 1279.1499999999999,
+      "revenue": 3843.71
+    },
+    {
+      "campaign": "Women Summer I Visible",
+      "impressions": 469340,
+      "clicks": 6417,
+      "ctr": 0.013672391017173052,
+      "spend": 385.74,
+      "revenue": 7361.49
+    },
+    {
+      "campaign": "Women Summer In Isible",
+      "impressions": 518296,
+      "clicks": 5009,
+      "ctr": 0.009664361677497029,
+      "spend": 1584.85,
+      "revenue": 4411.46
+    },
+    {
+      "campaign": "Women Summer Inisible",
+      "impressions": 32574,
+      "clicks": 311,
+      "ctr": 0.00954749186467735,
+      "spend": 471.28,
+      "revenue": 251.79
+    },
+    {
+      "campaign": "Women Summer Inv Sible",
+      "impressions": 35102,
+      "clicks": 407,
+      "ctr": 0.011594780924163866,
+      "spend": 323.0,
+      "revenue": 0.0
+    },
+    {
+      "campaign": "Women Summer Invi Ible",
+      "impressions": 396802,
+      "clicks": 3845,
+      "ctr": 0.009689971320709069,
+      "spend": 1007.2900000000001,
+      "revenue": 3965.2799999999997
+    },
+    {
+      "campaign": "Women Summer Invisble",
+      "impressions": 105538,
+      "clicks": 943,
+      "ctr": 0.008935170270423924,
+      "spend": 703.95,
+      "revenue": 1019.23
+    },
+    {
+      "campaign": "Women Summer Invisi Le",
+      "impressions": 789595,
+      "clicks": 8198,
+      "ctr": 0.010382537883345259,
+      "spend": 1144.1,
+      "revenue": 8855.27
+    },
+    {
+      "campaign": "Women Summer Invisib E",
+      "impressions": 388737,
+      "clicks": 3878,
+      "ctr": 0.009975896300069198,
+      "spend": 544.2,
+      "revenue": 4776.37
+    },
+    {
+      "campaign": "Women Summer Invisibe",
+      "impressions": 83497,
+      "clicks": 1038,
+      "ctr": 0.012431584368300658,
+      "spend": 599.92,
+      "revenue": 624.61
+    },
+    {
+      "campaign": "Women Summer Invisible",
+      "impressions": 109721976,
+      "clicks": 1159191,
+      "ctr": 0.010564802442128821,
+      "spend": 196206.61,
+      "revenue": 938694.8
+    },
+    {
+      "campaign": "Women Summer Invsible",
+      "impressions": 16115,
+      "clicks": 172,
+      "ctr": 0.01067328575860999,
+      "spend": 459.81,
+      "revenue": 200.45
+    },
+    {
+      "campaign": "Women Summer Nvisible",
+      "impressions": 631324,
+      "clicks": 9491,
+      "ctr": 0.015033485183519081,
+      "spend": 1696.3999999999999,
+      "revenue": 9534.23
+    },
+    {
+      "campaign": "Women Ummer Invisible",
+      "impressions": 319543,
+      "clicks": 4890,
+      "ctr": 0.015303104746466047,
+      "spend": 737.89,
+      "revenue": 3870.36
+    },
+    {
+      "campaign": "Womn Summer Invisible",
+      "impressions": 109918,
+      "clicks": 1370,
+      "ctr": 0.01246383667825106,
+      "spend": 327.93,
+      "revenue": 1000.56
+    }
+  ]
+}

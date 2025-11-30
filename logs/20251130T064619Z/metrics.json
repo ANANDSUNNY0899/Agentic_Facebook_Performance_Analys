@@ -1,0 +1,13 @@
+{
+  "counters": {
+    "rows.processed": 4500,
+    "total.impressions": 1190236513,
+    "canonical_campaigns.active": 10,
+    "hypotheses.generated": 10,
+    "insights.validated": 10,
+    "creatives.generated": 10
+  },
+  "timers": {
+    "pipeline_total": 0.10999155044555664
+  }
+}

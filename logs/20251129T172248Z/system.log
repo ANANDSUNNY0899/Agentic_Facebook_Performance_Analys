@@ -1,0 +1,28 @@
+2025-11-29 22:52:48,670 | INFO | root | ===== Run Started =====
+2025-11-29 22:52:48,672 | INFO | root | RUN_ID: 20251129T172248Z
+2025-11-29 22:52:48,672 | INFO | root | User Query: Analyze ROAS drop
+2025-11-29 22:52:48,673 | INFO | root | Config file loaded successfully.
+2025-11-29 22:52:48,673 | INFO | root | PlannerAgent completed. Saved planner.json
+2025-11-29 22:52:48,673 | INFO | root | Reading dataset: data/synthetic_fb_ads_undergarments.csv
+2025-11-29 22:52:48,688 | INFO | root | Running dataset validation...
+2025-11-29 22:52:48,689 | INFO | root | ✔ All required columns are present.
+2025-11-29 22:52:48,693 | WARNING | root | ⚠ Column 'spend' contains 113 null values.
+2025-11-29 22:52:48,693 | WARNING | root | ⚠ Column 'clicks' contains 152 null values.
+2025-11-29 22:52:48,694 | WARNING | root | ⚠ Column 'revenue' contains 133 null values.
+2025-11-29 22:52:48,694 | WARNING | root | ⚠ Column 'roas' contains 9 null values.
+2025-11-29 22:52:48,694 | INFO | root | ✔ Null/type checks completed.
+2025-11-29 22:52:49,101 | INFO | root | ✔ Data summary created.
+2025-11-29 22:52:49,102 | INFO | root | DataAgent summary complete. Saved data_summary.json
+2025-11-29 22:52:49,102 | INFO | root | Generating hypotheses for campaigns...
+2025-11-29 22:52:49,102 | INFO | root | ✔ Hypotheses generated.
+2025-11-29 22:52:49,103 | INFO | root | InsightAgent generated hypotheses. Saved hypotheses.json
+2025-11-29 22:52:49,103 | INFO | root | Validating hypotheses...
+2025-11-29 22:52:49,103 | INFO | root | ✔ Validation complete.
+2025-11-29 22:52:49,103 | INFO | root | EvaluatorAgent completed. Saved reports/insights.json
+2025-11-29 22:52:49,103 | INFO | root | Generating creatives...
+2025-11-29 22:52:49,103 | INFO | root | ✔ Creatives generated.
+2025-11-29 22:52:49,105 | INFO | root | CreativeAgent completed. Saved reports/creatives.json
+2025-11-29 22:52:49,105 | INFO | root | Final Report generated → reports\report.md
+2025-11-29 22:52:49,106 | INFO | root | Metrics written.
+2025-11-29 22:52:49,106 | INFO | root | ===== Run Completed Successfully =====
+2025-11-29 22:52:49,107 | INFO | root | Logs Folder: logs/20251129T172248Z

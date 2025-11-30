@@ -1,199 +1,277 @@
-{
-  "validations": [
-    {
-      "id": "H-0ee7360a",
-      "campaign": "M N Bold Colors Drop",
-      "hypothesis": "creative_over_reliance",
-      "verdict": "inconclusive",
-      "confidence": 0.4,
-      "evidence": {
-        "prior_ctr": 0.0,
-        "recent_ctr": 0.007626175852966539,
-        "pct_change_ctr": null,
-        "recent_impressions": 303822
-      }
+[
+  {
+    "campaign": "Women Seamless Everyday",
+    "status": "supported",
+    "confidence": 0.7,
+    "evidence": {
+      "ctr": 0.008070095533419953,
+      "impressions": 119211476,
+      "clicks": 962048
     },
-    {
-      "id": "H-7e1cefc6",
-      "campaign": "Men Bol Colors Drop",
-      "hypothesis": "creative_over_reliance",
-      "verdict": "inconclusive",
-      "confidence": 0.4,
-      "evidence": {
-        "prior_ctr": 0.0,
-        "recent_ctr": 0.007057433649456638,
-        "pct_change_ctr": null,
-        "recent_impressions": 417107
-      }
+    "reason": "CTR below threshold (0.0081) with sufficient impressions (119211476)"
+  },
+  {
+    "campaign": "Men ComfortMax Launch",
+    "status": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.015511543318459697,
+      "impressions": 115055476,
+      "clicks": 1784688
     },
-    {
-      "id": "H-dce94ac8",
-      "campaign": "Men Bold Col Rs Drop",
-      "hypothesis": "creative_over_reliance",
-      "verdict": "inconclusive",
-      "confidence": 0.4,
-      "evidence": {
-        "prior_ctr": 0.0,
-        "recent_ctr": 0.00688723846780772,
-        "pct_change_ctr": null,
-        "recent_impressions": 534084
-      }
+    "reason": "CTR healthy (0.0155)"
+  },
+  {
+    "campaign": "Men Bold Colors Drop",
+    "status": "supported",
+    "confidence": 0.7,
+    "evidence": {
+      "ctr": 0.008922286675604307,
+      "impressions": 119305178,
+      "clicks": 1064475
     },
-    {
-      "id": "H-3db8ac05",
-      "campaign": "Men Comfortmax Lau Ch",
-      "hypothesis": "creative_drop_detected",
-      "verdict": "supported",
-      "confidence": 0.85,
-      "evidence": {
-        "prior_ctr": 0.01909963582320663,
-        "recent_ctr": 0.00847681900130667,
-        "pct_change_ctr": -55.617902457558486,
-        "recent_impressions": 120918
-      }
+    "reason": "CTR below threshold (0.0089) with sufficient impressions (119305178)"
+  },
+  {
+    "campaign": "Women Cotton Classics",
+    "status": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.010100421593477934,
+      "impressions": 121502354,
+      "clicks": 1227225
     },
-    {
-      "id": "H-19606754",
-      "campaign": "Men Premiu Modal",
-      "hypothesis": "creative_over_reliance",
-      "verdict": "inconclusive",
-      "confidence": 0.4,
-      "evidence": {
-        "prior_ctr": 0.0,
-        "recent_ctr": 0.0,
-        "pct_change_ctr": null,
-        "recent_impressions": 222084
-      }
+    "reason": "CTR healthy (0.0101)"
+  },
+  {
+    "campaign": "Men Premium Modal",
+    "status": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.01051630291902236,
+      "impressions": 117078788,
+      "clicks": 1231236
     },
-    {
-      "id": "H-8e0e0faa",
-      "campaign": "Men Premium Mod L",
-      "hypothesis": "creative_drop_detected or creative_over_reliance",
-      "verdict": "supported",
-      "confidence": 0.85,
-      "evidence": {
-        "prior_ctr": 0.0100608862696578,
-        "recent_ctr": 0.005705687810982332,
-        "pct_change_ctr": -43.28841756029115,
-        "recent_impressions": 67126
-      }
+    "reason": "CTR healthy (0.0105)"
+  },
+  {
+    "campaign": "Women Studio Sports",
+    "status": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.010890581698183851,
+      "impressions": 120981141,
+      "clicks": 1317555
     },
-    {
-      "id": "H-89a232c7",
-      "campaign": "Men Premium Odal",
-      "hypothesis": "creative_drop_detected or creative_over_reliance",
-      "verdict": "supported",
-      "confidence": 0.85,
-      "evidence": {
-        "prior_ctr": 0.013125101658542727,
-        "recent_ctr": 0.00655330159562324,
-        "pct_change_ctr": -50.07046980578702,
-        "recent_impressions": 118261
-      }
+    "reason": "CTR healthy (0.0109)"
+  },
+  {
+    "campaign": "Women Fit Lift",
+    "status": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.01711294053358316,
+      "impressions": 117235784,
+      "clicks": 2006249
     },
-    {
-      "id": "H-6eb3f61c",
-      "campaign": "W Men Summer Invisible",
-      "hypothesis": "creative_over_reliance",
-      "verdict": "inconclusive",
-      "confidence": 0.4,
-      "evidence": {
-        "prior_ctr": 0.0,
-        "recent_ctr": 0.008323810225974122,
-        "pct_change_ctr": null,
-        "recent_impressions": 271270
-      }
+    "reason": "CTR healthy (0.0171)"
+  },
+  {
+    "campaign": "Men Signature Soft",
+    "status": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.014315327267371154,
+      "impressions": 120338150,
+      "clicks": 1722680
     },
-    {
-      "id": "H-58210c0c",
-      "campaign": "Woen Cotton Classics",
-      "hypothesis": "creative_over_reliance",
-      "verdict": "inconclusive",
-      "confidence": 0.4,
-      "evidence": {
-        "prior_ctr": 0.0,
-        "recent_ctr": 0.005438850577767148,
-        "pct_change_ctr": null,
-        "recent_impressions": 225783
-      }
+    "reason": "CTR healthy (0.0143)"
+  },
+  {
+    "campaign": "Women Summer Invisible",
+    "status": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.010634986817611334,
+      "impressions": 118719000,
+      "clicks": 1262575
     },
-    {
-      "id": "H-68a309d3",
-      "campaign": "Women Fit & Li T",
-      "hypothesis": "creative_over_reliance",
-      "verdict": "inconclusive",
-      "confidence": 0.4,
-      "evidence": {
-        "prior_ctr": 0.0,
-        "recent_ctr": 0.007790195432799396,
-        "pct_change_ctr": null,
-        "recent_impressions": 258145
-      }
+    "reason": "CTR healthy (0.0106)"
+  },
+  {
+    "campaign": "Men Athleisure Cooling",
+    "status": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.020603476193708448,
+      "impressions": 115959073,
+      "clicks": 2389160
     },
-    {
-      "id": "H-0de08dc6",
-      "campaign": "Women S Mmer Invisible",
-      "hypothesis": "creative_over_reliance",
-      "verdict": "inconclusive",
-      "confidence": 0.4,
-      "evidence": {
-        "prior_ctr": 0.0,
-        "recent_ctr": 0.008492589422253855,
-        "pct_change_ctr": null,
-        "recent_impressions": 103973
-      }
+    "reason": "CTR healthy (0.0206)"
+  },
+  {
+    "campaign": "M N Athleisure Cooling",
+    "status": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.015947075409477235,
+      "impressions": 694422,
+      "clicks": 11074
     },
-    {
-      "id": "H-d9af5e10",
-      "campaign": "Women Seamless Everyday",
-      "hypothesis": "creative_underperformance",
-      "verdict": "inconclusive",
-      "confidence": 0.5,
-      "evidence": {
-        "prior_ctr": 0.008432747744349347,
-        "recent_ctr": 0.007850964364195643,
-        "pct_change_ctr": -6.899096211475653,
-        "recent_impressions": 36892066
-      }
+    "reason": "CTR healthy (0.0159)"
+  },
+  {
+    "campaign": "Men Thleisure Cooling",
+    "status": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.025973583123479378,
+      "impressions": 586519,
+      "clicks": 15234
     },
-    {
-      "id": "H-1f8e917c",
-      "campaign": "Women Seamless Everydy",
-      "hypothesis": "creative_over_reliance",
-      "verdict": "inconclusive",
-      "confidence": 0.4,
-      "evidence": {
-        "prior_ctr": 0.0,
-        "recent_ctr": 0.005261022684114215,
-        "pct_change_ctr": null,
-        "recent_impressions": 463408
-      }
+    "reason": "CTR healthy (0.0260)"
+  },
+  {
+    "campaign": "Men Athlei Ure Cooling",
+    "status": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.019775365614794236,
+      "impressions": 488082,
+      "clicks": 9652
     },
-    {
-      "id": "H-bac4fa94",
-      "campaign": "Women Studio S Orts",
-      "hypothesis": "creative_over_reliance",
-      "verdict": "inconclusive",
-      "confidence": 0.4,
-      "evidence": {
-        "prior_ctr": 0.0,
-        "recent_ctr": 0.006554518146852243,
-        "pct_change_ctr": null,
-        "recent_impressions": 270653
-      }
+    "reason": "CTR healthy (0.0198)"
+  },
+  {
+    "campaign": "Men Athleisure Cooli G",
+    "status": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.025554251434533125,
+      "impressions": 460080,
+      "clicks": 11757
     },
-    {
-      "id": "H-98216970",
-      "campaign": "Women Studio Spo Ts",
-      "hypothesis": "creative_drop_detected",
-      "verdict": "supported",
-      "confidence": 0.85,
-      "evidence": {
-        "prior_ctr": 0.009461624087095812,
-        "recent_ctr": 0.00615381378664675,
-        "pct_change_ctr": -34.96028028592261,
-        "recent_impressions": 190126
-      }
-    }
-  ]
-}
+    "reason": "CTR healthy (0.0256)"
+  },
+  {
+    "campaign": "Me Athleisure Cooling",
+    "status": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.017753816116435926,
+      "impressions": 450720,
+      "clicks": 8002
+    },
+    "reason": "CTR healthy (0.0178)"
+  },
+  {
+    "campaign": "Men Athleisure Co Ling",
+    "status": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.02502565786772856,
+      "impressions": 365385,
+      "clicks": 9144
+    },
+    "reason": "CTR healthy (0.0250)"
+  },
+  {
+    "campaign": "Mn Athleisure Cooling",
+    "status": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.029317773788150807,
+      "impressions": 334200,
+      "clicks": 9798
+    },
+    "reason": "CTR healthy (0.0293)"
+  },
+  {
+    "campaign": "Men Ath Eisure Cooling",
+    "status": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.022644867223960825,
+      "impressions": 330406,
+      "clicks": 7482
+    },
+    "reason": "CTR healthy (0.0226)"
+  },
+  {
+    "campaign": "Men Atleisure Cooling",
+    "status": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.017206363930232886,
+      "impressions": 284604,
+      "clicks": 4897
+    },
+    "reason": "CTR healthy (0.0172)"
+  },
+  {
+    "campaign": "Men Athlisure Cooling",
+    "status": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.018271165488188183,
+      "impressions": 228119,
+      "clicks": 4168
+    },
+    "reason": "CTR healthy (0.0183)"
+  },
+  {
+    "campaign": "Men Athleis Re Cooling",
+    "status": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.014031070774778363,
+      "impressions": 180813,
+      "clicks": 2537
+    },
+    "reason": "CTR healthy (0.0140)"
+  },
+  {
+    "campaign": "Men Athleisurecooling",
+    "status": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.022955073729261723,
+      "impressions": 162622,
+      "clicks": 3733
+    },
+    "reason": "CTR healthy (0.0230)"
+  },
+  {
+    "campaign": "Men Athleiure Cooling",
+    "status": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.02122413757679111,
+      "impressions": 146013,
+      "clicks": 3099
+    },
+    "reason": "CTR healthy (0.0212)"
+  },
+  {
+    "campaign": "Men Athleisur Cooling",
+    "status": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.020398059213783543,
+      "impressions": 80792,
+      "clicks": 1648
+    },
+    "reason": "CTR healthy (0.0204)"
+  },
+  {
+    "campaign": "Men Athleisure Coling",
+    "status": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.020029311187103077,
+      "impressions": 57316,
+      "clicks": 1148
+    },
+    "reason": "CTR healthy (0.0200)"
+  }
+]

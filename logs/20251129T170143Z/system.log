@@ -1,0 +1,17 @@
+2025-11-29 22:31:43,218 | INFO | root | ===== Run Started =====
+2025-11-29 22:31:43,218 | INFO | root | RUN_ID: 20251129T170143Z
+2025-11-29 22:31:43,218 | INFO | root | User Query: Analyze ROAS drop
+2025-11-29 22:31:43,233 | INFO | root | Config file loaded successfully.
+2025-11-29 22:31:43,233 | INFO | root | PlannerAgent completed. Saved planner.json
+2025-11-29 22:31:43,233 | INFO | root | Reading dataset: data/synthetic_fb_ads_undergarments.csv
+2025-11-29 22:31:43,311 | INFO | root | DataAgent summary complete. Saved data_summary.json
+2025-11-29 22:31:43,311 | INFO | root | Generated 87 hypotheses.
+2025-11-29 22:31:43,327 | INFO | root | InsightAgent generated hypotheses. Saved hypotheses.json
+2025-11-29 22:31:43,327 | INFO | root | Validated 23 insights (min_conf=0.6).
+2025-11-29 22:31:43,327 | INFO | root | EvaluatorAgent completed. Saved reports/insights.json
+2025-11-29 22:31:43,327 | INFO | root | Generated creatives for 23 campaigns.
+2025-11-29 22:31:43,327 | INFO | root | CreativeAgent completed. Saved reports/creatives.json
+2025-11-29 22:31:43,327 | INFO | root | Final Report generated → reports/report.md
+2025-11-29 22:31:43,327 | INFO | root | ===== Run Completed Successfully =====
+2025-11-29 22:31:43,327 | INFO | root | Logs Folder: logs/20251129T170143Z
+2025-11-29 22:31:43,327 | INFO | root | ======================================

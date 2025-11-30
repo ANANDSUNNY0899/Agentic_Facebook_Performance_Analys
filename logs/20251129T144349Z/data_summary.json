@@ -1,0 +1,67 @@
+{
+  "date_range": {
+    "start": "2025-01-01 00:00:00",
+    "end": "2025-03-31 00:00:00"
+  },
+  "total_rows": 4500,
+  "total_impressions": 1190236513,
+  "total_clicks": 15071264,
+  "total_spend": 2105579.9,
+  "total_revenue": 12265700.719999999,
+  "campaigns": [
+    {
+      "campaign": "Men Comfortmax Launch",
+      "impressions": 115641995,
+      "clicks": 1799922,
+      "ctr": 0.0155646052284034
+    },
+    {
+      "campaign": "Women Seamless Everyday",
+      "impressions": 119211476,
+      "clicks": 962048,
+      "ctr": 0.008070095533419953
+    },
+    {
+      "campaign": "Women Cotton Classics",
+      "impressions": 241394595,
+      "clicks": 3697042,
+      "ctr": 0.015315347056548636
+    },
+    {
+      "campaign": "Men Bold Colors Drop",
+      "impressions": 119635584,
+      "clicks": 1071957,
+      "ctr": 0.008960185290690769
+    },
+    {
+      "campaign": "Women Summer Invisible",
+      "impressions": 118719000,
+      "clicks": 1262575,
+      "ctr": 0.010634986817611334
+    },
+    {
+      "campaign": "Men Signature Soft",
+      "impressions": 120338150,
+      "clicks": 1722680,
+      "ctr": 0.014315327267371154
+    },
+    {
+      "campaign": "Women Fit Lift",
+      "impressions": 117235784,
+      "clicks": 2006249,
+      "ctr": 0.01711294053358316
+    },
+    {
+      "campaign": "Men Premium Modal",
+      "impressions": 117078788,
+      "clicks": 1231236,
+      "ctr": 0.01051630291902236
+    },
+    {
+      "campaign": "Women Studio Sports",
+      "impressions": 120981141,
+      "clicks": 1317555,
+      "ctr": 0.010890581698183851
+    }
+  ]
+}

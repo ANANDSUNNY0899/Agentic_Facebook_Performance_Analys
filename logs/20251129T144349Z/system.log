@@ -1,0 +1,16 @@
+2025-11-29 20:13:49,458 | INFO | root | ===== Run Started =====
+2025-11-29 20:13:49,458 | INFO | root | RUN_ID: 20251129T144349Z
+2025-11-29 20:13:49,458 | INFO | root | User Query: Analyze ROAS drop
+2025-11-29 20:13:49,458 | INFO | root | Config file loaded successfully.
+2025-11-29 20:13:49,458 | INFO | root | PlannerAgent completed. Saved planner.json
+2025-11-29 20:13:49,539 | INFO | root | DataAgent summary complete. Saved data_summary.json
+2025-11-29 20:13:49,545 | INFO | root | Generated 9 hypotheses.
+2025-11-29 20:13:49,546 | INFO | root | InsightAgent generated hypotheses. Saved hypotheses.json
+2025-11-29 20:13:49,547 | INFO | root | Validated 2 insights (min_conf=0.6).
+2025-11-29 20:13:49,547 | INFO | root | EvaluatorAgent completed. Saved reports/insights.json
+2025-11-29 20:13:49,549 | INFO | root | Generated creatives for 2 campaigns.
+2025-11-29 20:13:49,549 | INFO | root | CreativeAgent completed. Saved reports/creatives.json
+2025-11-29 20:13:49,549 | INFO | root | Final Report generated → reports/report.md
+2025-11-29 20:13:49,551 | INFO | root | ===== Run Completed Successfully =====
+2025-11-29 20:13:49,552 | INFO | root | Logs Folder: logs/20251129T144349Z
+2025-11-29 20:13:49,552 | INFO | root | ======================================

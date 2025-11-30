@@ -1,0 +1,103 @@
+{
+  "date_range": {
+    "start": "2025-01-01 00:00:00",
+    "end": "2025-03-31 00:00:00"
+  },
+  "total_rows": 4500,
+  "total_impressions": 1190236513,
+  "total_clicks": 15071264,
+  "total_spend": 2105579.9,
+  "total_revenue": 12265700.719999999,
+  "campaigns": [
+    {
+      "campaign": "Women Seamless Everyday",
+      "impressions": 119211476,
+      "clicks": 962048,
+      "spend": 205528.35,
+      "revenue": 1113499.32,
+      "ctr": 0.008070095533419953,
+      "rows": 450
+    },
+    {
+      "campaign": "Men ComfortMax Launch",
+      "impressions": 115055476,
+      "clicks": 1784688,
+      "spend": 208601.83,
+      "revenue": 1389823.67,
+      "ctr": 0.015511543318459697,
+      "rows": 450
+    },
+    {
+      "campaign": "Men Bold Colors Drop",
+      "impressions": 119305178,
+      "clicks": 1064475,
+      "spend": 212904.78,
+      "revenue": 373764.82,
+      "ctr": 0.008922286675604307,
+      "rows": 450
+    },
+    {
+      "campaign": "Women Cotton Classics",
+      "impressions": 121502354,
+      "clicks": 1227225,
+      "spend": 212640.07,
+      "revenue": 1613528.05,
+      "ctr": 0.010100421593477934,
+      "rows": 450
+    },
+    {
+      "campaign": "Men Premium Modal",
+      "impressions": 117078788,
+      "clicks": 1231236,
+      "spend": 200828.31,
+      "revenue": 1081363.43,
+      "ctr": 0.01051630291902236,
+      "rows": 450
+    },
+    {
+      "campaign": "Women Studio Sports",
+      "impressions": 120981141,
+      "clicks": 1317555,
+      "spend": 208758.4,
+      "revenue": 1859500.64,
+      "ctr": 0.010890581698183851,
+      "rows": 450
+    },
+    {
+      "campaign": "Women Fit Lift",
+      "impressions": 117235784,
+      "clicks": 2006249,
+      "spend": 221397.23,
+      "revenue": 814793.62,
+      "ctr": 0.01711294053358316,
+      "rows": 450
+    },
+    {
+      "campaign": "Men Signature Soft",
+      "impressions": 120338150,
+      "clicks": 1722680,
+      "spend": 212795.95,
+      "revenue": 340657.12,
+      "ctr": 0.014315327267371154,
+      "rows": 450
+    },
+    {
+      "campaign": "Men Athleisure Cooling",
+      "impressions": 120809166,
+      "clicks": 2492533,
+      "spend": 207516.23,
+      "revenue": 2652432.85,
+      "ctr": 0.02063198582134074,
+      "rows": 450
+    },
+    {
+      "campaign": "Women Summer Invisible",
+      "impressions": 118719000,
+      "clicks": 1262575,
+      "spend": 214608.75,
+      "revenue": 1026337.2,
+      "ctr": 0.010634986817611334,
+      "rows": 450
+    }
+  ]
+}

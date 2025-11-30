@@ -1,0 +1,486 @@
+[
+  {
+    "campaign": "M N Athleisure Cooling",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.015947075409477235,
+      "impressions": 694422
+    },
+    "reason": "CTR between 1% and 2%"
+  },
+  {
+    "campaign": "Me Athleisure Cooling",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.017753816116435926,
+      "impressions": 450720
+    },
+    "reason": "CTR between 1% and 2%"
+  },
+  {
+    "campaign": "Men Ath Eisure Cooling",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "inconclusive",
+    "confidence": 0.35,
+    "evidence": {
+      "ctr": 0.022644867223960825,
+      "impressions": 330406
+    },
+    "reason": null
+  },
+  {
+    "campaign": "Men Athlei Ure Cooling",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.019775365614794236,
+      "impressions": 488082
+    },
+    "reason": "CTR between 1% and 2%"
+  },
+  {
+    "campaign": "Men Athleisure Co Ling",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "inconclusive",
+    "confidence": 0.35,
+    "evidence": {
+      "ctr": 0.02502565786772856,
+      "impressions": 365385
+    },
+    "reason": null
+  },
+  {
+    "campaign": "Men Athleisure Coling",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "inconclusive",
+    "confidence": 0.35,
+    "evidence": {
+      "ctr": 0.020029311187103077,
+      "impressions": 57316
+    },
+    "reason": null
+  },
+  {
+    "campaign": "Men Athleisure Cooli G",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "inconclusive",
+    "confidence": 0.35,
+    "evidence": {
+      "ctr": 0.025554251434533125,
+      "impressions": 460080
+    },
+    "reason": null
+  },
+  {
+    "campaign": "Men Athleisurecooling",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "inconclusive",
+    "confidence": 0.35,
+    "evidence": {
+      "ctr": 0.022955073729261723,
+      "impressions": 162622
+    },
+    "reason": null
+  },
+  {
+    "campaign": "Men Athleiure Cooling",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "inconclusive",
+    "confidence": 0.35,
+    "evidence": {
+      "ctr": 0.02122413757679111,
+      "impressions": 146013
+    },
+    "reason": null
+  },
+  {
+    "campaign": "Men Bold Colors Drop",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "supported",
+    "confidence": 0.7,
+    "evidence": {
+      "ctr": 0.008922286675604307,
+      "impressions": 119305178
+    },
+    "reason": "CTR below 1%"
+  },
+  {
+    "campaign": "Men ComfortMax Launch",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.015477822675828774,
+      "impressions": 114189317
+    },
+    "reason": "CTR between 1% and 2%"
+  },
+  {
+    "campaign": "Men Omfortmax Launch",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "inconclusive",
+    "confidence": 0.35,
+    "evidence": {
+      "ctr": 0.021997599393279495,
+      "impressions": 502373
+    },
+    "reason": null
+  },
+  {
+    "campaign": "Men Premium Modal",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.01051630291902236,
+      "impressions": 117078788
+    },
+    "reason": "CTR between 1% and 2%"
+  },
+  {
+    "campaign": "Men Signature Soft",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.014315327267371154,
+      "impressions": 120338150
+    },
+    "reason": "CTR between 1% and 2%"
+  },
+  {
+    "campaign": "Men Thleisure Cooling",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "inconclusive",
+    "confidence": 0.35,
+    "evidence": {
+      "ctr": 0.025973583123479378,
+      "impressions": 586519
+    },
+    "reason": null
+  },
+  {
+    "campaign": "Mencomfortmax Launch",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.01713919722034383,
+      "impressions": 363786
+    },
+    "reason": "CTR between 1% and 2%"
+  },
+  {
+    "campaign": "Mn Athleisure Cooling",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "inconclusive",
+    "confidence": 0.35,
+    "evidence": {
+      "ctr": 0.029317773788150807,
+      "impressions": 334200
+    },
+    "reason": null
+  },
+  {
+    "campaign": "Omen Summer Invisible",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.014531921749404179,
+      "impressions": 1033449
+    },
+    "reason": "CTR between 1% and 2%"
+  },
+  {
+    "campaign": "W Men Summer Invisible",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "supported",
+    "confidence": 0.7,
+    "evidence": {
+      "ctr": 0.008323810225974122,
+      "impressions": 271270
+    },
+    "reason": "CTR below 1%"
+  },
+  {
+    "campaign": "Woen Summer Invisible",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.014953823857796707,
+      "impressions": 676215
+    },
+    "reason": "CTR between 1% and 2%"
+  },
+  {
+    "campaign": "Wom N Summer Invisible",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.012233579150152767,
+      "impressions": 407485
+    },
+    "reason": "CTR between 1% and 2%"
+  },
+  {
+    "campaign": "Wome Summer Invisible",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.01169368874751311,
+      "impressions": 353353
+    },
+    "reason": "CTR between 1% and 2%"
+  },
+  {
+    "campaign": "Women Cotton Classics",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.015235475464209811,
+      "impressions": 238235755
+    },
+    "reason": "CTR between 1% and 2%"
+  },
+  {
+    "campaign": "Women Fit Lift",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.01711294053358316,
+      "impressions": 117235784
+    },
+    "reason": "CTR between 1% and 2%"
+  },
+  {
+    "campaign": "Women S Mmer Invisible",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "supported",
+    "confidence": 0.7,
+    "evidence": {
+      "ctr": 0.008492589422253855,
+      "impressions": 103973
+    },
+    "reason": "CTR below 1%"
+  },
+  {
+    "campaign": "Women Seamless Everyday",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "supported",
+    "confidence": 0.7,
+    "evidence": {
+      "ctr": 0.008079117448319009,
+      "impressions": 119455622
+    },
+    "reason": "CTR below 1%"
+  },
+  {
+    "campaign": "Women Studio Sports",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.010890581698183851,
+      "impressions": 120981141
+    },
+    "reason": "CTR between 1% and 2%"
+  },
+  {
+    "campaign": "Women Su Mer Invisible",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "supported",
+    "confidence": 0.7,
+    "evidence": {
+      "ctr": 0.0070428935549113735,
+      "impressions": 737197
+    },
+    "reason": "CTR below 1%"
+  },
+  {
+    "campaign": "Women Summ R Invisible",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.010335368525171576,
+      "impressions": 673319
+    },
+    "reason": "CTR between 1% and 2%"
+  },
+  {
+    "campaign": "Women Summe Invisible",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "supported",
+    "confidence": 0.7,
+    "evidence": {
+      "ctr": 0.008043502888863713,
+      "impressions": 600236
+    },
+    "reason": "CTR below 1%"
+  },
+  {
+    "campaign": "Women Summer I Visible",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.013672391017173052,
+      "impressions": 469340
+    },
+    "reason": "CTR between 1% and 2%"
+  },
+  {
+    "campaign": "Women Summer In Isible",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "supported",
+    "confidence": 0.7,
+    "evidence": {
+      "ctr": 0.009664361677497029,
+      "impressions": 518296
+    },
+    "reason": "CTR below 1%"
+  },
+  {
+    "campaign": "Women Summer Inisible",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "supported",
+    "confidence": 0.7,
+    "evidence": {
+      "ctr": 0.00954749186467735,
+      "impressions": 32574
+    },
+    "reason": "CTR below 1%"
+  },
+  {
+    "campaign": "Women Summer Inv Sible",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.011594780924163866,
+      "impressions": 35102
+    },
+    "reason": "CTR between 1% and 2%"
+  },
+  {
+    "campaign": "Women Summer Invi Ible",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "supported",
+    "confidence": 0.7,
+    "evidence": {
+      "ctr": 0.009689971320709069,
+      "impressions": 396802
+    },
+    "reason": "CTR below 1%"
+  },
+  {
+    "campaign": "Women Summer Invisble",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "supported",
+    "confidence": 0.7,
+    "evidence": {
+      "ctr": 0.008935170270423924,
+      "impressions": 105538
+    },
+    "reason": "CTR below 1%"
+  },
+  {
+    "campaign": "Women Summer Invisi Le",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.010382537883345259,
+      "impressions": 789595
+    },
+    "reason": "CTR between 1% and 2%"
+  },
+  {
+    "campaign": "Women Summer Invisib E",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "supported",
+    "confidence": 0.7,
+    "evidence": {
+      "ctr": 0.009975896300069198,
+      "impressions": 388737
+    },
+    "reason": "CTR below 1%"
+  },
+  {
+    "campaign": "Women Summer Invisibe",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.012431584368300658,
+      "impressions": 83497
+    },
+    "reason": "CTR between 1% and 2%"
+  },
+  {
+    "campaign": "Women Summer Invisible",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.010564802442128821,
+      "impressions": 109721976
+    },
+    "reason": "CTR between 1% and 2%"
+  },
+  {
+    "campaign": "Women Summer Invsible",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.01067328575860999,
+      "impressions": 16115
+    },
+    "reason": "CTR between 1% and 2%"
+  },
+  {
+    "campaign": "Women Summer Nvisible",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.015033485183519081,
+      "impressions": 631324
+    },
+    "reason": "CTR between 1% and 2%"
+  },
+  {
+    "campaign": "Women Ummer Invisible",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.015303104746466047,
+      "impressions": 319543
+    },
+    "reason": "CTR between 1% and 2%"
+  },
+  {
+    "campaign": "Womn Summer Invisible",
+    "hypothesis": "Low CTR may be driving ROAS drop",
+    "support": "not_supported",
+    "confidence": 0.55,
+    "evidence": {
+      "ctr": 0.01246383667825106,
+      "impressions": 109918
+    },
+    "reason": "CTR between 1% and 2%"
+  }
+]

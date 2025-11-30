@@ -1,322 +1,257 @@
-# Final Report — Analyze the ROAS Drop
+# Final Report — Analyze ROAS Drop
 
-Date Range: 2025-01-01 → 2025-03-31
+Date Range: 2025-01-01 00:00:00 → 2025-03-31 00:00:00
 
 ## Validated Insights
-- **M N Bold Colors Drop** — *inconclusive* (conf 0.4)
-  Evidence: prior_ctr=0.0, recent_ctr=0.007626175852966539, pct_change=None, recent_imps=303822
 
-- **Men Bol Colors Drop** — *inconclusive* (conf 0.4)
-  Evidence: prior_ctr=0.0, recent_ctr=0.007057433649456638, pct_change=None, recent_imps=417107
+- **Women Seamless Everyday** — *supported* (conf 0.7)
+  Evidence: ctr=0.008070095533419953, impressions=119211476
+  Reasons: CTR below threshold (0.0081) with sufficient impressions (119211476)
 
-- **Men Bold Col Rs Drop** — *inconclusive* (conf 0.4)
-  Evidence: prior_ctr=0.0, recent_ctr=0.00688723846780772, pct_change=None, recent_imps=534084
+- **Men ComfortMax Launch** — *not_supported* (conf 0.55)
+  Evidence: ctr=0.015511543318459697, impressions=115055476
+  Reasons: CTR healthy (0.0155)
 
-- **Men Comfortmax Lau Ch** — *supported* (conf 0.85)
-  Evidence: prior_ctr=0.01909963582320663, recent_ctr=0.00847681900130667, pct_change=-55.617902457558486, recent_imps=120918
+- **Men Bold Colors Drop** — *supported* (conf 0.7)
+  Evidence: ctr=0.008922286675604307, impressions=119305178
+  Reasons: CTR below threshold (0.0089) with sufficient impressions (119305178)
 
-- **Men Premiu Modal** — *inconclusive* (conf 0.4)
-  Evidence: prior_ctr=0.0, recent_ctr=0.0, pct_change=None, recent_imps=222084
+- **Women Cotton Classics** — *not_supported* (conf 0.55)
+  Evidence: ctr=0.010100421593477934, impressions=121502354
+  Reasons: CTR healthy (0.0101)
 
-- **Men Premium Mod L** — *supported* (conf 0.85)
-  Evidence: prior_ctr=0.0100608862696578, recent_ctr=0.005705687810982332, pct_change=-43.28841756029115, recent_imps=67126
+- **Men Premium Modal** — *not_supported* (conf 0.55)
+  Evidence: ctr=0.01051630291902236, impressions=117078788
+  Reasons: CTR healthy (0.0105)
 
-- **Men Premium Odal** — *supported* (conf 0.85)
-  Evidence: prior_ctr=0.013125101658542727, recent_ctr=0.00655330159562324, pct_change=-50.07046980578702, recent_imps=118261
+- **Women Studio Sports** — *not_supported* (conf 0.55)
+  Evidence: ctr=0.010890581698183851, impressions=120981141
+  Reasons: CTR healthy (0.0109)
 
-- **W Men Summer Invisible** — *inconclusive* (conf 0.4)
-  Evidence: prior_ctr=0.0, recent_ctr=0.008323810225974122, pct_change=None, recent_imps=271270
+- **Women Fit Lift** — *not_supported* (conf 0.55)
+  Evidence: ctr=0.01711294053358316, impressions=117235784
+  Reasons: CTR healthy (0.0171)
 
-- **Woen Cotton Classics** — *inconclusive* (conf 0.4)
-  Evidence: prior_ctr=0.0, recent_ctr=0.005438850577767148, pct_change=None, recent_imps=225783
+- **Men Signature Soft** — *not_supported* (conf 0.55)
+  Evidence: ctr=0.014315327267371154, impressions=120338150
+  Reasons: CTR healthy (0.0143)
 
-- **Women Fit & Li T** — *inconclusive* (conf 0.4)
-  Evidence: prior_ctr=0.0, recent_ctr=0.007790195432799396, pct_change=None, recent_imps=258145
+- **Women Summer Invisible** — *not_supported* (conf 0.55)
+  Evidence: ctr=0.010634986817611334, impressions=118719000
+  Reasons: CTR healthy (0.0106)
 
-- **Women S Mmer Invisible** — *inconclusive* (conf 0.4)
-  Evidence: prior_ctr=0.0, recent_ctr=0.008492589422253855, pct_change=None, recent_imps=103973
+- **Men Athleisure Cooling** — *not_supported* (conf 0.55)
+  Evidence: ctr=0.020603476193708448, impressions=115959073
+  Reasons: CTR healthy (0.0206)
 
-- **Women Seamless Everyday** — *inconclusive* (conf 0.5)
-  Evidence: prior_ctr=0.008432747744349347, recent_ctr=0.007850964364195643, pct_change=-6.899096211475653, recent_imps=36892066
+- **M N Athleisure Cooling** — *not_supported* (conf 0.55)
+  Evidence: ctr=0.015947075409477235, impressions=694422
+  Reasons: CTR healthy (0.0159)
 
-- **Women Seamless Everydy** — *inconclusive* (conf 0.4)
-  Evidence: prior_ctr=0.0, recent_ctr=0.005261022684114215, pct_change=None, recent_imps=463408
+- **Men Thleisure Cooling** — *not_supported* (conf 0.55)
+  Evidence: ctr=0.025973583123479378, impressions=586519
+  Reasons: CTR healthy (0.0260)
 
-- **Women Studio S Orts** — *inconclusive* (conf 0.4)
-  Evidence: prior_ctr=0.0, recent_ctr=0.006554518146852243, pct_change=None, recent_imps=270653
+- **Men Athlei Ure Cooling** — *not_supported* (conf 0.55)
+  Evidence: ctr=0.019775365614794236, impressions=488082
+  Reasons: CTR healthy (0.0198)
 
-- **Women Studio Spo Ts** — *supported* (conf 0.85)
-  Evidence: prior_ctr=0.009461624087095812, recent_ctr=0.00615381378664675, pct_change=-34.96028028592261, recent_imps=190126
+- **Men Athleisure Cooli G** — *not_supported* (conf 0.55)
+  Evidence: ctr=0.025554251434533125, impressions=460080
+  Reasons: CTR healthy (0.0256)
 
+- **Me Athleisure Cooling** — *not_supported* (conf 0.55)
+  Evidence: ctr=0.017753816116435926, impressions=450720
+  Reasons: CTR healthy (0.0178)
+
+- **Men Athleisure Co Ling** — *not_supported* (conf 0.55)
+  Evidence: ctr=0.02502565786772856, impressions=365385
+  Reasons: CTR healthy (0.0250)
+
+- **Mn Athleisure Cooling** — *not_supported* (conf 0.55)
+  Evidence: ctr=0.029317773788150807, impressions=334200
+  Reasons: CTR healthy (0.0293)
+
+- **Men Ath Eisure Cooling** — *not_supported* (conf 0.55)
+  Evidence: ctr=0.022644867223960825, impressions=330406
+  Reasons: CTR healthy (0.0226)
+
+- **Men Atleisure Cooling** — *not_supported* (conf 0.55)
+  Evidence: ctr=0.017206363930232886, impressions=284604
+  Reasons: CTR healthy (0.0172)
+
+- **Men Athlisure Cooling** — *not_supported* (conf 0.55)
+  Evidence: ctr=0.018271165488188183, impressions=228119
+  Reasons: CTR healthy (0.0183)
+
+- **Men Athleis Re Cooling** — *not_supported* (conf 0.55)
+  Evidence: ctr=0.014031070774778363, impressions=180813
+  Reasons: CTR healthy (0.0140)
+
+- **Men Athleisurecooling** — *not_supported* (conf 0.55)
+  Evidence: ctr=0.022955073729261723, impressions=162622
+  Reasons: CTR healthy (0.0230)
+
+- **Men Athleiure Cooling** — *not_supported* (conf 0.55)
+  Evidence: ctr=0.02122413757679111, impressions=146013
+  Reasons: CTR healthy (0.0212)
+
+- **Men Athleisur Cooling** — *not_supported* (conf 0.55)
+  Evidence: ctr=0.020398059213783543, impressions=80792
+  Reasons: CTR healthy (0.0204)
+
+- **Men Athleisure Coling** — *not_supported* (conf 0.55)
+  Evidence: ctr=0.020029311187103077, impressions=57316
+  Reasons: CTR healthy (0.0200)
 
 ## Creative Recommendations
 
-### M N Bold Colors Drop
-Baseline CTR: 0.007626175852966539
-Keywords: seamless, confidence, every, day, new
-Variants:
-
-- Seamless — All-day comfort | Experience Comfort | Tone=Emotional; anchored to keywords ['seamless', 'confidence', 'every']
-
-- Confidence — Limited time — restock | Shop Now | Tone=Urgency; anchored to keywords ['seamless', 'confidence', 'every']
-
-- Every — Premium comfort at great price | Upgrade Today | Tone=Value; anchored to keywords ['seamless', 'confidence', 'every']
-
-- Day — Fix your fit today | Fix My Fit | Tone=Problem→Solution; anchored to keywords ['seamless', 'confidence', 'every']
-
-- New — Loved by thousands | See Why | Tone=SocialProof; anchored to keywords ['seamless', 'confidence', 'every']
-
-A/B plan: {'metric': 'CTR', 'min_sample_per_variant': 15192, 'duration_days': 7}
-
-
-### Men Bol Colors Drop
-Baseline CTR: 0.007057433649456638
-Keywords: men, ride, guarantee, best, selling
-Variants:
-
-- Men — All-day comfort | Experience Comfort | Tone=Emotional; anchored to keywords ['men', 'ride', 'guarantee']
-
-- Ride — Limited time — restock | Shop Now | Tone=Urgency; anchored to keywords ['men', 'ride', 'guarantee']
-
-- Guarantee — Premium comfort at great price | Upgrade Today | Tone=Value; anchored to keywords ['men', 'ride', 'guarantee']
-
-- Best — Fix your fit today | Fix My Fit | Tone=Problem→Solution; anchored to keywords ['men', 'ride', 'guarantee']
-
-- Selling — Loved by thousands | See Why | Tone=SocialProof; anchored to keywords ['men', 'ride', 'guarantee']
-
-A/B plan: {'metric': 'CTR', 'min_sample_per_variant': 20856, 'duration_days': 7}
-
-
-### Men Bold Col Rs Drop
-Baseline CTR: 0.00688723846780772
-Keywords: men, boxers, breathable, microfiber, moves
-Variants:
-
-- Men — All-day comfort | Experience Comfort | Tone=Emotional; anchored to keywords ['men', 'boxers', 'breathable']
-
-- Boxers — Limited time — restock | Shop Now | Tone=Urgency; anchored to keywords ['men', 'boxers', 'breathable']
-
-- Breathable — Premium comfort at great price | Upgrade Today | Tone=Value; anchored to keywords ['men', 'boxers', 'breathable']
-
-- Microfiber — Fix your fit today | Fix My Fit | Tone=Problem→Solution; anchored to keywords ['men', 'boxers', 'breathable']
-
-- Moves — Loved by thousands | See Why | Tone=SocialProof; anchored to keywords ['men', 'boxers', 'breathable']
-
-A/B plan: {'metric': 'CTR', 'min_sample_per_variant': 26705, 'duration_days': 7}
-
-
-### Men Comfortmax Lau Ch
-Baseline CTR: 0.00847681900130667
-Keywords: men, inner, vests, soft, confidence
-Variants:
-
-- Men — All-day comfort | Experience Comfort | Tone=Emotional; anchored to keywords ['men', 'inner', 'vests']
-
-- Inner — Limited time — restock | Shop Now | Tone=Urgency; anchored to keywords ['men', 'inner', 'vests']
-
-- Vests — Premium comfort at great price | Upgrade Today | Tone=Value; anchored to keywords ['men', 'inner', 'vests']
-
-- Soft — Fix your fit today | Fix My Fit | Tone=Problem→Solution; anchored to keywords ['men', 'inner', 'vests']
-
-- Confidence — Loved by thousands | See Why | Tone=SocialProof; anchored to keywords ['men', 'inner', 'vests']
-
-A/B plan: {'metric': 'CTR', 'min_sample_per_variant': 6046, 'duration_days': 7}
-
-
-### Men Premiu Modal
-Baseline CTR: 0.0
-Keywords: hot, comfy, men, trunks, off
-Variants:
-
-- Hot — All-day comfort | Experience Comfort | Tone=Emotional; anchored to keywords ['hot', 'comfy', 'men']
-
-- Comfy — Limited time — restock | Shop Now | Tone=Urgency; anchored to keywords ['hot', 'comfy', 'men']
-
-- Men — Premium comfort at great price | Upgrade Today | Tone=Value; anchored to keywords ['hot', 'comfy', 'men']
-
-- Trunks — Fix your fit today | Fix My Fit | Tone=Problem→Solution; anchored to keywords ['hot', 'comfy', 'men']
-
-- Off — Loved by thousands | See Why | Tone=SocialProof; anchored to keywords ['hot', 'comfy', 'men']
-
-A/B plan: {'metric': 'CTR', 'min_sample_per_variant': 11105, 'duration_days': 7}
-
-
-### Men Premium Mod L
-Baseline CTR: 0.005705687810982332
-Keywords: men, wire, free, ease, cloud
-Variants:
-
-- Men — All-day comfort | Experience Comfort | Tone=Emotional; anchored to keywords ['men', 'wire', 'free']
-
-- Wire — Limited time — restock | Shop Now | Tone=Urgency; anchored to keywords ['men', 'wire', 'free']
-
-- Free — Premium comfort at great price | Upgrade Today | Tone=Value; anchored to keywords ['men', 'wire', 'free']
-
-- Ease — Fix your fit today | Fix My Fit | Tone=Problem→Solution; anchored to keywords ['men', 'wire', 'free']
-
-- Cloud — Loved by thousands | See Why | Tone=SocialProof; anchored to keywords ['men', 'wire', 'free']
-
-A/B plan: {'metric': 'CTR', 'min_sample_per_variant': 3357, 'duration_days': 7}
-
-
-### Men Premium Odal
-Baseline CTR: 0.00655330159562324
-Keywords: men, invisible, under, tees, seamless
-Variants:
-
-- Men — All-day comfort | Experience Comfort | Tone=Emotional; anchored to keywords ['men', 'invisible', 'under']
-
-- Invisible — Limited time — restock | Shop Now | Tone=Urgency; anchored to keywords ['men', 'invisible', 'under']
-
-- Under — Premium comfort at great price | Upgrade Today | Tone=Value; anchored to keywords ['men', 'invisible', 'under']
-
-- Tees — Fix your fit today | Fix My Fit | Tone=Problem→Solution; anchored to keywords ['men', 'invisible', 'under']
-
-- Seamless — Loved by thousands | See Why | Tone=SocialProof; anchored to keywords ['men', 'invisible', 'under']
-
-A/B plan: {'metric': 'CTR', 'min_sample_per_variant': 5914, 'duration_days': 7}
-
-
-### W Men Summer Invisible
-Baseline CTR: 0.008323810225974122
-Keywords: ride, guarantee, best, selling, women
-Variants:
-
-- Ride — All-day comfort | Experience Comfort | Tone=Emotional; anchored to keywords ['ride', 'guarantee', 'best']
-
-- Guarantee — Limited time — restock | Shop Now | Tone=Urgency; anchored to keywords ['ride', 'guarantee', 'best']
-
-- Best — Premium comfort at great price | Upgrade Today | Tone=Value; anchored to keywords ['ride', 'guarantee', 'best']
-
-- Selling — Fix your fit today | Fix My Fit | Tone=Problem→Solution; anchored to keywords ['ride', 'guarantee', 'best']
-
-- Women — Loved by thousands | See Why | Tone=SocialProof; anchored to keywords ['ride', 'guarantee', 'best']
-
-A/B plan: {'metric': 'CTR', 'min_sample_per_variant': 13564, 'duration_days': 7}
-
-
-### Woen Cotton Classics
-Baseline CTR: 0.005438850577767148
-Keywords: breathable, microfiber, moves, limited, offer
-Variants:
-
-- Breathable — All-day comfort | Experience Comfort | Tone=Emotional; anchored to keywords ['breathable', 'microfiber', 'moves']
-
-- Microfiber — Limited time — restock | Shop Now | Tone=Urgency; anchored to keywords ['breathable', 'microfiber', 'moves']
-
-- Moves — Premium comfort at great price | Upgrade Today | Tone=Value; anchored to keywords ['breathable', 'microfiber', 'moves']
-
-- Limited — Fix your fit today | Fix My Fit | Tone=Problem→Solution; anchored to keywords ['breathable', 'microfiber', 'moves']
-
-- Offer — Loved by thousands | See Why | Tone=SocialProof; anchored to keywords ['breathable', 'microfiber', 'moves']
-
-A/B plan: {'metric': 'CTR', 'min_sample_per_variant': 11290, 'duration_days': 7}
-
-
-### Women Fit & Li T
-Baseline CTR: 0.007790195432799396
-Keywords: doctors, recommend, breathable, cotton, meet
-Variants:
-
-- Doctors — All-day comfort | Experience Comfort | Tone=Emotional; anchored to keywords ['doctors', 'recommend', 'breathable']
-
-- Recommend — Limited time — restock | Shop Now | Tone=Urgency; anchored to keywords ['doctors', 'recommend', 'breathable']
-
-- Breathable — Premium comfort at great price | Upgrade Today | Tone=Value; anchored to keywords ['doctors', 'recommend', 'breathable']
-
-- Cotton — Fix your fit today | Fix My Fit | Tone=Problem→Solution; anchored to keywords ['doctors', 'recommend', 'breathable']
-
-- Meet — Loved by thousands | See Why | Tone=SocialProof; anchored to keywords ['doctors', 'recommend', 'breathable']
-
-A/B plan: {'metric': 'CTR', 'min_sample_per_variant': 12908, 'duration_days': 7}
-
-
-### Women S Mmer Invisible
-Baseline CTR: 0.008492589422253855
-Keywords: summer, ready, essentials, sweat, wicking
-Variants:
-
-- Summer — All-day comfort | Experience Comfort | Tone=Emotional; anchored to keywords ['summer', 'ready', 'essentials']
-
-- Ready — Limited time — restock | Shop Now | Tone=Urgency; anchored to keywords ['summer', 'ready', 'essentials']
-
-- Essentials — Premium comfort at great price | Upgrade Today | Tone=Value; anchored to keywords ['summer', 'ready', 'essentials']
-
-- Sweat — Fix your fit today | Fix My Fit | Tone=Problem→Solution; anchored to keywords ['summer', 'ready', 'essentials']
-
-- Wicking — Loved by thousands | See Why | Tone=SocialProof; anchored to keywords ['summer', 'ready', 'essentials']
-
-A/B plan: {'metric': 'CTR', 'min_sample_per_variant': 5199, 'duration_days': 7}
-
-
 ### Women Seamless Everyday
-Baseline CTR: 0.007850964364195643
-Keywords: women, bras, boyshorts, soft, wire
-Variants:
+- Women Seamless Everyday — feel the comfort | Try now
+- Women Seamless Everyday — limited time offer | Shop today
+- Women Seamless Everyday — customer favorite | Rated 4.8★
+- Women Seamless Everyday — save more with bundle | Buy now
 
-- Women — All-day comfort | Experience Comfort | Tone=Emotional; anchored to keywords ['women', 'bras', 'boyshorts']
+### Men ComfortMax Launch
+- Men ComfortMax Launch — feel the comfort | Try now
+- Men ComfortMax Launch — limited time offer | Shop today
+- Men ComfortMax Launch — customer favorite | Rated 4.8★
+- Men ComfortMax Launch — save more with bundle | Buy now
 
-- Bras — Limited time — restock | Shop Now | Tone=Urgency; anchored to keywords ['women', 'bras', 'boyshorts']
+### Men Bold Colors Drop
+- Men Bold Colors Drop — feel the comfort | Try now
+- Men Bold Colors Drop — limited time offer | Shop today
+- Men Bold Colors Drop — customer favorite | Rated 4.8★
+- Men Bold Colors Drop — save more with bundle | Buy now
 
-- Boyshorts — Premium comfort at great price | Upgrade Today | Tone=Value; anchored to keywords ['women', 'bras', 'boyshorts']
+### Women Cotton Classics
+- Women Cotton Classics — feel the comfort | Try now
+- Women Cotton Classics — limited time offer | Shop today
+- Women Cotton Classics — customer favorite | Rated 4.8★
+- Women Cotton Classics — save more with bundle | Buy now
 
-- Soft — Fix your fit today | Fix My Fit | Tone=Problem→Solution; anchored to keywords ['women', 'bras', 'boyshorts']
+### Men Premium Modal
+- Men Premium Modal — feel the comfort | Try now
+- Men Premium Modal — limited time offer | Shop today
+- Men Premium Modal — customer favorite | Rated 4.8★
+- Men Premium Modal — save more with bundle | Buy now
 
-- Wire — Loved by thousands | See Why | Tone=SocialProof; anchored to keywords ['women', 'bras', 'boyshorts']
+### Women Studio Sports
+- Women Studio Sports — feel the comfort | Try now
+- Women Studio Sports — limited time offer | Shop today
+- Women Studio Sports — customer favorite | Rated 4.8★
+- Women Studio Sports — save more with bundle | Buy now
 
-A/B plan: {'metric': 'CTR', 'min_sample_per_variant': 1844604, 'duration_days': 7}
+### Women Fit Lift
+- Women Fit Lift — feel the comfort | Try now
+- Women Fit Lift — limited time offer | Shop today
+- Women Fit Lift — customer favorite | Rated 4.8★
+- Women Fit Lift — save more with bundle | Buy now
 
+### Men Signature Soft
+- Men Signature Soft — feel the comfort | Try now
+- Men Signature Soft — limited time offer | Shop today
+- Men Signature Soft — customer favorite | Rated 4.8★
+- Men Signature Soft — save more with bundle | Buy now
 
-### Women Seamless Everydy
-Baseline CTR: 0.005261022684114215
-Keywords: doctors, recommend, breathable, organic, cotton
-Variants:
+### Women Summer Invisible
+- Women Summer Invisible — feel the comfort | Try now
+- Women Summer Invisible — limited time offer | Shop today
+- Women Summer Invisible — customer favorite | Rated 4.8★
+- Women Summer Invisible — save more with bundle | Buy now
 
-- Doctors — All-day comfort | Experience Comfort | Tone=Emotional; anchored to keywords ['doctors', 'recommend', 'breathable']
+### Men Athleisure Cooling
+- Men Athleisure Cooling — feel the comfort | Try now
+- Men Athleisure Cooling — limited time offer | Shop today
+- Men Athleisure Cooling — customer favorite | Rated 4.8★
+- Men Athleisure Cooling — save more with bundle | Buy now
 
-- Recommend — Limited time — restock | Shop Now | Tone=Urgency; anchored to keywords ['doctors', 'recommend', 'breathable']
+### M N Athleisure Cooling
+- M N Athleisure Cooling — feel the comfort | Try now
+- M N Athleisure Cooling — limited time offer | Shop today
+- M N Athleisure Cooling — customer favorite | Rated 4.8★
+- M N Athleisure Cooling — save more with bundle | Buy now
 
-- Breathable — Premium comfort at great price | Upgrade Today | Tone=Value; anchored to keywords ['doctors', 'recommend', 'breathable']
+### Men Thleisure Cooling
+- Men Thleisure Cooling — feel the comfort | Try now
+- Men Thleisure Cooling — limited time offer | Shop today
+- Men Thleisure Cooling — customer favorite | Rated 4.8★
+- Men Thleisure Cooling — save more with bundle | Buy now
 
-- Organic — Fix your fit today | Fix My Fit | Tone=Problem→Solution; anchored to keywords ['doctors', 'recommend', 'breathable']
+### Men Athlei Ure Cooling
+- Men Athlei Ure Cooling — feel the comfort | Try now
+- Men Athlei Ure Cooling — limited time offer | Shop today
+- Men Athlei Ure Cooling — customer favorite | Rated 4.8★
+- Men Athlei Ure Cooling — save more with bundle | Buy now
 
-- Cotton — Loved by thousands | See Why | Tone=SocialProof; anchored to keywords ['doctors', 'recommend', 'breathable']
+### Men Athleisure Cooli G
+- Men Athleisure Cooli G — feel the comfort | Try now
+- Men Athleisure Cooli G — limited time offer | Shop today
+- Men Athleisure Cooli G — customer favorite | Rated 4.8★
+- Men Athleisure Cooli G — save more with bundle | Buy now
 
-A/B plan: {'metric': 'CTR', 'min_sample_per_variant': 23171, 'duration_days': 7}
+### Me Athleisure Cooling
+- Me Athleisure Cooling — feel the comfort | Try now
+- Me Athleisure Cooling — limited time offer | Shop today
+- Me Athleisure Cooling — customer favorite | Rated 4.8★
+- Me Athleisure Cooling — save more with bundle | Buy now
 
+### Men Athleisure Co Ling
+- Men Athleisure Co Ling — feel the comfort | Try now
+- Men Athleisure Co Ling — limited time offer | Shop today
+- Men Athleisure Co Ling — customer favorite | Rated 4.8★
+- Men Athleisure Co Ling — save more with bundle | Buy now
 
-### Women Studio S Orts
-Baseline CTR: 0.006554518146852243
-Keywords: invisible, under, tees, seamless, women
-Variants:
+### Mn Athleisure Cooling
+- Mn Athleisure Cooling — feel the comfort | Try now
+- Mn Athleisure Cooling — limited time offer | Shop today
+- Mn Athleisure Cooling — customer favorite | Rated 4.8★
+- Mn Athleisure Cooling — save more with bundle | Buy now
 
-- Invisible — All-day comfort | Experience Comfort | Tone=Emotional; anchored to keywords ['invisible', 'under', 'tees']
+### Men Ath Eisure Cooling
+- Men Ath Eisure Cooling — feel the comfort | Try now
+- Men Ath Eisure Cooling — limited time offer | Shop today
+- Men Ath Eisure Cooling — customer favorite | Rated 4.8★
+- Men Ath Eisure Cooling — save more with bundle | Buy now
 
-- Under — Limited time — restock | Shop Now | Tone=Urgency; anchored to keywords ['invisible', 'under', 'tees']
+### Men Atleisure Cooling
+- Men Atleisure Cooling — feel the comfort | Try now
+- Men Atleisure Cooling — limited time offer | Shop today
+- Men Atleisure Cooling — customer favorite | Rated 4.8★
+- Men Atleisure Cooling — save more with bundle | Buy now
 
-- Tees — Premium comfort at great price | Upgrade Today | Tone=Value; anchored to keywords ['invisible', 'under', 'tees']
+### Men Athlisure Cooling
+- Men Athlisure Cooling — feel the comfort | Try now
+- Men Athlisure Cooling — limited time offer | Shop today
+- Men Athlisure Cooling — customer favorite | Rated 4.8★
+- Men Athlisure Cooling — save more with bundle | Buy now
 
-- Seamless — Fix your fit today | Fix My Fit | Tone=Problem→Solution; anchored to keywords ['invisible', 'under', 'tees']
+### Men Athleis Re Cooling
+- Men Athleis Re Cooling — feel the comfort | Try now
+- Men Athleis Re Cooling — limited time offer | Shop today
+- Men Athleis Re Cooling — customer favorite | Rated 4.8★
+- Men Athleis Re Cooling — save more with bundle | Buy now
 
-- Women — Loved by thousands | See Why | Tone=SocialProof; anchored to keywords ['invisible', 'under', 'tees']
+### Men Athleisurecooling
+- Men Athleisurecooling — feel the comfort | Try now
+- Men Athleisurecooling — limited time offer | Shop today
+- Men Athleisurecooling — customer favorite | Rated 4.8★
+- Men Athleisurecooling — save more with bundle | Buy now
 
-A/B plan: {'metric': 'CTR', 'min_sample_per_variant': 13533, 'duration_days': 7}
+### Men Athleiure Cooling
+- Men Athleiure Cooling — feel the comfort | Try now
+- Men Athleiure Cooling — limited time offer | Shop today
+- Men Athleiure Cooling — customer favorite | Rated 4.8★
+- Men Athleiure Cooling — save more with bundle | Buy now
 
+### Men Athleisur Cooling
+- Men Athleisur Cooling — feel the comfort | Try now
+- Men Athleisur Cooling — limited time offer | Shop today
+- Men Athleisur Cooling — customer favorite | Rated 4.8★
+- Men Athleisur Cooling — save more with bundle | Buy now
 
-### Women Studio Spo Ts
-Baseline CTR: 0.00615381378664675
-Keywords: women, panties, sports, bras, push
-Variants:
-
-- Women — All-day comfort | Experience Comfort | Tone=Emotional; anchored to keywords ['women', 'panties', 'sports']
-
-- Panties — Limited time — restock | Shop Now | Tone=Urgency; anchored to keywords ['women', 'panties', 'sports']
-
-- Sports — Premium comfort at great price | Upgrade Today | Tone=Value; anchored to keywords ['women', 'panties', 'sports']
-
-- Bras — Fix your fit today | Fix My Fit | Tone=Problem→Solution; anchored to keywords ['women', 'panties', 'sports']
-
-- Push — Loved by thousands | See Why | Tone=SocialProof; anchored to keywords ['women', 'panties', 'sports']
-
-A/B plan: {'metric': 'CTR', 'min_sample_per_variant': 9507, 'duration_days': 7}
-
+### Men Athleisure Coling
+- Men Athleisure Coling — feel the comfort | Try now
+- Men Athleisure Coling — limited time offer | Shop today
+- Men Athleisure Coling — customer favorite | Rated 4.8★
+- Men Athleisure Coling — save more with bundle | Buy now
